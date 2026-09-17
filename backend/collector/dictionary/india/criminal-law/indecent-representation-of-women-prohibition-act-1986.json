@@ -1,0 +1,123 @@
+{
+  "schema_version": "4.0",
+  "record_type": "indian_bare_act_section_index",
+  "country": "India",
+  "law_type": "Criminal Law",
+  "law": "Indecent Representation of Women (Prohibition) Act, 1986",
+  "what": "This law prohibits the publication and advertisement of indecent representations of women in any form, including advertisements, books, pamphlets, papers, films, and other materials. It also sets penalties for those who break these rules, which can include imprisonment and fines.",
+  "section_count": 10,
+  "sections": {
+    "1": {
+      "section": "1",
+      "title": "Short title, extent and commencement",
+      "what": "The Indecent Representation of Women (Prohibition) Act, 1986 may be called, extends to the whole of India and comes into force on a date determined by the Central Government.",
+      "chapter": ""
+    },
+    "2": {
+      "section": "2",
+      "title": "Definitions",
+      "what": "This section defines key terms used in the Indecent Representation of Women (Prohibition) Act 1986: advertisement, distribution, indecent representation of women, label, and package. These terms are defined to help clarify their meanings for the purpose of enforcing the Act.",
+      "chapter": ""
+    },
+    "3": {
+      "section": "3",
+      "title": "Prohibition of advertisements containing indecent representation of women",
+      "what": "No person shall publish an advertisement with indecent representation of women in any form.",
+      "chapter": ""
+    },
+    "4": {
+      "section": "4",
+      "title": "Prohibition of publication or sending by post of books, pamphlets, etc., containing indecent",
+      "what": "No person shall produce, sell, let to hire, distribute, circulate or send by post any book, pamphlet, paper, slide, film, writing, drawing, painting, photograph, representation or figure which contains indecent representation of women in any form.",
+      "chapter": ""
+    },
+    "5": {
+      "section": "5",
+      "title": "Powers to enter and search",
+      "what": "A Gazetted Officer can enter and search places at reasonable times, seize prohibited materials, and examine records. No entry is made into a private dwelling house without a warrant.",
+      "chapter": ""
+    },
+    "6": {
+      "section": "6",
+      "title": "Penalty",
+      "what": "Any person who breaks the rules mentioned in sections 3 or 4 can get: - Up to 2 years in prison and up to 2000 rupees as a fine. - If they break the rules again, they will have to spend at least 6 months in prison and pay a fine of at least 10000 rupees.",
+      "chapter": ""
+    },
+    "7": {
+      "section": "7",
+      "title": "Offences by companies",
+      "what": "Offences committed by companies: Those in charge of company's business are guilty and liable, but may be exempt if they show lack of knowledge or due diligence.",
+      "chapter": ""
+    },
+    "8": {
+      "section": "8",
+      "title": "Offences to be cognizable and bailable",
+      "what": "An offence punishable under the Indecent Representation of Women (Prohibition) Act, 1986 is both bailable and cognizable.",
+      "chapter": ""
+    },
+    "9": {
+      "section": "9",
+      "title": "Protection of action taken in good faith",
+      "what": "The Central Government and state governments cannot be sued for actions taken in good faith while enforcing the act.",
+      "chapter": ""
+    },
+    "10": {
+      "section": "10",
+      "title": "Power to make rules",
+      "what": "The Central Government may make rules to carry out the provisions of this Act",
+      "chapter": ""
+    }
+  },
+  "key_points": [
+    "The act prohibits indecent representation of women in any form"
+  ],
+  "section_references": [
+    "Section 3",
+    "Section 4",
+    "Section 6"
+  ],
+  "pdf_extraction": {
+    "page_count": 4,
+    "extracted_page_count": 4,
+    "blank_pages": [],
+    "total_characters": 10249,
+    "full_text_extraction": true,
+    "parsed_section_count": 10,
+    "pages": [
+      {
+        "page": 1,
+        "characters": 680
+      },
+      {
+        "page": 2,
+        "characters": 3186
+      },
+      {
+        "page": 3,
+        "characters": 3911
+      },
+      {
+        "page": 4,
+        "characters": 2374
+      }
+    ]
+  },
+  "llm_processing": {
+    "model": "llama3.2:3b",
+    "mode": "numbered_section_indexing",
+    "section_count": 10,
+    "processed_section_characters": 8679,
+    "every_parsed_section_indexed": true
+  },
+  "source": {
+    "name": "Drishti Judiciary Bare Acts",
+    "url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306490_indecent__representation_of_women_(prohibition)_act,_1986.pdf",
+    "catalog_url": "https://drishtijudiciary.com/downloads/general-bare-acts/criminal-law-bare-acts",
+    "category": "Criminal Law",
+    "listed_date": "18-Mar-2025",
+    "format": "pdf",
+    "content_sha256": "df85b979af4d743710ba2a34eb140330a8bfcbe12c96c9ff15c3313d7b3f5d2a",
+    "collected_at": "2026-09-16T11:02:56Z"
+  },
+  "notice": "Each 'what' value is an LLM explanation of the corresponding extracted statutory section. Verify exact wording and current legal status against the downloaded PDF."
+}

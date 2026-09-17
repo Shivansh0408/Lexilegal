@@ -1,0 +1,338 @@
+{
+  "law": "Juvenile Justice Act, 2015",
+  "sections": {
+    "1": {
+      "what": "This Act extends to the whole of India and shall come into force on a date appointed by the Central Government."
+    },
+    "2": {
+      "what": "Definitions of various terms used in the Juvenile Justice Act, 2015 including definitions of child, orphan, child in need of care and protection, etc."
+    },
+    "3": {
+      "what": "The Central Government, State Governments, and other agencies shall be guided by 16 fundamental principles while implementing the provisions of this Act, including: the principle of presumption of innocence, dignity and worth, participation, best interest, family responsibility, safety, positive measures, non-stigmatising semantics, non-waiver of rights, equality and non-discrimination, right to privacy and confidentiality, institutionalisation as a measure of last resort, repatriation and restoration, fresh start, diversion, and principles of natural justice."
+    },
+    "4": {
+      "what": "A Juvenile Justice Board consists of a Principal Magistrate and at least two social workers, with specific qualifications and experience requirements. The board's members must be free from certain disqualifications, including past human rights violations or convictions involving moral turpitude."
+    },
+    "5": {
+      "what": "If a child turns 18 during an investigation under this Act, the investigation can continue with the same rules as for a child, even though they are now an adult."
+    },
+    "6": {
+      "what": "A person who committed an offence before turning 18 years old will be treated as a child during the investigation process, and if not released on bail, must be placed in a safe place."
+    },
+    "7": {
+      "what": "The Board shall meet at times and follow rules, ensure child-friendly procedures, and have non-intimidating venues."
+    },
+    "8": {
+      "what": "The Board has exclusive power to deal with proceedings under this Act in its area of jurisdiction, and can exercise powers conferred by the High Court and Children's Court in certain cases."
+    },
+    "9": {
+      "what": "A Magistrate who is not empowered to exercise powers under the Act must record their opinion and forward the child to the Board having jurisdiction if they believe the person before them is a child. If a person claims to be a child in court, the court must investigate and determine the age of the person. The court's finding will be recorded and used for passing orders and sentencing. If a person was a child when committing an offence, they will be forwarded to the Board for further action."
+    },
+    "10": {
+      "what": "A child alleged to be in conflict with law must be taken to a special juvenile police unit or a designated child welfare officer within 24 hours of being apprehended, and not put in a police lockup or jail. The government must make rules for how this is done."
+    },
+    "11": {
+      "what": "A person in charge of a child who breaks the law must provide for the child's maintenance as if they were the child's parent, until the order is lifted."
+    },
+    "12": {
+      "what": "A person who appears to be a child and is accused of committing an offence can be released on bail with or without surety, under supervision, or care of a fit person, unless there are reasonable grounds to believe that releasing them would put them in danger or defeat the ends of justice."
+    },
+    "13": {
+      "what": "A police officer must inform a child's parent or guardian and a probation officer (or a Child Welfare Officer if no probation officer is available) about the child's situation within two weeks of the child being apprehended, providing a social investigation report with information on the child's background and other relevant circumstances."
+    },
+    "14": {
+      "what": "Inquiry by Board regarding child in conflict with law: The Board shall hold an inquiry, pass orders, and complete it within four months unless extended for two more months. Preliminary assessments for heinous offences must be completed within three months. If the inquiry remains inconclusive, proceedings will terminate. The Board must ensure a fair and speedy inquiry by taking steps such as protecting children from ill-treatment, conducting simple proceedings, giving children the opportunity to be heard, and disposing of cases through summary or trial procedures."
+    },
+    "15": {
+      "what": "The Board must assess a child's mental and physical capacity, ability to understand consequences, and circumstances surrounding an alleged heinous offence, with or without expert help, before making a decision."
+    },
+    "16": {
+      "what": "The Chief Judicial Magistrate or the Chief Metropolitan Magistrate shall review the pendency of cases of the Board once in every three months, and shall direct the Board to increase the frequency of its sittings or may recommend the constitution of additional Boards."
+    },
+    "17": {
+      "what": "If a child is not found to have committed an offense, the Board can pass an order stating this. If the child needs care and protection, the Board can refer them to a committee."
+    },
+    "18": {
+      "what": "A child can be dealt with in one of the following ways if found guilty of an offence: (a) allowed to go home after advice or counselling, (b) directed to participate in group counselling and activities, (c) ordered to perform community service, (d) ordered to pay fine, (e) released on probation for a period not exceeding three years, (f) sent to a special home for reformative services, or (g) transferred to an adult court if the child's behaviour is deemed unsuitable for a juvenile court."
+    },
+    "19": {
+      "what": "The Juvenile Justice Act, 2015 states that a Children's Court has the power to decide whether a child should be tried as an adult or not. The court must consider the child's special needs, fair trial, and rehabilitation. If the child is found guilty, the court must create an individual care plan for their rehabilitation. The child will be sent to a place of safety until they turn 21 years old, where they will receive reformative services such as education and counseling. The court will also conduct periodic follow-up reports to ensure the child's progress and well-being."
+    },
+    "20": {
+      "what": "A 21-year-old child who has not completed their stay in a safe place must undergo an evaluation to see if they have changed and can contribute to society. The court will consider the child's progress records and expert evaluations before deciding whether to release them on certain conditions or complete the remaining term in jail."
+    },
+    "21": {
+      "what": "A child cannot be sentenced to death or life imprisonment without the possibility of release."
+    },
+    "22": {
+      "what": "No proceeding can be instituted against a child under Chapter VIII of the Code of Criminal Procedure."
+    },
+    "23": {
+      "what": "A child alleged to be in conflict with law cannot have joint proceedings with an adult who is not a child."
+    },
+    "24": {
+      "what": "A child who commits an offence and is dealt with under this Act cannot get a disqualification for committing another offence."
+    },
+    "25": {
+      "what": "Proceedings in pending cases to continue as usual"
+    },
+    "26": {
+      "what": "A police officer can take charge of a child who has run away from a special home or institution, and the child must be produced before the Board that made the original order within 24 hours."
+    },
+    "27": {
+      "what": "Child Welfare Committee: Composition, Qualifications, Appointment, Term, Powers, Functions, and Accountability."
+    },
+    "28": {
+      "what": "The Committee must meet at least 20 days a month, follow its own rules and procedures for meetings, and make decisions by majority vote unless otherwise specified."
+    },
+    "29": {
+      "what": "The Committee has the authority to dispose of cases related to children's care, protection, treatment, development, and rehabilitation, as well as provide for their basic needs and protection."
+    },
+    "30": {
+      "what": "The Committee shall include— taking cognizance of and receiving the children produced before it; conducting inquiry on all issues relating to and affecting the safety and well-being of the children under this Act; directing the Child Welfare Officers or probation officers or District Child Protection Unit or non-governmental organisations to conduct social investigation and submit a report before the Committee; conducting inquiry for declaring fit persons for care of children in need of care and protection; directing placement of a child in foster care; ensuring care, protection, appropriate rehabilitation or restoration of children in need of care and protection, based on the child's individual care plan and passing necessary directions to parents or guardians or fit persons or children's homes or fit facility in this regard; selecting registered institution for placement of each child requiring institutional support, based on the child's age, gender, disability and needs and keeping in mind the available capacity of the institution; conducting at least two inspection visits per month of residential facilities for children in need of care and protection and recommending action for improvement in quality of services to the District Child Protection Unit and the State Government; certifying the execution of the surrender deed by the parents and ensuring that they are given time to reconsider their decision as well as making all efforts to keep the family together; ensuring that all efforts are made for restoration of abandoned or lost children to their families following due process, as may be prescribed; declaration of orphan, abandoned and surrendered child as legally free for adoption after due inquiry; taking suo motu cognizance of cases and reaching out to children in need of care and protection, who are not produced before the Committee, provided that such decision is taken by at least three members; taking action for rehabilitation of sexually abused children who are reported as children in need of care and protection to the Committee by Special Juvenile Police Unit or local police, as the case may be, under the Protection of Children from Sexual Offences Act, 2012; dealing with cases referred by the Board under sub-section (2) of section 17; co-ordinate with the police, labour department and other agencies involved in the care and protection of children with support of the District Child Protection Unit or the State Government; in case of a complaint of abuse of a child in any child care institution, the Committee shall conduct an inquiry and give directions to the police or the District Child Protection Unit or labour department or childline services, as the case may be; accessing appropriate legal services for children; such other functions and responsibilities, as may be prescribed."
+    },
+    "31": {
+      "what": "A child in need of care and protection can be produced before a committee within 24 hours by authorized persons such as police officers, public servants, social workers, and children themselves."
+    },
+    "32": {
+      "what": "Any individual or police officer must report to Childline Services, nearest police station, Child Welfare Committee, or District Child Protection Unit within 24 hours if they find a child who appears abandoned or lost, or an orphan without family support."
+    },
+    "33": {
+      "what": "If you don't report information about a child when required by law (within the time limit specified), it's considered a crime."
+    },
+    "34": {
+      "what": "A person who did not report a crime under Section 33 may face up to 6 months in prison, a fine of ₹10,000, or both."
+    },
+    "35": {
+      "what": "A parent or guardian can surrender their child due to physical, emotional, and social factors beyond their control. The child's welfare will be assessed through an inquiry and counselling process. If approved, a surrender deed will be signed. Parents/guardians have two months to reconsider their decision. During this time, the child may remain with them under supervision or be placed in a specialized adoption agency or children's home."
+    },
+    "36": {
+      "what": "The Committee must hold an inquiry into a child's situation, pass an order to send the child to a suitable facility or person, and review the child's placement every six months. The committee must complete its investigation within 15 days and submit a quarterly report to the District Magistrate. If the pendency of cases continues after three months, the State Government may terminate the Committee and constitute a new one. A standing panel of eligible persons will be maintained in anticipation of termination."
+    },
+    "37": {
+      "what": "The Committee can pass orders regarding a child in need of care and protection, including declaring the child's needs, restoring the child to their family, placing the child in a facility for adoption or foster care, providing directions for the child's care and rehabilitation, and declaring the child legally free for adoption."
+    },
+    "38": {
+      "what": "Procedure for declaring a child legally free for adoption: A child can be declared legally free for adoption if they are an orphan or abandoned and efforts to trace their parents/guardians have been made. The declaration must be made within 2 months for children under 2 years old and 4 months for those over 2 years old. The decision is made by at least 3 members of the Committee, and certain exceptions apply, such as for mentally retarded parents or unwanted children of sexual assault victims."
+    },
+    "39": {
+      "what": "The process of rehabilitation and social integration for children under this Act shall be based on individual care plans, with options including family-based care, adoption, foster care, or institutional care. Efforts will be made to keep siblings together unless it's in their best interest not to. Children in conflict with the law may receive rehabilitation and social integration in observation homes, special homes, or facilities. Children who need care and protection can be placed in institutions or with a fit person/facility on a temporary or long-term basis. Financial support will be provided to children leaving institutional care or those in conflict with the law at 18 years old."
+    },
+    "40": {
+      "what": "The restoration and protection of a child is the prime objective of any Children’s Home, Specialised Adoption Agency or open shelter. The goal is to restore a child to their parents, guardian, or fit person after determining their suitability."
+    },
+    "41": {
+      "what": "All institutions meant for housing children in need of care and protection or children in conflict with law shall be registered under the Juvenile Justice Act, 2015, regardless of grants received, provided they had valid registration under the Juvenile Justice (Care and Protection of Children) Act, 2000."
+    },
+    "42": {
+      "what": "Any person in charge of an institution housing children in need of care and protection and children in conflict with law who fails to comply with section 41 shall be punished with imprisonment up to 1 year, a fine of not less than ₹1 lakh, or both. Every 30-day delay in applying for registration is considered a separate offence."
+    },
+    "43": {
+      "what": "Open shelters: The State Government can establish and maintain open shelters for children in need of residential support, with the objective of protecting them from abuse or helping them stay off the streets."
+    },
+    "44": {
+      "what": "Children in need of care and protection can be placed in foster care with a suitable family, ensuring their well-being and safety."
+    },
+    "45": {
+      "what": "The State Government shall make rules for various programmes of sponsorship of children, including individual, group, or community sponsorship. The criteria for sponsorship include: a mother who is a widow, divorced, or abandoned; orphaned children living with extended family; parents with life-threatening diseases; incapacitated parents due to accident; and the duration of sponsorship may be prescribed."
+    },
+    "46": {
+      "what": "A child who leaves a child care institution at 18 can receive financial support to reintegrate into society."
+    },
+    "47": {
+      "what": "The State Government must establish and maintain observation homes in every district or group of districts for temporary reception, care, and rehabilitation of children alleged to be in conflict with law during an inquiry. The government can also register non-governmental institutions if they deem them suitable."
+    },
+    "48": {
+      "what": "The State Government may establish special homes for children who have committed an offence, which must be registered and managed according to specific rules."
+    },
+    "49": {
+      "what": "A state government must set up at least one place of safety for a person between 16-18 years old who is accused or convicted of committing a serious crime."
+    },
+    "50": {
+      "what": "The State Government may establish and maintain Children's Homes in every district or group of districts to provide care, treatment, education, training, development, and rehabilitation for children in need of care and protection."
+    },
+    "51": {
+      "what": "A facility run by a governmental organisation or a registered voluntary/NGO can temporarily take care of a child if it meets certain suitability criteria, as determined by an inquiry."
+    },
+    "52": {
+      "what": "A person can temporarily care for a child if they are verified by the Board or Committee and recognized to do so."
+    },
+    "53": {
+      "what": "The institutions registered under this Act must provide rehabilitation and re-integration services to children, including basic needs, education, skill development, mental health interventions, recreational activities, legal aid, case management, birth registration, and other services as needed, while ensuring the well-being of the child."
+    },
+    "54": {
+      "what": "The State Government shall appoint inspection committees for institutions registered under this Act, which must conduct visits to facilities housing children at least once every three months, submit reports within a week, and take action within a month."
+    },
+    "55": {
+      "what": "The Central Government or State Government may independently evaluate the functioning of certain juvenile justice structures at a prescribed period and through prescribed persons or institutions."
+    },
+    "56": {
+      "what": "Adoption: Ensuring right to family for orphan, abandoned and surrendered children; adoption by relatives; exceptions and procedures."
+    },
+    "57": {
+      "what": "Prospective adoptive parents must be physically fit, financially sound, mentally alert, and highly motivated to provide a good upbringing to the child."
+    },
+    "58": {
+      "what": "Indian prospective adoptive parents living in India can apply to a Specialised Adoption Agency to adopt an orphan, abandoned or surrendered child, following specific procedures and regulations."
+    },
+    "59": {
+      "what": "Procedure for inter-country adoption of an orphan or abandoned or surrendered child: If a child cannot be placed with an Indian or non-resident Indian prospective adoptive parent within 60 days, the child can be free for inter-country adoption. Children with physical and mental disability, siblings, and children above 5 years old may be given preference. Non-resident Indians and overseas citizens of India are given priority in adopting Indian children. Prospective adoptive parents living abroad can apply to an authorized foreign adoption agency or Central Authority to adopt a child from India. The Authority will examine the application, refer it to a Specialized Adoption Agency, match the child with the prospective adoptive parents, and obtain an adoption order. The Authority will also ensure the submission of progress reports about the child in the adoptive family."
+    },
+    "60": {
+      "what": "A relative living abroad must obtain an order from a District Magistrate and apply for a no objection certificate from the Authority before adopting a child from India, and then follow specific procedures to bring the child back to their country."
+    },
+    "61": {
+      "what": "The District Magistrate must ensure that an adoption is for the child's welfare, considers the child's wishes (if possible), and no payment or reward is given in exchange for the adoption."
+    },
+    "62": {
+      "what": "Additional procedural requirements and documentation for adoptions by Indian and non-Indian prospective adoptive parents, including timelines for disposal of adoption cases."
+    },
+    "63": {
+      "what": "A child's rights and relationships with their birth family and adoptive parents change when an adoption order is made. The child becomes a member of the adoptive family and the adoptive parents become the child's legal parents, starting from the date the adoption order takes effect. All ties to the child's biological family are severed and replaced by those created through the adoption."
+    },
+    "64": {
+      "what": "Information regarding all adoption orders issued by the District Magistrate shall be forwarded to the Authority on a monthly basis, as per the adoption regulations framed by the Authority, to maintain data on adoption."
+    },
+    "65": {
+      "what": "The State Government must: 1. Recognise one or more institutions as Specialised Adoption Agencies for rehabilitating orphan, abandoned or surrendered children through adoption and non-institutional care. 2. Inform the Authority of recognised agencies' details and certificates. 3. Inspect agencies annually and take action if needed. 4. Punish defaulting agencies with fines up to ₹50,000 and withdraw recognition in repeated cases."
+    },
+    "66": {
+      "what": "Institutions must report, produce, and declare orphan or abandoned children legally free for adoption, develop linkages with Specialised Adoption Agencies, and provide relevant records."
+    },
+    "67": {
+      "what": "The State Government shall set up a State Adoption Resource Agency for dealing with adoptions and related matters in the State under the guidance of Authority."
+    },
+    "68": {
+      "what": "The existing Central Adoption Resource Agency shall be deemed to have been constituted as the Central Adoption Resource Authority to perform functions such as promoting domestic adoptions, facilitating inter-State adoptions, regulating international adoptions, and carrying out functions under the Hague Convention."
+    },
+    "69": {
+      "what": "The Authority has a Steering Committee with 7 members: Secretary of Ministry of Women and Child Development, Joint Secretaries dealing with Authority and Finance, State Adoption Resource Agency, Specialised Adoption Agencies, adoptive parent, adoptee, and advocate/ professor. The committee oversees the Authority's functioning, approves its budget and accounts, adopts recruitment rules, and has other functions as vested by the Central Government."
+    },
+    "70": {
+      "what": "The Juvenile Justice Act, 2015 gives the Authority the power to issue instructions to various agencies and institutions, recommend actions against officials, forward cases to magistrates, and exercise any other powers vested in it by the Central Government. In adoption cases, the Authority's decision prevails in case of disagreements."
+    },
+    "71": {
+      "what": "The Authority must submit an annual report to the Central Government, which will then be presented in both Houses of Parliament."
+    },
+    "72": {
+      "what": "The Central Government pays grants to the Authority from Parliament-approved funds for performing its functions under the Juvenile Justice Act, 2015."
+    },
+    "73": {
+      "what": "The Authority must maintain proper accounts and records, prepare an annual statement of accounts, and have its accounts audited by the Comptroller and Auditor-General at specified intervals."
+    },
+    "74": {
+      "what": "No report in any newspaper, magazine, news-sheet or audio-visual media can disclose the name, address or school of a child involved in law conflict, need of care and protection or as a crime victim or witness, unless it is in the best interest of the child."
+    },
+    "75": {
+      "what": "Punishment for cruelty to a child: Imprisonment for up to 3 years or fine of up to ₹1 lakh, or both. Exceptions: Abandonment due to circumstances beyond control; Offences committed by organisation employees; Physical incapacitation or mental illness."
+    },
+    "76": {
+      "what": "Employing or using a child for begging is punishable by up to 5 years imprisonment and a fine of ₹1 lakh. If the person causes serious harm, they can face up to 10 years imprisonment and a fine of ₹5 lakh."
+    },
+    "77": {
+      "what": "Giving intoxicating liquor or narcotic drug to a child can lead to imprisonment of up to 7 years and a fine of up to ₹1 lakh."
+    },
+    "78": {
+      "what": "Using a child for vending, peddling, carrying, supplying or smuggling any intoxicating liquor, narcotic drug or psychotropic substance. Whoever uses a child, for vending, peddling, carrying, supplying or smuggling any intoxicating liquor, narcotic drug or psychotropic substance, shall be liable for rigorous imprisonment for a term which may extend to seven years and shall also be liable to a fine up to one lakh rupees."
+    },
+    "79": {
+      "what": "A person who employs a child, keeps them in bondage, or withholds their earnings for personal gain can be punished with up to 5 years in prison and a fine of ₹1 lakh."
+    },
+    "80": {
+      "what": "If someone offers or gives or receives a child for adoption without following the correct procedures, they can be punished with: up to 3 years in prison, a fine of ₹1 lakh (₹10,00,000), or both. If an adoption agency commits this offense, the agency's registration and recognition may also be withdrawn for at least 1 year."
+    },
+    "81": {
+      "what": "Any person who sells or buys a child for any purpose can face up to 5-year rigorous imprisonment and a fine of one lakh rupees. If the offender is in charge of the child, they must serve at least 3 years in prison and may be sentenced up to 7 years."
+    },
+    "82": {
+      "what": "Any person in charge of a child care institution who subjects a child to corporal punishment can face a fine of up to 10,000 rupees or imprisonment for up to 3 months. They may also be dismissed from service and barred from working with children again."
+    },
+    "83": {
+      "what": "Any non-State, self-styled militant group or outfit that recruits or uses children for any purpose is liable for up to 7 years in prison and a fine of ₹5 lakhs. Any adult who uses children for illegal activities can face up to 7 years in prison and a fine of ₹5 lakhs."
+    },
+    "84": {
+      "what": "The laws about kidnapping and abduction for children under 18 years old are applied from sections 359-369 of the Indian Penal Code, with some changes."
+    },
+    "85": {
+      "what": "Offenders who commit crimes on disabled children will face twice the penalty of the original crime."
+    },
+    "87": {
+      "what": "Abetment: Whoever abets any offence under this Act and the act is committed in consequence of the abetment, shall be punished with the punishment provided for that offence."
+    },
+    "88": {
+      "what": "If someone breaks a rule that is also broken by another law, they can get punished under the stricter law."
+    },
+    "89": {
+      "what": "A child who commits an offence under the Juvenile Justice Act, 2015 is considered a child in conflict with the law."
+    },
+    "90": {
+      "what": "A parent or guardian must attend court proceedings if their child is being heard under this law."
+    },
+    "91": {
+      "what": "If a child's attendance is not needed for an inquiry, they can skip it. The inquiry will still happen without them. If a child needs to attend, they get reimbursement for travel and one escort."
+    },
+    "92": {
+      "what": "A child with a disease requiring prolonged medical treatment can be sent to an approved facility for treatment."
+    },
+    "93": {
+      "what": "A child who is mentally ill or addicted to alcohol or drugs can be transferred from a special home to a psychiatric hospital or nursing home if it appears that they need mental health treatment. The child can then be transferred again to an Integrated Rehabilitation Centre for Addicts for inpatient treatment, but only for the period required."
+    },
+    "94": {
+      "what": "The law states that if a committee or board believes a person is a child based on their appearance, they can proceed with an inquiry without further confirmation. If there's doubt about the person's age, the committee or board must determine their age through various means, including obtaining birth certificates or undergoing medical tests. The age determined by the committee or board is considered true for the purposes of this law."
+    },
+    "95": {
+      "what": "Transfer of a child to place of residence: If a child is found to hail from outside the jurisdiction, they can be transferred to their home district's Committee or Board if it's in their best interest. The transfer must be made with relevant documents and following prescribed procedure. In case of conflict with law, the inquiry must be completed before transferring the child. For inter-state transfers, the child can be handed over to the Committee or Board in the capital city of the home State. Once the decision is finalized, an escort order will be given to a Special Juvenile Police Unit within 15 days. A girl child must be accompanied by a woman police officer. If a Special Juvenile Police Unit is not available, another institution can provide an escort. The State Government must make rules for travelling allowance to the escorting staff."
+    },
+    "96": {
+      "what": "The State Government can order a child's transfer between different homes or facilities in India, keeping the child's best interest in mind, with prior intimation to the concerned Committee or Board. The transfer must be done within the same district for similar homes or facilities, and only with consultation from another state government if it's outside the state."
+    },
+    "97": {
+      "what": "The Committee or the Board may consider the release of a child from an institution on a report of a probation officer or social worker or of Government or a voluntary or non-governmental organisation."
+    },
+    "98": {
+      "what": "A child placed in an institution can take leave of absence for special occasions like examinations, marriage, death, accident, or serious illness of a parent, under supervision, for up to 7 days. The time spent on leave is counted as part of the time the child is supposed to be in the home."
+    },
+    "99": {
+      "what": "Reports related to a child considered confidential, with exceptions for communication to other committees or the child themselves, and the right of victims to access their case records."
+    },
+    "100": {
+      "what": "No legal action can be taken against the government or its representatives if they act in good faith while following the Juvenile Justice Act."
+    },
+    "101": {
+      "what": "A person can appeal against certain orders made under the Juvenile Justice Act within 30 days from the date of the order, except for decisions related to Foster Care and Sponsorship After Care which go to the District Magistrate. The Court of Sessions or District Magistrate may consider appeals after 30 days if there is a valid reason. Appeals can be filed against orders made by the Board regarding heinous offences before the Court of Sessions, with expert psychologists and medical specialists involved. No appeal can be made from acquittal orders for children over 16 years old. There is no second appeal from Court of Session orders. An appeal can be made to the High Court within specified procedures. An adoption order appeal can be filed within 30 days before the Divisional Commissioner, with a decision target date of four weeks."
+    },
+    "102": {
+      "what": "The High Court can review orders made by other courts or committees, and may change those orders if it thinks they were wrong, but must give the person affected a chance to be heard before doing so."
+    },
+    "103": {
+      "what": "A Committee or Board must follow a prescribed procedure while holding an inquiry, and also follow the procedure for trial of summons cases under the Code of Criminal Procedure, 1973, when hearing appeals or revision proceedings."
+    },
+    "104": {
+      "what": "The Committee or Board can amend their own orders without appeal, but must hear from all parties involved and have at least two members present."
+    },
+    "105": {
+      "what": "The State Government may create a fund to support the welfare and rehabilitation of children dealt with under the Juvenile Justice Act, 2015. The fund can receive voluntary donations from individuals or organisations."
+    },
+    "106": {
+      "what": "The State Government must create a Child Protection Society for the state and a District Child Protection Unit for each district, staffed by appointed officers and employees, to oversee child-related matters, including institution establishment, notification of authorities, rehabilitation, coordination with agencies, and other prescribed functions."
+    },
+    "107": {
+      "what": "A Child Welfare Police Officer must be a police officer not below the rank of assistant sub-inspector, with aptitude and appropriate training, and will exclusively deal with children as victims or perpetrators in coordination with the police, NGOs, and voluntary organisations."
+    },
+    "108": {
+      "what": "The Central Government and every State Government shall take measures to ensure that the provisions of the Juvenile Justice Act 2015 are given wide publicity through media and officers receive periodic training on its implementation."
+    },
+    "109": {
+      "what": "The National Commission or State Commission must monitor the implementation of the Juvenile Justice Act, and have the same powers as under the Commissions for Protection of Child Rights Act, while including their activities in the annual report."
+    },
+    "110": {
+      "what": "The State Government shall, by notification in the Official Gazette, make rules to carry out the purposes of this Act: Provided that the Central Government may, frame model rules in respect of all or any of the matters with respect to which the State Government is required to make rules and where any such model rules have been framed in respect of any such matter, they shall apply to the State mutatis mutandis until the rules in respect of that matter are made by the State Government and while making any such rules, they conform to such model rules."
+    },
+    "111": {
+      "what": "The Juvenile Justice (Care and Protection of Children) Act, 2000 is hereby repealed. Existing actions under it are still valid."
+    },
+    "112": {
+      "what": "The Central Government can remove difficulties arising from this Act's provisions by order, but not after two years from its commencement."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source_name": "Drishti Judiciary Bare Acts",
+  "source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306490_indecent__representation_of_women_(prohibition)_act,_1986.pdf",
+  "resolved_source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306490_indecent__representation_of_women_(prohibition)_act,_1986.pdf",
+  "content_type": "application/pdf",
+  "content_sha256": "df85b979af4d743710ba2a34eb140330a8bfcbe12c96c9ff15c3313d7b3f5d2a",
+  "downloaded_bytes": 1014386,
+  "collected_at": "2026-09-16T11:02:56Z",
+  "catalog_title": "Indecent Representation of Women (Prohibition) Act, 1986",
+  "category": "Criminal Law",
+  "category_url": "https://drishtijudiciary.com/downloads/general-bare-acts/criminal-law-bare-acts",
+  "listed_date": "18-Mar-2025",
+  "extraction": {
+    "page_count": 4,
+    "extracted_page_count": 4,
+    "blank_pages": [],
+    "total_characters": 10249,
+    "full_text_extraction": true,
+    "parsed_section_count": 10,
+    "pages": [
+      {
+        "page": 1,
+        "characters": 680
+      },
+      {
+        "page": 2,
+        "characters": 3186
+      },
+      {
+        "page": 3,
+        "characters": 3911
+      },
+      {
+        "page": 4,
+        "characters": 2374
+      }
+    ]
+  }
+}

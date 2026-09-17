@@ -1,0 +1,1682 @@
+{
+  "law": "Indian Penal Code 1860",
+  "sections": {
+    "1": {
+      "what": "The Indian Penal Code shall be called the Indian Penal Code and applies to the entire country of India."
+    },
+    "2": {
+      "what": "Any person who commits an offense within India can be punished only under this Indian Penal Code"
+    },
+    "3": {
+      "what": "A person who must comply with Indian law and is tried for a crime that was actually committed outside India, will be treated as if the crime was committed inside India."
+    },
+    "4": {
+      "what": "The provisions of this Code apply also to any offence committed by— (1) any citizen of India in any place without and beyond India; (2) any person on any ship or aircraft registered in India wherever it may be."
+    },
+    "5": {
+      "what": "Nothing in this Act affects laws punishing mutiny and desertion from government service, or special/local laws regarding these matters."
+    },
+    "6": {
+      "what": "Definitions in the Code shall be understood subject to exceptions contained in the Chapter entitled 'General Exceptions', unless those exceptions are mentioned in the definition or illustration."
+    },
+    "7": {
+      "what": "Every time a word or phrase is defined in one place in the Indian Penal Code 1860, it must be used exactly as explained throughout the entire code."
+    },
+    "8": {
+      "what": "The use of the pronoun"
+    },
+    "9": {
+      "what": "Words in the singular form are also accepted as in the plural form and vice versa."
+    },
+    "10": {
+      "what": "The term"
+    },
+    "11": {
+      "what": "The term 'person' includes any company or association, whether it is a corporation or not."
+    },
+    "12": {
+      "what": "The term 'public' means any group of people, regardless of their social status."
+    },
+    "14": {
+      "what": "complete explanation"
+    },
+    "18": {
+      "what": "The term"
+    },
+    "19": {
+      "what": "A person who officially gives judgments in legal proceedings, or is part of a group that does so, is considered a 'judge'. This includes those with specific powers given by law."
+    },
+    "20": {
+      "what": "A Court of Justice is a judge or body of judges empowered by law to act judicially alone or together."
+    },
+    "21": {
+      "what": "A public servant is any person falling under one of the following descriptions:"
+    },
+    "22": {
+      "what": "The words"
+    },
+    "23": {
+      "what": "Wrongful gain and loss occur when a person gains or loses property illegally, even if they were not originally entitled to it."
+    },
+    "24": {
+      "what": "A person intentionally acts in a way that causes someone else to gain something they shouldn't have or loses something they should have. This act is considered 'dishonest'"
+    },
+    "25": {
+      "what": "A person is said to do a thing fraudulently if they intend to deceive but not necessarily succeed."
+    },
+    "26": {
+      "what": "A person has 'reason to believe' something if they have enough reason to think it's true, but not necessarily enough to prove it."
+    },
+    "27": {
+      "what": "Property in possession of wife, clerk or servant"
+    },
+    "28": {
+      "what": "Counterfeiting - Causing one thing to resemble another with intention to deceive."
+    },
+    "29": {
+      "what": "Any matter expressed or described on a substance using letters, figures, or marks, intended to be used as evidence."
+    },
+    "29A": {
+      "what": "The term \"electronic record\" means what is defined in clause (t) of sub-section (1) of section 2 of the Information Technology Act, 2000."
+    },
+    "30": {
+      "what": "A document that creates, extends, transfers, restricts, extinguishes, or releases a legal right, or acknowledges liability for a certain right."
+    },
+    "31": {
+      "what": "The words"
+    },
+    "32": {
+      "what": "Words referring to acts include illegal omissions"
+    },
+    "33": {
+      "what": "The terms"
+    },
+    "34": {
+      "what": "When multiple people perform an action together to further the shared goal of the group, each individual can be held responsible for the entire action as if they did it alone."
+    },
+    "35": {
+      "what": "When an act that is criminal due to being done with criminal knowledge or intention is carried out by multiple people, each person who participated with that knowledge or intention is held responsible for the entire act as if they had done it alone with that knowledge or intention."
+    },
+    "36": {
+      "what": "If doing something or not doing something together causes a result, it's the same crime whether you did one part of it with an act (like hitting someone) and another part with neglecting to do something (like not giving food)."
+    },
+    "37": {
+      "what": "When someone intentionally helps commit a crime by doing one part of the crime, they can be held guilty even if their action was just one part of the whole crime."
+    },
+    "38": {
+      "what": "Where several persons are engaged or concerned in the commission of a criminal act, they may be guilty of different offences by means of that act."
+    },
+    "39": {
+      "what": "A person is said to cause an effect “voluntarily” when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it."
+    },
+    "40": {
+      "what": "Except in the 2[Chapters] and sections mentioned in clauses 2 and 3 of this section, the word “offence” denotes a thing made punishable by this Code."
+    },
+    "41": {
+      "what": "A “special law” is a law applicable to a particular subject."
+    },
+    "42": {
+      "what": "A “local law” is a law applicable only to a particular part of India."
+    },
+    "43": {
+      "what": "The word “illegal” is applicable to everything which is an offence or which is prohibited by law, or which furnishes ground for a civil action; and a person is said to be “legally bound to do” whatever it is illegal in him to omit."
+    },
+    "44": {
+      "what": "The word “injury” denotes any harm whatever illegally caused to any person, in body, mind, reputation or property."
+    },
+    "45": {
+      "what": "The word “life” denotes the life of a human being, unless the con trary appears from the context."
+    },
+    "46": {
+      "what": "The word “death” denotes the death of a human being unless the contrary appears from the context."
+    },
+    "47": {
+      "what": "The word “animal” denotes any living creature, other than a human being."
+    },
+    "48": {
+      "what": "The term"
+    },
+    "49": {
+      "what": "The words"
+    },
+    "50": {
+      "what": "The word"
+    },
+    "51": {
+      "what": "The term"
+    },
+    "52": {
+      "what": "Nothing is said to be done or believed in good faith which is done or believed without due care and attention."
+    },
+    "52A": {
+      "what": "The term"
+    },
+    "53": {
+      "what": "Offenders are liable to death, imprisonment for life, rigorous imprisonment, simple imprisonment, forfeiture of property, or fine."
+    },
+    "53A": {
+      "what": "Any reference to “transportation for life” in other laws is now referred to as “imprisonment for life”. References to shorter terms of transportation are considered omitted."
+    },
+    "54": {
+      "what": "In every case in which sentence of death shall have been passed, the appropriate Government may, without the consent of the offender, commute the punishment for any other punishment provided by this Code."
+    },
+    "55": {
+      "what": "The appropriate Government can commute the punishment for imprisonment for life to a term not exceeding fourteen years."
+    },
+    "55A": {
+      "what": "The expression"
+    },
+    "57": {
+      "what": "Fractions of terms of punishment: Imprisonment for life is equivalent to imprisonment for twenty years."
+    },
+    "60": {
+      "what": "The court can decide if the sentence should be wholly rigorous, wholly simple, or a mix of both."
+    },
+    "63": {
+      "what": "The fine for an offense can be any amount, but it cannot be too high."
+    },
+    "64": {
+      "what": "If someone is fined and doesn't pay, they can get extra time in prison on top of their original sentence."
+    },
+    "65": {
+      "what": "The term for which the Court directs the offender to be imprisoned in default of payment of a fine shall not exceed one-fourth of the term of imprisonment which is the maximum fixed for the offence, if the offence be punishable with imprisonment as well as fine."
+    },
+    "66": {
+      "what": "The imprisonment imposed by the Court may be of any description that was originally intended for the offence."
+    },
+    "67": {
+      "what": "If an offence is punishable with a fine only, the court can impose a simple imprisonment (not exceeding 2 months if the fine is ≤ ₹50, 4 months if the fine is ≤ ₹100, and 6 months otherwise) and direct the offender to be imprisoned for a term not exceeding these limits."
+    },
+    "68": {
+      "what": "Imprisonment will end when a fine is paid or legally enforced."
+    },
+    "69": {
+      "what": "If you pay a proportionate part of your fine before your prison term ends, and the amount you pay is less than what you still owe, you will be released from prison when your original sentence period ends."
+    },
+    "70": {
+      "what": "The fine or unpaid part of it can be levied within 6 years of passing the sentence. If imprisonment is more than 6 years, it can be levied before that period ends. Death does not release liability for property after death."
+    },
+    "71": {
+      "what": "If an offense is made up of parts, where each part is also an offense, the offender should not be punished with more than one punishment unless specified otherwise. If multiple laws define the same offense or if combining acts results in a different offense, the offender should not receive a harsher punishment than what could have been given for any individual offense."
+    },
+    "72": {
+      "what": "If a person is found guilty of one of several offences listed in the judgment, but it's unclear which one they're guilty of, punish them with the lowest punishment listed if it applies to all."
+    },
+    "73": {
+      "what": "Whenever any person is convicted of an offence for which under this Code the Court has power to sentence him to rigorous imprisonment, the Court may, by its sentence, order that the offender shall be kept in solitary confinement for any portion or portions of the imprisonment to which he is sentenced, not exceeding three months in the whole, according to the following scale, that is to say— a time not exceeding one month if the term of imprisonment shall not exceed six months; a time not exceeding two months if the term of imprisonment shall exceed six months and 1[shall not exceed one] year a time not exceeding three months if the term of imprisonment shall exceed one year."
+    },
+    "74": {
+      "what": "In executing a sentence of solitary confinement, the maximum time that can be spent in solitary confinement at a time is 14 days. After this, there must be an interval of at least the same length. If the total imprisonment exceeds 3 months, then the maximum solitary confinement time per month cannot exceed 7 days, with the same intervals."
+    },
+    "75": {
+      "what": "If you have been previously convicted of an offence under Chapter XII or XVII with a sentence of three years or more, and then commit another offence under the same chapters, you can face imprisonment for life or up to 10 years."
+    },
+    "76": {
+      "what": "A person who is bound by law or believes themselves to be bound in good faith cannot be guilty of an offense."
+    },
+    "77": {
+      "what": "A judge cannot be guilty of an offense if they are acting judicially and using a power that they believe is given to them by law in good faith."
+    },
+    "78": {
+      "what": "Nothing done in pursuance of a court's judgment or order, while it is still in force, is an offense unless done in bad faith."
+    },
+    "79": {
+      "what": "A person who believes they are justified by law and acts in good faith, even if they make a mistake of fact, is not committing an offense."
+    },
+    "80": {
+      "what": "Nothing is an offence which is done by accident or misfortune, without any criminal intention or knowledge, while doing a lawful act in a lawful manner with proper care and caution."
+    },
+    "81": {
+      "what": "Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property."
+    },
+    "82": {
+      "what": "A child under seven years of age cannot be held criminally responsible for any action."
+    },
+    "83": {
+      "what": "A child between 7 and 12 years old who lacks enough understanding to make informed decisions is not considered guilty for an action they commit."
+    },
+    "84": {
+      "what": "A person who commits an act while being mentally unsound cannot be held guilty if they did not know the nature of the act or that it was wrong/contrary to law."
+    },
+    "85": {
+      "what": "A person who commits an act while under the influence of something they were forced to take and can't understand what they're doing is not guilty of a crime."
+    },
+    "86": {
+      "what": "A person who commits an act that requires a particular intent or knowledge while intoxicated shall be treated as having the same intent or knowledge as they would have if they were sober."
+    },
+    "87": {
+      "what": "Nothing that causes harm to someone who has given consent is a crime, unless it's intended to cause death or serious injury."
+    },
+    "88": {
+      "what": "Nothing is an offense if it causes harm in good faith for someone's benefit, with their consent, even if the person intends to cause death or knows it may cause death."
+    },
+    "89": {
+      "what": "Nothing which is done in good faith for the benefit of a person under twelve years of age, or of unsound mind, by or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause or be known by the doer to be likely to cause to that person: Provided— Provisos. First.—That this exception shall not extend to the intentional causing of death, or to the attempting to cause death; Secondly.—That this exception shall not extend to the doing of anything which the person doing it knows to be likely to cause death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity; Thirdly.—That this exception shall not extend to the voluntary causing of grievous hurt, or to the attempting to cause grievous hurt, unless it be for the purpose of preventing death or grievous hurt, or the curing of any grievous disease or infirmity; Fourthly.—That this exception shall not extend to the abetment of any offence, to the committing of which offence it would not extend."
+    },
+    "90": {
+      "what": "A consent is not valid if it was given due to fear or misconception, and the person knows or has reason to believe this."
+    },
+    "91": {
+      "what": "Acts that are offences independently of harm caused, and exceptions to these acts."
+    },
+    "92": {
+      "what": "Nothing is an offence by reason of any harm which it may cause to a person for whose benefit it is done in good faith, even without that person's consent, if the circumstances are such that it is impossible for that person to signify consent, or if that person is incapable of giving consent, and has no guardian or other person in lawful charge of him from whom it can be obtained in time for the thing to be done with benefit."
+    },
+    "93": {
+      "what": "Communication made in good faith is not an offense if it is made for the benefit of the person to whom it is made."
+    },
+    "94": {
+      "what": "A person who commits an act that would be illegal if they weren't threatened with death, can be excused from criminal liability if they were forced to do it by threats and there was a reasonable fear of immediate death."
+    },
+    "95": {
+      "what": "Nothing is an offence by reason that it causes, or that it is intended to cause, or that it is known to be likely to cause, any harm, if that harm is so slight that no person of ordinary sense and temper would complain of such harm."
+    },
+    "96": {
+      "what": "Nothing is an offence which is done in the exercise of the right of private defence."
+    },
+    "97": {
+      "what": "A person has the right to defend their own body and property against certain crimes, including theft, robbery, and trespassing."
+    },
+    "98": {
+      "what": "A person who commits an act due to a mental or physical condition (youth, lack of understanding, insanity, intoxication) is entitled to the same rights of self-defence as they would have if they were sane."
+    },
+    "99": {
+      "what": "There is no right of private defence against an act that does not reasonably cause fear of death or serious injury, if done by a public servant acting in good faith under their office, or by direction of a public servant. The right to defend oneself only extends to what is necessary for self-defence."
+    },
+    "100": {
+      "what": "The right to self-defense extends to causing death or harm to an attacker if they are committing one of the following types of offenses: threatening death, serious injury, rape, unnatural lust, kidnapping, wrongful confinement, or attempting to throw acid that could cause serious injury."
+    },
+    "101": {
+      "what": "If an offence is not listed in section 100, the right to private defence of one's body extends to voluntarily causing harm to the attacker (not resulting in death), but with restrictions mentioned in section 99."
+    },
+    "102": {
+      "what": "The right of private defence of the body commences as soon as a reasonable apprehension of danger to the body arises from an attempt or threat to commit the offence though the offence may not have been committed; and it continues as long as such apprehension of danger to the body continues."
+    },
+    "103": {
+      "what": "The right of private defence of property extends, under the restrictions mentioned in section 99, to the voluntary causing of death or of any other harm to the wrong-doer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, be an offence of any of the descriptions enumerated, namely:— First.—Robbery; Secondly.—House-breaking by night; Thirdly.—Mischief by fire committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property; Fourthly.—Theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised."
+    },
+    "104": {
+      "what": "If an offence (like theft, mischief, or trespass) doesn't involve killing someone, you can defend yourself by causing them physical harm, but not fatal harm."
+    },
+    "105": {
+      "what": "The right of private defence of property commences when a reasonable apprehension of danger to the property occurs, and continues until the offender has retreated with the property or public authorities have assisted in recovering it. The duration of the right varies depending on the type of offence: against theft until the offender retreats or is recovered; against robbery as long as the offender causes harm or death; against criminal trespass/mischief as long as the offender continues the crime; and against house-breaking by night as long as the trespass continues."
+    },
+    "106": {
+      "what": "If in exercising private defense against an assault that causes reasonable fear of death, a person can't defend without risking harm to an innocent person, their right still extends to running that risk."
+    },
+    "107": {
+      "what": "A person abets the doing of a thing by: 1) Instigating someone to do it, 2) Engaging in a conspiracy with others to do it, or 3) Intentionally aiding the doing of it."
+    },
+    "108": {
+      "what": "A person abets an offence, who abets either the commission of an offence, or the commission of an act which would be an offence, if committed by a person capable by law of committing an offence with the same intention or knowledge as that of the abettor."
+    },
+    "108A": {
+      "what": "A person abets an offence by instigating someone outside India to commit an act that would be an offence if committed in India."
+    },
+    "109": {
+      "what": "The person who abets an offense will be punished with the same punishment as the offense if the act is committed in consequence of the abetment and no express provision is made for its punishment."
+    },
+    "110": {
+      "what": "If someone abets an offense but the person they're abetting does it with a different intention, the abettor will be punished as if they had intended to commit the original offense."
+    },
+    "111": {
+      "what": "When an Act is abetted and a different act is done, the abettor is liable for the act done, in the same manner and to the same extent as if he had directly abetted it: Provided the act done was a probable consequence of the abetment, and was committed under the influence of the instigation, or with the aid or in pursuance of the conspiracy which constituted the abetment."
+    },
+    "112": {
+      "what": "If the act for which the abettor is liable under the last preceding section is committed in addition to the act abetted, and constitute a distinct offence, the abettor is liable to punishment for each of the offences."
+    },
+    "113": {
+      "what": "When an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment, causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner and to the same extent as if he had abetted the act with the intention of causing that effect."
+    },
+    "114": {
+      "what": "Whenever any person, who is absent would be liable to be punished as an abettor, is present when the act or offence for which he would be punishable in consequence of the abetment is committed, he shall be deemed to have committed such act or offence."
+    },
+    "115": {
+      "what": "if offence not committed.—Whoever abets the commission of an off ence punishable with death or 1[imprisonment for life], shall, if that offence be not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; if act causin g harm be done in consequence .—and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine."
+    },
+    "116": {
+      "what": "Whoever abets an offence punishable with imprisonment shall, if that offence be not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment of any description provided for that offence for a term which may extend to one-fourth part of the longest term provided for that offence; or with such fine as is provided for that offence, or with both;"
+    },
+    "117": {
+      "what": "Whoever abets the commission of an offence by the public generally or by any number or class of persons exceeding ten, shall be punished with imprisonment of either description for a term which may extend to three yea rs, or with fine, or with both."
+    },
+    "118": {
+      "what": "A person who tries to hide or lie about a plan to commit a serious crime (like death or life imprisonment) can be punished with up to 7 years in jail and/or a fine. If no such crime happens, they can still get up to 3 years in jail and/or a fine."
+    },
+    "119": {
+      "what": "A public servant who intentionally hides or provides false information about a crime they are supposed to prevent can be punished with imprisonment or fine."
+    },
+    "120": {
+      "what": "Concealing design to commit an offence punishable with imprisonment: Voluntarily concealing existence of a design to commit an offence or making false representation about it."
+    },
+    "120A": {
+      "what": "Two or more persons agree to do an illegal act or an act not illegal by illegal means. An agreement to commit an offence requires action taken in pursuance of it to be a criminal conspiracy."
+    },
+    "120B": {
+      "what": "A person who is part of a criminal plan to commit an offense that can result in death or life imprisonment will be punished as if they had directly committed the offense. A person who is part of any other type of conspiracy will face up to 6 months in prison, or a fine, or both."
+    },
+    "121": {
+      "what": "Waging, or attempting to wage war, or abetting waging of war, ag ainst the Government of India.—Whoever wages war against the 2[Government of India], or attempts to wage such war, or abets the waging of such war, shall be punished with death, or 1[imprisonment for life]"
+    },
+    "121A": {
+      "what": "Conspires to commit an offence punishable by section 121, or overawes the Central Government or State Government using criminal force, and can be punished with imprisonment for life or up to 10 years and a fine."
+    },
+    "122": {
+      "what": "Collecting arms, etc., with intention of waging war against the Government of India"
+    },
+    "123": {
+      "what": "A person who intentionally hides information about a plan to attack the government of India, or fails to report it, can face up to 10 years in prison and a fine."
+    },
+    "124": {
+      "what": "A person who assaults the President of India, Governor of a state, or attempts to do so, can face up to 7 years in prison and a fine."
+    },
+    "124A": {
+      "what": "Whoever by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred or contempt, or excites or attempts t o excite disaffection towards the Government established in India, shall be punished with imprisonment for life, to which fine may be added, or with imprisonment which may extend to three years, to which fine may be added, or with fine."
+    },
+    "125": {
+      "what": "Whoever wages war against the Government of any Asiatic Power in alliance or at peace with the Government of India or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for life, to which fine may be added, or with imprisonment of either description for a term which may extend to seven years, to which fine may be added, or with fine."
+    },
+    "126": {
+      "what": "Whoever commits depredation on the territories of a Power at peace with the Government of India shall be punished with imprisonment for up to 7 years and may also face fine and forfeiture of property used in committing the act."
+    },
+    "127": {
+      "what": "Receiving stolen property from war or depredation; punishment - imprisonment up to 7 years, fine, and forfeiture of property."
+    },
+    "128": {
+      "what": "A public servant who has custody of a state prisoner or prisoner of war and allows them to escape will face up to 10 years in prison and/or a fine."
+    },
+    "129": {
+      "what": "Whoever, being a public servant and having the custody of any State prisoner or prisoner of war, negligently suffers such prisoner to escape from any place of confinement in which such prisoner is confined, shall be punished with simple imprisonment for a term which may extend to three years, and shall also be liable to fine."
+    },
+    "130": {
+      "what": "A person who knowingly helps a prisoner escape or rescues them will face imprisonment for life or up to 10 years and a fine."
+    },
+    "131": {
+      "what": "A person who helps someone else commit mutiny in the army, navy, or air force, or tries to persuade someone to leave their job, can get up to 10 years in prison and/or a fine."
+    },
+    "132": {
+      "what": "A person who encourages someone else to lead a mutiny in the army will face punishment, including death, life imprisonment, or up to 10 years in prison, and may also have to pay a fine."
+    },
+    "133": {
+      "what": "Abetting an assault by a soldier, sailor or airman on their superior officer while performing official duties will result in up to 3 years of imprisonment and a fine."
+    },
+    "134": {
+      "what": "Abetting an assault by a military personnel on a superior officer while performing official duties, punishable by up to 7 years imprisonment and fine."
+    },
+    "135": {
+      "what": "A person who helps someone else desert from their job in the army, navy, or air force will get up to 2 years in prison, or a fine, or both."
+    },
+    "136": {
+      "what": "Harbouring deserter: Knowingly harbours an officer, soldier, sailor, or airman who has deserted, and may face imprisonment for up to 2 years or fine."
+    },
+    "137": {
+      "what": "The master or person in charge of a merchant vessel, on board of which any deserter from the Army, Navy or Air Force of the Government of India is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding five hundred rupees, if he might have known of such concealment but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel."
+    },
+    "138": {
+      "what": "Abetment of act of insubordination by an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India."
+    },
+    "139": {
+      "what": "No person serving in the army, navy, or air force can be punished under this law if they are also subject to another specific act."
+    },
+    "140": {
+      "what": "Wearing garb or carrying token used by soldier, sailor or airman in the Military, Naval or Air service of the Government of India with intention to deceive others that he is such a soldier, sailor or airman."
+    },
+    "141": {
+      "what": "An assembly of five or more persons is considered"
+    },
+    "142": {
+      "what": "A person who knowingly joins or stays in an illegal group will be considered a part of that illegal group."
+    },
+    "143": {
+      "what": "A person who is part of an illegal group can get up to 6 months in jail, or a fine, or both."
+    },
+    "144": {
+      "what": "A person who is part of an unlawful assembly and is armed with a deadly weapon will be punished with imprisonment, fine, or both, for up to two years."
+    },
+    "145": {
+      "what": "Whoever joins or continues in an unlawful assembly, knowing it has been commanded to disperse, shall be punished with imprisonment of either description for a term which may extent to two years, or with fine, or with both."
+    },
+    "146": {
+      "what": "Whenever force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object of such assembly, every member of such assembly is guilty of the offence of rioting."
+    },
+    "147": {
+      "what": "Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "148": {
+      "what": "Whoever is guilty of rioting, being armed with a deadly weapon or with anything which, used as a weapon of offence, is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+    },
+    "149": {
+      "what": "If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence."
+    },
+    "150": {
+      "what": "Whoever hires or engages, or employs, or promotes, or connives at hiring, engagement or employment of any person to join or become a member of any unlawful assembly, shall be punishable as a member of such unlawful assembly, and for any offence which may be committed by any such person as a member of such unlawful assembly in pursuance of such hiring, engagement or employment, in the same manner as if he had been a member of such unlawful assembly, or himself had committed such offence."
+    },
+    "151": {
+      "what": "Whoever knowingly joins or continues in any assembly of five or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+    },
+    "152": {
+      "what": "Whoever assaults or threatens to assault, or obstructs or attempts to obstruct, any public servant in the discharge of his duty as such public servant, in endeavou ring to disperse an unlawful assembly, or to suppress a riot or affray, or uses, or threatens, or attempts to use criminal force to such public servant, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+    },
+    "153": {
+      "what": "Whoever malignantly, or wantonly by doing anything which is illegal, gives provocation to any person intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting be committed in consequence of such provocation, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; and if the offence of rioting be not committed, with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+    },
+    "153A": {
+      "what": "Promotes or attempts to promote disharmony between different groups based on religion, race, place of birth, residence, language, caste, or community, or commits acts prejudicial to harmony, causing fear or alarm among members of a group."
+    },
+    "153AA": {
+      "what": "Carrying arms in a public place during a procession or mass drill without permission from a public notice or order issued under section 144A of the Code of Criminal Procedure, 1973, is punishable with up to six months imprisonment and a fine of up to ₹2,000."
+    },
+    "153B": {
+      "what": "Imputations that can lead to national integration issues, such as making false claims about a person's loyalty to the Constitution or their rights as citizens, can result in up to 3-year imprisonment, fines, or both."
+    },
+    "154": {
+      "what": "The owner or occupier of land where an unlawful assembly is held must report the incident to the police if they know about it or have reason to believe it will happen, and fail to do so."
+    },
+    "155": {
+      "what": "A person who benefits from a riot, including the owner or occupier of land related to it, can be punished with a fine if they knew about the likely occurrence of the riot and failed to prevent it."
+    },
+    "156": {
+      "what": "Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place, or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, the agent or manager of such person shall be punishable with fine, if such a gent or manager, having reason to believe that such riot was likely to be committed, or that the unlawful assembly by which such riot was committed was likely to be held, shall not use all lawful means in his power to prevent such riot or assembly from taking place and for suppressing and dispersing the same."
+    },
+    "157": {
+      "what": "Harboring persons hired for an unlawful assembly: Whoever harbours, receives or assembles any person knowing they are hired to join an unlawful assembly, shall be punished with imprisonment of up to 6 months, or fine, or both."
+    },
+    "158": {
+      "what": "A person who helps take part in an unlawful assembly or riot can face up to 6 months in prison, a fine, or both. If they go armed during this time, they can face up to 2 years in prison, a fine, or both."
+    },
+    "159": {
+      "what": "Two or more persons who fight in a public place and disturb the public peace are committing an affray."
+    },
+    "160": {
+      "what": "Whoever commits an affray, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to one hundred rupees, or with both."
+    },
+    "166": {
+      "what": "A public servant who knowingly disobeys a law direction intending to cause or knowing it may cause injury to someone will be punished with up to 1 year imprisonment, fine, or both."
+    },
+    "166A": {
+      "what": "Whoever, being a public servant,— (a) knowingly disobeys any direction of the law which prohibits him from requiring the attendance at any place of any person for the purpose of investigation into an offence or any other matter, or (b) knowingly disobeys, to the prejudice of any person, any other direction of the law regulating the manner in which he shall conduct such investigation, or (c) fails to record any information given to him under sub-section (1) of section 154 of the Code of Criminal Procedure, 1973 (2 of 1974), in relation to cognizable offence punishable under section 326A, section 326B, section 354, section 354B, section 370, section 370A, section 376, section 376A, 2[section 376AB, section 376B, section 376C, section 376D, section 376DA, section 376DB] , section 376E or section 509, shall be punished with rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine."
+    },
+    "166B": {
+      "what": "Whoever, being in charge of a hospital, public or private, whether run by the Central Government, the State Government, local bodies or any other person, contravenes the provisions of section 357C of the Code of Criminal Procedure, 1973 (2 of 1974), shall be punished with imprisonment for a term which may extend to one year or with fine or with both."
+    },
+    "167": {
+      "what": "Whoever, being a public servant, and being, as such public servant, charged with the preparation or translation of any document or electronic record , frames , prepares or translates that document or electronic record} {"
+    },
+    "168": {
+      "what": "A public servant who is not allowed to engage in trade but does so anyway can get up to 1 year in jail, or a fine, or both."
+    },
+    "169": {
+      "what": "A public servant who is not allowed to buy or bid for certain property purchases it anyway and can face up to 2 years in jail, a fine, or both. The property will be taken away."
+    },
+    "170": {
+      "what": "Personating a public servant: Pretending to hold an office as a public servant, knowing you don't, or falsely pretending someone else does, and doing acts under that assumed character."
+    },
+    "171": {
+      "what": "Wearing garb or carrying token used by public servant with fraudulent intent: If someone not belonging to a certain class of public servants wears or carries something that resembles their uniform, with the intention to deceive others about their identity, they can face imprisonment for up to 3 months, fine up to ₹200, or both."
+    },
+    "171A": {
+      "what": "a person who has been nominated as a candidate at any election"
+    },
+    "171B": {
+      "what": "Whoever— (i) gives a gratification to any person with the object of inducing him or any other person to exercise any electoral right or of rewarding any person for having exercised any such right; or (ii) accepts either for himself or for any other person any gratification as a reward for exercising any such right or for inducing or attempting to induce any other person to exercise any such right, commits the offence of bribery: Provided that a declaration of public policy or a promise of public action shall not be an offence under this section."
+    },
+    "171C": {
+      "what": "Whoever voluntarily interferes or attempts to interfere with the free exercise of any electoral right commits the offence of undue influence at an election."
+    },
+    "171D": {
+      "what": "Personation at elections: Whoever applies for a voting paper on someone else's name, or votes once and then applies for a paper in their own name, or abets someone to vote by any means, commits an offence."
+    },
+    "171E": {
+      "what": "Whoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both: Provided that bribery by treating shall be punished with fine only."
+    },
+    "171F": {
+      "what": "A person who uses undue influence or impersonates someone else at an election can be imprisoned for up to 1 year, fined, or both."
+    },
+    "171G": {
+      "what": "Making or publishing a false statement about a candidate's personal character or conduct during an election can result in a fine."
+    },
+    "171H": {
+      "what": "A person who spends money without the candidate's permission on promoting their election will get a fine of up to 500 rupees. If they spend less than 10 rupees and get the candidate's written approval within 10 days, it's considered with the candidate's permission."
+    },
+    "172": {
+      "what": "A person who runs away to avoid receiving a summons, notice, or order from a public servant will be punished with imprisonment for up to one month or a fine of up to ₹500, or both. If the summons is to attend in person or by agent, or to produce a document or electronic record in court, the punishment can be up to six months' imprisonment or a fine of up to ₹1,000, or both."
+    },
+    "173": {
+      "what": "Preventing service of summons or other proceeding, or preventing publication thereof: Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to any place of any such summons, notice or order, or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed, or intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; or, if the summons, notice, order or proclamation is to attend in person or by agent, or (to produce a document or electronic record in a Court of Justice) with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+    },
+    "174": {
+      "what": "Intentionally failing to attend at a place and time when legally required to do so, or leaving before the allowed departure time, can result in imprisonment for up to 6 months, fine of up to ₹1,000, or both."
+    },
+    "174A": {
+      "what": "If you don't appear at the place and time specified in a proclamation made under section 82 of the Code of Criminal Procedure, 1973, you can be punished with up to 3 years in prison or a fine, or both. If you've already been declared a 'proclaimed offender', you can face up to 7 years in prison and a fine."
+    },
+    "175": {
+      "what": "A person who is legally required to produce or deliver a document to a public servant intentionally fails to do so, and may face imprisonment for up to one month or a fine of up to five hundred rupees, or both."
+    },
+    "176": {
+      "what": "A person who is legally required to give notice or information to a public servant intentionally fails to do so may face imprisonment for up to 6 months, or a fine of up to ₹1,000, or both."
+    },
+    "177": {
+      "what": "Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes false information on the subject which he knows or has reason to believe to be false shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both; or, if the information which he is legally bound to give respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "178": {
+      "what": "Refusing to take an oath or affirmation when required by a public servant to do so, and failing to state the truth, can result in imprisonment for up to 6 months, a fine of up to ₹1,000, or both."
+    },
+    "179": {
+      "what": "Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant in the exercise of the legal powers of such public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+    },
+    "180": {
+      "what": "If someone is asked by a public servant to sign a statement and they refuse, they can face punishment such as imprisonment for up to 3 months, a fine of up to 500 rupees, or both."
+    },
+    "181": {
+      "what": "Making a false statement on oath or affirmation to a public servant or authorized person is punishable by up to 3 years in prison and a fine."
+    },
+    "182": {
+      "what": "A person intentionally gives false information to a public servant, knowing it may cause harm, and the public servant uses their power to cause harm to someone else."
+    },
+    "183": {
+      "what": "A person who knows they are being taken property by a government official and resists will face up to 6 months in jail, a fine of up to 1000 rupees, or both."
+    },
+    "184": {
+      "what": "A person intentionally blocking the sale of property sold by a government official can face up to 1 month in jail, a fine of up to ₹500, or both."
+    },
+    "185": {
+      "what": "Whoever, at any sale of property held by the lawful authority of a public servant, as such, purchases or bids for any property on account of any person, whether himself or any other, whom he knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which he lays himself by such bidding, shall be punished with imprisonment of either 1. Ins. by Act 10 of 1873, s. 15. 2. Subs. by Act 3 of 1895, s. 1, for section 182. This Bare Act is a government source available in the public domain. It is being used strictly for educational purposes only. ===== PDF PAGE 50 ===== description for a term which may extend to one month, or with fine which may extend to tw o hundred rupees, or with both."
+    },
+    "186": {
+      "what": "A person who intentionally blocks a government official doing their job can get up to 3 months in jail, or be fined up to ₹500, or both."
+    },
+    "187": {
+      "what": "A person who is legally required to assist a public servant in their duties intentionally fails to do so can face punishment including up to 6 months imprisonment, a fine of up to ₹500, or both."
+    },
+    "188": {
+      "what": "Disobedience to an order duly promulgated by a public servant can result in punishment with imprisonment for up to 6 months or fine of up to ₹1,000, depending on the severity of the harm caused."
+    },
+    "189": {
+      "what": "Threatening injury to public servant to influence their actions"
+    },
+    "190": {
+      "what": "Threatening someone to stop them from applying for protection against an injury to a public servant, in order to prevent the person from making a legal application."
+    },
+    "191": {
+      "what": "Whoever, being legally bound by an oath or by an express provision of law to state the truth, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, is said to give false evidence."
+    },
+    "192": {
+      "what": "Fabricating false evidence means intentionally creating or altering information to influence the outcome of a court case or other official proceeding, with the goal of causing someone to form an incorrect opinion about the facts."
+    },
+    "193": {
+      "what": "Whoever intentionally gives false evidence in any judicial proceeding or fabricates false evidence for use in a judicial proceeding shall be punished with imprisonment of either description for a term that may extend to seven years and shall also be liable to fine. Whoever intentionally gives or fabricates false evidence in any other case shall be punished with imprisonment of either description for a term that may extend to three years and shall also be liable to fine."
+    },
+    "194": {
+      "what": "Giving or fabricating false evidence with intent to procure conviction of capital offence. Whoever gives or fabricates false evidence intending thereby to cause any person to be convicted of an offence which is capital by the law for the time being in force in India shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "195": {
+      "what": "Giving false evidence with intent to cause conviction of an offence punishable with imprisonment for life or seven years or more."
+    },
+    "195A": {
+      "what": "Threatening someone to give false testimony can lead to imprisonment of up to 7 years or a fine, or both. If an innocent person is wrongly convicted due to this threat, the person who threatened will face the same punishment as the innocent person."
+    },
+    "196": {
+      "what": "Whoever corruptly uses or attempts to use as true or genuine evidence any evidence which he knows to be false or fabricated, shall be punished."
+    },
+    "197": {
+      "what": "Issuing or signing a false certificate can lead to punishment for giving false evidence."
+    },
+    "198": {
+      "what": "Using as true a certificate known to be false: Whoever corruptly uses or attempts to use any such certificate as a true certificate, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence."
+    },
+    "199": {
+      "what": "Whoever, in any declaration made or subscribed by him, which declaration an y Court of Justice, or any public servant or other person, is bound or authori sed by law to receive as evidence of any fact, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, touching any point material to the object for which the declaration is made or used, shall be punished in the same manner as if he gave false evidence."
+    },
+    "200": {
+      "what": "Whoever corruptly uses or attempts to use as true any such declaration, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence. Explanation.—A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of sections 199 and 200."
+    },
+    "201": {
+      "what": "offender.—Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false, if a capital offence .—shall, if the offence which he kno ws or believes to have been com mitted is punishable with death be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; if punishable with imprisonment for life.—and if the offence is punishable with 1[imprisonment for life], or with imprisonment which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; if punishable with less t han ten years ’ imprisonment .—and if the offence is punishable with imprisonment for any term not extending to ten years, shall be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both. Illustration A, knowing that B has murdered Z, assists B to hide the body with the intention of screening B from punishment. A is liable to imprisonment of either description for seven years, and also to fine."
+    },
+    "202": {
+      "what": "Whoever, knowing or having reason to believe that an offence has been committed, intentionally omits to give any information respecting that offence which he is legally bound to give, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+    },
+    "203": {
+      "what": "Whoever, knowing or having reason to believe that an offence has been committed, gives any information respecting that offence which he knows or believes to be false, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. This Bare Act is a government source available in the public domain. It is being used strictly for educational purposes only. ===== PDF PAGE 54 ===== 1[Explanation.—In s ections 201 and 202 and in this section the word “offence” includes any act committed at any place out of 2[India], which, if committed in 2[India], would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 398, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460.]"
+    },
+    "204": {
+      "what": "Whoever secretes or destroys any 3[document and electronic record] which he may be lawfully compelled to produce as evidence in a Court of Justice, or in any proceeding lawfully held before a public servant, as such, or obliterates or renders illegible the whole or any part of such 3[document or electronic record] with the intention of preventing the same from being produced or used as evidence before such Court or public servant as aforesaid, or after he shall have been lawfully summoned or required to produce the same for that purpose, shall be punished with imprisonment of either description for a term which may extend to two yea rs, or with fine, or with both."
+    },
+    "205": {
+      "what": "Whoever falsely personates another, and in such assumed character makes any admission or stat ement, or confesses judgment, or causes any process to be issued or becomes bail or security, or does any other act in any suit or criminal prosecution, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+    },
+    "206": {
+      "what": "Whoever fraudulently removes, conceals, transfers or delivers to any person any property or any interest therein, intending t hereby to prevent that property or interest therein from being taken as a forfeiture or in"
+    },
+    "207": {
+      "what": "Whoever fraudulently accepts, receives or claims any property or any interest therein, knowing that he has no right or rightful claim to such property or interest, or practices any deception touching any right to any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "208": {
+      "what": "Fraudulently causing or suffering a decree to be passed against you for a sum not due, a larger sum than you are entitled to, or for property you don't own, and then having it executed after it's been satisfied, can result in imprisonment of up to 2 years, a fine, or both."
+    },
+    "209": {
+      "what": "Making a false claim in court with intent to injure or annoy someone, knowing it is false, can lead to up to 2 years in prison and a fine."
+    },
+    "210": {
+      "what": "Fraudulently obtaining a decree or order for a sum not due, or for a larger sum than is due, or for any property or interest in property to which he is not entitled."
+    },
+    "211": {
+      "what": "Whoever institutes or causes a criminal proceeding against a person with intent to cause injury, falsely charges a person with an offence knowing there is no just ground for it, shall be punished with imprisonment up to 2 years or fine or both."
+    },
+    "212": {
+      "what": "Harbouring or concealing an offender with the intention of screening him from legal punishment."
+    },
+    "213": {
+      "what": "Whoever accepts or attempts to obtain, or agrees to accept, any gratification for himself or any other person, or any restitution of property to himself or any other person, in consideration of his concealing an offence or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment, if a capital offence.—shall, if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; if punishable with imprisonment for life, or with imprisonment.—and if the offence is punishable with 3[imprisonment for life], or with imprisonment which may extend to ten years, shall be punished with imprisonment of either description for a term which m ay extend to three years, and shall als o be liable to fine; and if the offence is punishable with imprisonment not extending to ten years, shall be punished with imprisonment of the description provided for the offence for a term which may extend to one fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both."
+    },
+    "214": {
+      "what": "Offers a gift or restores property in exchange for concealing an offense, screening someone from punishment, or not prosecuting someone."
+    },
+    "215": {
+      "what": "Taking gift to help recover stolen property: If you accept a gift to help find someone who stole your property, but don't try to catch the thief, you can be punished with up to 2 years in prison, a fine, or both."
+    },
+    "216": {
+      "what": "harbouring or concealing a person who has escaped from custody or whose apprehension has been ordered, with the intention of preventing them from being apprehended."
+    },
+    "216A": {
+      "what": "Whoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or dacoity, harbours them or any of them, with the intention of facilitating the commission of such robbery or dacoity, or of screening them or any of them from punishment, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine."
+    },
+    "217": {
+      "what": "A public servant intentionally disobeys the law to save someone from punishment or property from being forfeited."
+    },
+    "218": {
+      "what": "A public servant intentionally creates an incorrect record or writing that could cause harm to the public or someone, or tries to save someone from punishment, and this is done with the intention of saving property from a legal penalty."
+    },
+    "219": {
+      "what": "A public servant who corruptly makes or pronounces a report, order, verdict, or decision in a judicial proceeding that is against the law will be punished with imprisonment for up to 7 years, or a fine, or both."
+    },
+    "220": {
+      "what": "A person who has authority to commit someone for trial or confinement and knowingly acts against the law while doing so will face punishment."
+    },
+    "221": {
+      "what": "A public servant intentionally fails to apprehend someone, allows them to escape, or helps them escape from confinement. This is punishable by: - Up to 7 years in prison and/or fine if the person was charged with an offence punishable by death. - Up to 3 years in prison and/or fine if the person was charged with an offence punishable by life imprisonment or up to 10 years in prison. - Up to 2 years in prison and/or fine if the person was charged with an offence punishable by less than 10 years in prison."
+    },
+    "222": {
+      "what": "A public servant who is legally bound to apprehend or keep in confinement someone under court order intentionally fails to do so, aids them in escaping, or allows them to escape. They may face imprisonment for life, up to 14 years, or up to 7 years with a fine, depending on the severity of the sentence."
+    },
+    "223": {
+      "what": "Whoever, being a public servant legally bound as such public servant to keep in confinement any person charged with or convicted of any offence, negligently suffers such person to escape from confinement, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both."
+    },
+    "224": {
+      "what": "A person who resists arrest, interferes with their lawful detention, or tries to escape will face up to 2 years in prison, a fine, or both."
+    },
+    "225": {
+      "what": "Resisting or obstructing lawful apprehension of another person for an offence, rescuing or attempting to rescue someone from lawful custody, and punishment terms"
+    },
+    "225A": {
+      "what": "If a public servant fails to apprehend or allows an escape of a person in a case not covered by other laws, they can be punished. If it's intentional, the punishment is up to 3 years imprisonment or fine. If it's negligent, the punishment is up to 2 years imprisonment or fine."
+    },
+    "225B": {
+      "what": "Intentionally offers resistance or obstruction to lawful apprehension, escapes from custody, rescues someone from custody, or attempts to do so."
+    },
+    "227": {
+      "what": "If you accept a reduced sentence, but break the conditions, you'll get the original sentence. If you've already served some of it, you'll get the remaining amount."
+    },
+    "228": {
+      "what": "A person who intentionally insults or interrupts a public servant during a court hearing can face up to 6 months in jail, a fine of up to ₹1,000, or both."
+    },
+    "228A": {
+      "what": "complete explanation"
+    },
+    "229": {
+      "what": "Intentionally pretending to be a juror or assessor when not legally allowed, and serving anyway, can result in up to 2 years in prison, a fine, or both."
+    },
+    "229A": {
+      "what": "complete explanation"
+    },
+    "230": {
+      "what": "Coin is metal used for the time being as money, and stamped and issued by the authority of some State or Sovereign Power in order to be so used."
+    },
+    "231": {
+      "what": "Counterfeiting coin: Counterfeiting or knowingly performing part of counterfeiting process can lead to up to 7 years imprisonment and fine."
+    },
+    "232": {
+      "what": "Counterfeiting Indian coin: Punishment - Imprisonment for life or up to 10 years and fine"
+    },
+    "233": {
+      "what": "Section 233 states that whoever makes or mends, or performs any part of the process of making or mending, or buys, sells or disposes of, any die or instrument for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting coin shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine."
+    },
+    "234": {
+      "what": "Making or selling instrument for counterfeiting Indian coin shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+    },
+    "235": {
+      "what": "Possession of an instrument or material for the purpose of using it to counterfeit coins can lead to up to 3 years in prison and/or a fine. If the counterfeited coin is Indian currency, the punishment can be up to 10 years in prison and/or a fine."
+    },
+    "236": {
+      "what": "Abetting the counterfeiting of coin outside India, with punishment equal to abetting it inside India."
+    },
+    "237": {
+      "what": "Importing or exporting counterfeit coins into/out of India can lead to up to 3 years in prison and a fine."
+    },
+    "238": {
+      "what": "Imports or exports counterfeits of Indian coins. If someone brings in or takes out counterfeit Indian coin they can get up to 10 years in prison and/or a fine."
+    },
+    "239": {
+      "what": "A person who knowingly possesses counterfeit coin will be punished if they deliver it to someone or try to get them to take it."
+    },
+    "240": {
+      "what": "A person who knowingly possesses counterfeit Indian coins and delivers them fraudulently will face up to 10 years in prison and a fine."
+    },
+    "241": {
+      "what": "Delivering a known counterfeit coin as genuine, without knowing it was counterfeit when first possessed."
+    },
+    "242": {
+      "what": "Possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof.—Whoever, fraudulently or with intent that fraud may be committed, is in possession of counterfeit coin, having known at the time when he became possessed thereof that such coin was counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine."
+    },
+    "243": {
+      "what": "A person who knowingly possesses counterfeit Indian coins with the intention of committing fraud will face up to 7 years in prison and a fine."
+    },
+    "244": {
+      "what": "Causing coins to have incorrect weight or composition while employed at a mint."
+    },
+    "245": {
+      "what": "Taking a coining instrument from a mint without authority"
+    },
+    "246": {
+      "what": "Fraudulently or dishonestly diminishing weight or altering composition of coin: Whoever performs any operation on a coin that diminishes its weight or alters its composition, shall be punished with up to 3 years imprisonment and a fine."
+    },
+    "247": {
+      "what": "Fraudulently or dishonestly diminishing the weight or altering the composition of Indian coins will result in up to 7 years of imprisonment and a fine."
+    },
+    "248": {
+      "what": "A person who changes the appearance of a coin on purpose so it looks like a different type of coin will get up to 3 years in prison and have to pay a fine."
+    },
+    "249": {
+      "what": "A person who alters the appearance of an Indian coin with the intention that it will pass as a different type of coin can be punished with imprisonment for up to 7 years and a fine."
+    },
+    "250": {
+      "what": "Delivering altered coin with knowledge that it is altered"
+    },
+    "251": {
+      "what": "Delivering Indian coin that you know has been altered with intent to commit fraud or knowing it's altered, can lead to up to 10 years in prison and a fine."
+    },
+    "252": {
+      "what": "Possession of altered coin by person who knew it was altered"
+    },
+    "253": {
+      "what": "A person who knowingly has possession of altered Indian coins with the intention of committing fraud or allowing others to commit fraud will face up to 5 years in prison and a fine."
+    },
+    "254": {
+      "what": "Delivers a counterfeit coin that they did not know was altered when they first possessed it."
+    },
+    "255": {
+      "what": "Counterfeiting Government stamp: Counterfeiting or knowingly performing part of the process of counterfeiting government revenue stamps will result in imprisonment for life or up to 10 years, and a fine."
+    },
+    "256": {
+      "what": "Possession of instrument or material for counterfeiting government stamps can lead to up to 7 years imprisonment and fine."
+    },
+    "257": {
+      "what": "Making or selling an instrument for counterfeiting Government stamps can result in imprisonment for up to 7 years and a fine."
+    },
+    "258": {
+      "what": "Selling counterfeit government stamps can lead to up to 7 years in prison and a fine."
+    },
+    "259": {
+      "what": "Possessing counterfeit government stamp with intent to use or dispose of it as genuine, punishable by up to 7 years imprisonment and fine."
+    },
+    "260": {
+      "what": "Using as genuine a Government stamp known to be counterfeit"
+    },
+    "261": {
+      "what": "Removes or effaces government stamp from substance or document with intent to cause loss to Government"
+    },
+    "262": {
+      "what": "Using a government stamp that has already been used fraudulently or to cause loss to the Government."
+    },
+    "263": {
+      "what": "Erasing or removing a mark from a government stamp that indicates it has been used is punishable by up to 3 years in prison, or a fine, or both."
+    },
+    "263A": {
+      "what": "Making, uttering, dealing in, selling, or using fictitious stamps is punishable with a fine of up to Rs. 200"
+    },
+    "264": {
+      "what": "A person who knowingly uses a fake weight-measuring device will face up to 1 year in prison, or a fine, or both."
+    },
+    "265": {
+      "what": "Whoever, fraudulently uses any false weight or false measure of length or capacity, or fraudulently uses any weight or any measure of length or capacity as a different weight or measure from what it is, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both."
+    },
+    "266": {
+      "what": "Possessing an instrument with false weight or measure with intent to use it fraudulently."
+    },
+    "267": {
+      "what": "Making or selling false weight or measure"
+    },
+    "268": {
+      "what": "A person is guilty of a public nuisance if their act or omission causes harm to the general public, people in nearby properties, or those who may need to use public rights."
+    },
+    "269": {
+      "what": "A person who intentionally or negligently spreads an infectious disease that can cause serious harm to life will face imprisonment for up to 6 months, or a fine, or both."
+    },
+    "270": {
+      "what": "A person who intentionally does an act that could spread a serious illness and cause harm to someone's life will face up to 2 years in prison, a fine, or both."
+    },
+    "271": {
+      "what": "A person who knowingly disobeys quarantine rules and regulations can be punished with: imprisonment for up to 6 months, fine, or both."
+    },
+    "272": {
+      "what": "Adultering any article of food or drink so it becomes noxious and selling it as food or drink, can lead to imprisonment up to 6 months, a fine of up to ₹1000, or both."
+    },
+    "273": {
+      "what": "Selling noxious food or drink is punishable with imprisonment up to 6 months or fine up to Rs. 1000 or both."
+    },
+    "274": {
+      "what": "Adulterating drugs for medicinal purposes can lead to imprisonment up to 6 months or fine up to Rs. 1000 or both."
+    },
+    "275": {
+      "what": "Selling adulterated drugs is punishable with imprisonment up to 6 months or fine up to Rs. 1000 or both."
+    },
+    "276": {
+      "what": "Misrepresenting a drug as a different one can lead to imprisonment up to 6 months or fine up to Rs. 1000 or both."
+    },
+    "277": {
+      "what": "Polluting public water sources can result in imprisonment up to 3 months or fine up to Rs. 500 or both."
+    },
+    "278": {
+      "what": "Making the atmosphere noxious can lead to a fine of up to Rs. 500."
+    },
+    "279": {
+      "what": "Rash driving on public ways is punishable with imprisonment up to 6 months or fine up to Rs. 1000 or both."
+    },
+    "280": {
+      "what": "Rash navigation of vessels can result in imprisonment up to 6 months or fine up to Rs. 1000 or both."
+    },
+    "281": {
+      "what": "Exhibiting false light, mark or buoy intending to mislead navigators is punishable with imprisonment of up to 7 years or fine."
+    },
+    "282": {
+      "what": "Conveying a person by water for hire in an unsafe or overloaded vessel is punishable with imprisonment up to 6 months, or a fine of up to ₹1,000, or both."
+    },
+    "283": {
+      "what": "Causing danger, obstruction, or injury to a person in a public way or line of navigation by doing an act or failing to take care of property."
+    },
+    "284": {
+      "what": "A person who handles a poisonous substance in a careless way that could harm someone's life or cause injury will be punished."
+    },
+    "285": {
+      "what": "Whoever does, with fire or any combustible matter, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any fire or any combustible matter in his possession as is sufficient to guard against any probable danger to human life from such fire or combustible matter."
+    },
+    "286": {
+      "what": "Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from that substance."
+    },
+    "287": {
+      "what": "Whoever does, with any machinery, any act so rashly or negligently as to endanger human life or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any machinery in his possession or under his care as is sufficient to guard against any probable danger to human life from such machinery."
+    },
+    "288": {
+      "what": "A person who knowingly or negligently fails to take necessary precautions to prevent harm from the collapse of a building during demolition or repair can be punished with imprisonment for up to 6 months, a fine of up to ₹1,000, or both."
+    },
+    "289": {
+      "what": "Knowingly or negligently omitting to take order to guard against probable danger from animal"
+    },
+    "290": {
+      "what": "A person who creates a public nuisance that is not specifically punished under the Indian Penal Code 1860 can be fined up to ₹200."
+    },
+    "291": {
+      "what": "If someone continues a public nuisance after being told not to by a government official, they can get up to 6 months in jail, or a fine, or both."
+    },
+    "292": {
+      "what": "Section 292 of the Indian Penal Code, 1860, deals with the sale, distribution, or possession of obscene books, pamphlets, papers, circulars, or any other written matter which is likely to corrupt public morals. The section states that whoever publishes, sells, circulates, or distributes such obscene material, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine."
+    },
+    "293": {
+      "what": "Selling obscene objects to young persons is punishable with imprisonment up to 3 years and a fine of up to Rs 2000."
+    },
+    "294": {
+      "what": "A person can be punished with up to 3 months' imprisonment, or a fine, or both if they perform an obscene act in public or sing/utter obscene words in a public place."
+    },
+    "294A": {
+      "what": "Keeping an office for drawing a lottery (except state lottery) can lead to imprisonment of up to 6 months or a fine, and publishing lottery proposals can result in a fine of up to ₹1000."
+    },
+    "295": {
+      "what": "Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons with the intention of insulting their religion, shall be punished with imprisonment for up to 2 years, or a fine, or both."
+    },
+    "295A": {
+      "what": "Deliberate and malicious acts intended to outrage religious feelings of any class by insulting its religion or religious beliefs."
+    },
+    "296": {
+      "what": "A person who intentionally disrupts a group of people who are legally attending a religious service can be imprisoned for up to 1 year, fined, or both."
+    },
+    "297": {
+      "what": "Trespassing on burial places, etc. - Punishment: Imprisonment of up to 1 year, fine, or both, if the intention is to wound feelings, insult religion, or cause disturbance during funeral ceremonies."
+    },
+    "298": {
+      "what": "Uttering words, making sounds, or gestures with the intention of wounding someone's religious feelings can lead to imprisonment for up to 1 year, a fine, or both."
+    },
+    "299": {
+      "what": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide."
+    },
+    "300": {
+      "what": "Section 300 states that culpable homicide is murder if the act by which the death is caused is done with the intention of causing death or bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused."
+    },
+    "301": {
+      "what": "If a person, by doing anything which he intends or knows to be likely to cause death, commits culpable homicide by causing the death of any person, whose death he neither intends nor knows himself to be likely to cause, the culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person who se death he intended or knew himself to he likely to cause."
+    },
+    "302": {
+      "what": "A person who kills someone will be punished with either death, imprisonment for life, or a fine."
+    },
+    "303": {
+      "what": "If someone who is already serving a life sentence (imprisonment for life) kills someone else, they will receive the death penalty."
+    },
+    "304": {
+      "what": "A person who causes the death of another person through culpable homicide not amounting to murder can be punished with imprisonment for life, or up to 10 years in prison, and/or a fine, if they intended to cause death or serious injury, or if they knew their actions could cause death but did not intend to."
+    },
+    "304A": {
+      "what": "Causing death by negligence. Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide , shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "304B": {
+      "what": "A woman's death is considered 'dowry death' if she dies due to burns or injuries within 7 years of marriage, and was subjected to cruelty or harassment by her husband or relative before her death, related to dowry demands."
+    },
+    "305": {
+      "what": "A person who helps someone else commit suicide will be punished with either death, life imprisonment, or up to 10 years in prison, and may also have to pay a fine."
+    },
+    "306": {
+      "what": "A person who helps someone else commit suicide can get up to 10 years in prison and a fine."
+    },
+    "307": {
+      "what": "Attempt to murder: Whoever does any act with intention or knowledge, and under circumstances that would make them guilty of murder if death resulted, shall be punished with up to 10 years imprisonment and/or fine. If someone is hurt, they may get life imprisonment or the original punishment."
+    },
+    "308": {
+      "what": "Attempt to commit culpable homicide"
+    },
+    "309": {
+      "what": "A person who tries to kill themselves and takes actions to do so will get up to 1 year in jail, or a fine, or both."
+    },
+    "310": {
+      "what": "A person who has often worked with others to commit robbery or kidnapping with murder is considered a thug."
+    },
+    "311": {
+      "what": "A person who is a thug can be punished with imprisonment for life and fined."
+    },
+    "312": {
+      "what": "Causing miscarriage: A person intentionally causing a woman with child to miscarry can be punished with imprisonment up to 3 years or fine (or both), and if the woman is pregnant, punishment can be up to 7 years in prison and fine."
+    },
+    "313": {
+      "what": "Causing miscarriage without the woman's consent is punishable by imprisonment for life or up to 10 years, and/or fine."
+    },
+    "314": {
+      "what": "A person who intentionally causes a woman's death while trying to induce a miscarriage will face up to 10 years in prison and a fine."
+    },
+    "315": {
+      "what": "Whoever before the birth of any child does any act with the intention of thereby preventing that child from being born alive or causing it to die after its birth, and does by such act prevent that child from being born alive, or causes it to die after its birth, shall, if such act be not caused in good faith for the purpose of saving the life of the mother, be punished with imprisonment of either description for a term which may extend to ten years, or with fine, or with both."
+    },
+    "316": {
+      "what": "Causing death of a quick unborn child by an act that would be considered culpable homicide if it resulted in the death of a person, shall result in imprisonment for up to 10 years and/or fine."
+    },
+    "317": {
+      "what": "Exposing or leaving a child under 12 years old with the intention of abandoning it can result in imprisonment for up to 7 years, or a fine, or both."
+    },
+    "318": {
+      "what": "Intentionally concealing the birth of a child by secretly burying or disposing of its dead body."
+    },
+    "319": {
+      "what": "Causing bodily pain, disease or infirmity to another person results in physical harm."
+    },
+    "320": {
+      "what": "complete explanation of grievous hurt includes: emasculation, permanent loss of sight or hearing, privation of a member or joint, destruction of powers of a member or joint, permanent disfiguration of the head or face, fracture or dislocation of a bone or tooth, and any hurt that endangers life or causes severe bodily pain for 20 days."
+    },
+    "321": {
+      "what": "A person intentionally causes harm to another person, or knows they may be harmed, and actually causes harm."
+    },
+    "322": {
+      "what": "A person intentionally or knowingly causes grievous hurt and also intends or knows they are likely to cause a different kind of grievous hurt."
+    },
+    "323": {
+      "what": "Punishment for voluntarily causing hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both."
+    },
+    "324": {
+      "what": "Voluntarily causing hurt by using dangerous weapons or means, such as shooting, stabbing, fire, poison, or explosives, can lead to imprisonment for up to 3 years or a fine."
+    },
+    "325": {
+      "what": "Voluntarily causing grievous hurt: Imprisonment up to 7 years and fine"
+    },
+    "326": {
+      "what": "Voluntarily causing grievous hurt by using dangerous weapons or means, such as fire, poison, explosives, or substances harmful to the human body."
+    },
+    "326A": {
+      "what": "Voluntarily causing grievous hurt by use of acid, etc. - Whoever causes permanent or partial damage or deformity to, or burns or maims or disfigures or disables, any part or parts of the body of a person or causes grievous hurt by throwing acid on or by administering acid to that person, or by using any other means with the intention of causing or with the knowledge that he is likely to cause such injury or hurt, shall be punished with imprisonment of either description for a term which shall not be less than ten years but which may extend to imprisonment for life, and with fine."
+    },
+    "326B": {
+      "what": "Voluntarily throwing or attempting to throw acid on a person with the intention of causing permanent or partial damage, burns, maiming, disfigurement, disability, or grievous hurt."
+    },
+    "327": {
+      "what": "A person who intentionally causes harm to someone in order to get money or property from them, or to force them to do something illegal, can face up to 10 years in prison and a fine."
+    },
+    "328": {
+      "what": "Administering poison or intoxicating substance with intent to cause harm or commit an offence"
+    },
+    "329": {
+      "what": "Whoever voluntarily causes grievous hurt for the purpose of extorting from the sufferer or from any person interested in the sufferer any property or valuable security, or of constraining the sufferer or any person interested in such sufferer to do anything that is illegal or which may facilitate the commission of an offence, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "330": {
+      "what": "Whoever voluntarily causes hurt, for the purpose of extorting from the sufferer or from any person interested in the sufferer, any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose o f constraining the sufferer or any person interested in the sufferer to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+    },
+    "331": {
+      "what": "Whoever voluntarily causes grievous hurt for the purpose of extorting from the sufferer or from any person interested in the sufferer any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constrai ning the sufferer or any person interested in the sufferer to restore or to cause the restoration of any property or valuable security, or to satisfy any claim or demand or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to ten years, an d shall also be liable to fine."
+    },
+    "332": {
+      "what": "Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+    },
+    "333": {
+      "what": "Whoever voluntarily causes grievous hurt to any person being a pub lic servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "334": {
+      "what": "Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both."
+    },
+    "335": {
+      "what": "Whoever 1[voluntarily] causes grievous hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause grievous hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to four years, or with fine which may extend to two thousand rupees, or with both."
+    },
+    "336": {
+      "what": "Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to three months or with fine which may extend to two hundred and fifty rupees, or with both."
+    },
+    "337": {
+      "what": "Causing hurt by act endangering life o r personal safety of others: Whoever causes hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five hundred rupees, or with both."
+    },
+    "338": {
+      "what": "Causing grievous hurt by act endangering life or personal safety of others: Whoever causes grievous hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one thousand rupees, or with both. Of wrongful restraint and wrongful confinement"
+    },
+    "339": {
+      "what": "Wrongful restraint: Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person. Exception.—The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section. Illustration A obstructs a path along which Z has a right to pass, A not believing in good f aith that he has a right to stop the path. Z is thereby prevented from passing. A wrongfully restrains Z."
+    },
+    "340": {
+      "what": "Wrongful confinement: Whoever wrongfully restrains any person in such a manner as to prevent that person from proceedings beyond certain circumscribing limits, is said “wrongfully to confine” that person. Illustrations (a) A causes Z to go within a walled space, and locks Z inZ is thus prevented from proceeding in any direction beyond the circumscribing line of wall. A wrongfully confines Z. (b) A p laces men with firearms at the outlets of a building, and tells Z that they will fire at Z if Z attempts leave the building. A wrongfully confines Z."
+    },
+    "341": {
+      "what": "Punishment for wrongful restraint: Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both."
+    },
+    "342": {
+      "what": "Punishment for wrongful confinement: Whoever wrongfully confines an y person shall be punished with imprisonment of either de scription for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both."
+    },
+    "343": {
+      "what": "Wrongful confinement for three or more days: Whoever wrongfully confines any person for three days, or more, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "344": {
+      "what": "Wrongful confinement for ten or more days: Whoever wrongfully confines any person for ten days, or more, shall be punished with imprisonment of ei ther description for a term which may extend to three years, and shall also be liable to fine."
+    },
+    "345": {
+      "what": "Whoever keeps any person in wrongful confinement, knowing that a writ for the liberation of that person has been duly issued, shall be punished with imprisonment of either description for a term which may extend to two years in addition to any term of imprisonment to which he may be liable under any other section of this Chapter."
+    },
+    "346": {
+      "what": "A person who secretly confines someone without letting anyone know, including public servants or the person's family, can get up to 2 years in prison and additional punishments."
+    },
+    "347": {
+      "what": "A person who wrongfully confines someone to get money or property, or forces them to do something illegal, can be imprisoned for up to 3 years and fined."
+    },
+    "348": {
+      "what": "A person who wrongly confines someone to get a confession or information, or to force them to return property, can be punished with up to 3 years in prison and a fine."
+    },
+    "349": {
+      "what": "A person uses force if they cause another person's motion, change in motion, or stop motion, or if they make a substance move, change its motion, or stop it so that it touches another person's body, something they are wearing, or something near them that affects their sense of touch. This can be done in three ways: by using their own body power, by making a substance move without doing anything else, or by making an animal move."
+    },
+    "350": {
+      "what": "A person intentionally uses force against another person without their consent, with the intention of committing an offence or causing harm, fear, or annoyance to the other person."
+    },
+    "351": {
+      "what": "Whoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault."
+    },
+    "352": {
+      "what": "A person who assaults someone without serious reason will be punished with up to 3 months in prison, or a fine of up to 500 rupees, or both."
+    },
+    "353": {
+      "what": "A person who assaults or uses force to prevent a public servant from doing their job will be punished with imprisonment for up to 2 years, or a fine, or both."
+    },
+    "354": {
+      "what": "A man who physically harms or uses force against a woman with the intention of humiliating her, can face imprisonment for at least one year and up to five years, and may also be fined."
+    },
+    "354A": {
+      "what": "A person committing any of the following acts will be guilty of sexual harassment: physical contact and advances involving unwelcome and explicit sexual overtures, demanding or requesting sexual favors, showing pornography against a woman's will, or making sexually colored remarks. The punishment for this offense can be imprisonment for up to 3 years, fine, or both."
+    },
+    "354B": {
+      "what": "A man who assaults or uses force on a woman to disrobe her or compel her to be naked will face imprisonment of at least 3 years and up to 7 years, plus a fine."
+    },
+    "354C": {
+      "what": "A man who watches a woman during a private moment without her consent and shares the image will get at least 1 year in prison and/or a fine. If he does it again, he'll get at least 3 years in prison and/or a fine."
+    },
+    "354D": {
+      "what": "This section defines stalking and prescribes punishment for it."
+    },
+    "354E": {
+      "what": "Whoever, being present at the time of commission of an offence under section 354, section 354A, section 354B, section 354C or section 354D and being able to prevent such offence, fails to prevent the commission of such offence or not being in position to prevent the commission of such offence, fails to give information of the commission of such offence to the nearest magistrate or police officer, by any mode, with the intention of screening the offender from legal punishment, shall be liable for abetment of such offence and shall be punished with imprisonment of either description which may extend to three years or with fine or with both."
+    },
+    "355": {
+      "what": "A person who assaults someone with the intention of dishonoring them, but not due to grave and sudden provocation, can face up to 2 years in prison, a fine, or both."
+    },
+    "356": {
+      "what": "A person who assaults or uses force to steal someone's property they are wearing or carrying will face up to 2 years in prison, or a fine, or both."
+    },
+    "357": {
+      "what": "A person who tries to wrongly confine someone by using force or threatening them will get up to 1 year in prison, or a fine of up to 1000 rupees, or both."
+    },
+    "358": {
+      "what": "Assaulting someone on grave and sudden provocation can lead to a maximum of one month in prison, or a fine of up to 200 rupees, or both."
+    },
+    "359": {
+      "what": "Kidnapping is defined as taking a person away against their will, with two types: kidnapping from within India and kidnapping from lawful guardianship."
+    },
+    "360": {
+      "what": "Conveying a person beyond India's borders without their consent or authorized consent"
+    },
+    "361": {
+      "what": "Whoever takes or entices any minor under 2[sixteen] years of age if a male, or under 3[eighteen] years of age if a female, or any person of unsound mind, out of the keeping of the lawful guardian of such minor or person of unsound mind, without the consent of such guardian, is said to kidnap such minor or person from lawful guardianship."
+    },
+    "362": {
+      "what": "A person is considered abducted if they are forced or deceived into leaving a place against their will."
+    },
+    "363": {
+      "what": "A person who takes someone without their consent from India or from a legal guardian will get up to 7 years in prison and have to pay a fine."
+    },
+    "363A": {
+      "what": "Kidnapping or maiming a minor for purposes of begging is punishable with imprisonment of either description for up to 10 years and/or fine. Maiming a minor for this purpose can result in life imprisonment and/or fine."
+    },
+    "364": {
+      "what": "A person who kidnaps or abducts someone with the intention of killing them, putting them in danger of being killed, or disposing of them to face harm, will be punished with imprisonment for life or up to 10 years and a fine."
+    },
+    "364A": {
+      "what": "Whoever kidnaps or abducts a person and threatens to cause harm or death, or gives reason to believe they may be harmed, in order to compel someone to do an act, pay a ransom, or abstain from doing something, shall face the death penalty, life imprisonment, or fine."
+    },
+    "365": {
+      "what": "A person who takes someone without their consent with the intention of keeping them hidden and against their will can face up to 7 years in prison and a fine."
+    },
+    "366": {
+      "what": "A person who kidnaps or abducts a woman with the intention of forcing her into marriage against her will, or knowing it is likely that she will be forced into marriage, can face up to 10 years in prison and a fine. Additionally, if they use intimidation, abuse of authority, or any other method to compel the woman to go somewhere with them, they can also face up to 10 years in prison and a fine."
+    },
+    "366A": {
+      "what": "Whoever, by any means whatsoever, induces any minor girl under the age of eighteen years to go from any place or to do any act with intent that such girl may be, or knowing that it is likely that she will be, for ced or seduced to illicit intercourse with another person shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine."
+    },
+    "366B": {
+      "what": "A person who brings a girl under 21 from outside India (or Jammu and Kashmir) with the intention of forcing her into sex or knowing it's likely she will be, faces up to 10 years in prison and a fine."
+    },
+    "367": {
+      "what": "A person who kidnaps or abducts someone to put them in danger of being hurt severely, enslaved, or subjected to unnatural desires will face up to 10 years in prison and a fine."
+    },
+    "368": {
+      "what": "A person who knows someone has been kidnapped or abducted and then wrongfully hides or keeps them in captivity will be punished as if they had committed the kidnapping or abduction themselves."
+    },
+    "369": {
+      "what": "A person who takes a child under 10 years old with the intention of stealing something from them can get up to 7 years in prison and a fine."
+    },
+    "370": {
+      "what": "A person commits the offence of trafficking by recruiting, transporting, harbouring, transferring, or receiving a person using threats, force, coercion, abduction, fraud, deception, abuse of power, or inducement, with the consent of the person having control over the victim."
+    },
+    "370A": {
+      "what": "Exploiting someone who has been trafficked for sexual exploitation is punishable by: - 5-7 years in prison - Fine"
+    },
+    "371": {
+      "what": "Habitually importing, exporting, removing, buying, selling, trafficking, or dealing in slaves. Punishment includes imprisonment for life or up to 10 years, and fine."
+    },
+    "372": {
+      "what": "Selling minor for purposes of prostitution, etc - Whoever sells, lets to hire, or otherwise disposes of any person under the age of eighteen years with intent that such person shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, or knowing it to be likely that such person will at any age be employed or used for any such purpose, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "373": {
+      "what": "A person who buys, hires or obtains a minor (under 18 years old) with the intention of using them for prostitution or any other immoral purpose will be punished with up to 10 years in prison and a fine."
+    },
+    "374": {
+      "what": "A person who forces someone to work without their consent can get up to 1 year in prison, or a fine, or both."
+    },
+    "375": {
+      "what": "A man commits"
+    },
+    "376": {
+      "what": "Section 376 states that whoever commits rape, except in the cases provided for in sub-section (2), shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine."
+    },
+    "376A": {
+      "what": "Whoever commits an offence punishable under sub-section (1) or sub-section (2) of section 376 and in the course of such commission inflicts an injury which causes the death of the woman or causes the woman to be in a persistent vegetative state, shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person's natural life, or with death."
+    },
+    "376B": {
+      "what": "A man who has sex with his wife while she is separated from him without her consent must be imprisoned for at least 2 years and up to 7 years, and may also receive a fine."
+    },
+    "376C": {
+      "what": "A person in a position of authority, fiduciary relationship, or public service who abuses their power to induce or seduce someone under their care into having sexual intercourse will be punished with at least 5 years and up to 10 years in prison and may also receive a fine."
+    },
+    "376D": {
+      "what": "Gang rape"
+    },
+    "376E": {
+      "what": "Punishment for repeat offenders: Whoever has been previously convicted of an offence punishable under sections 376, 376A, or any of the specified sections and is subsequently convicted of an offence punishable under any of those sections shall be punished with imprisonment for life or death."
+    },
+    "376F": {
+      "what": "A person in charge of a workplace or anyone present at the place who knows an offence under sections 376 or 376D is being committed and has the power to prevent it but fails to do so, shall be punished with imprisonment up to 3 years and fine."
+    },
+    "377": {
+      "what": "A person who engages in non-consensual sexual activity with another person or animal will face imprisonment for up to 10 years and/or a fine."
+    },
+    "378": {
+      "what": "Section 378 states that whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft."
+    },
+    "379": {
+      "what": "A person who steals something can get up to 3 years in prison or a fine or both."
+    },
+    "379A": {
+      "what": "Snatching: Whoever, with the intention to commit theft, suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his physical possession any movable property, and makes or attempts to make escape with such property, is said to commit snatching."
+    },
+    "380": {
+      "what": "A person who steals something from a building, tent, or boat that is used as a home or to store things can get up to 7 years in prison and have to pay a fine."
+    },
+    "381": {
+      "what": "A person who is a clerk, servant, or employee commits theft if they take property that belongs to their employer while it is in the employer's possession."
+    },
+    "382": {
+      "what": "Whoever commits theft with preparation for causing death, hurt, or restraint shall be punished with rigorous imprisonment up to 10 years and fine."
+    },
+    "382B": {
+      "what": "A person who takes something away from someone by force or threat must face a prison sentence of at least 7 years, up to 10 years, or a fine (or both)."
+    },
+    "382C": {
+      "what": "A person who steals a vehicle from an open or closed area is guilty of 'vehicle lifting'."
+    },
+    "382D": {
+      "what": "A person who lifts a vehicle must face at least 7 years in prison, up to 10 years, or a fine (or both)"
+    },
+    "382E": {
+      "what": "Whoever commits theft of a 'Cattle' either from open or close arena is said to commit the offence of 'Cattle lifting'. A 'Cattle' means a cow and a calf, bull, bullock, buffalo-male or female, she-buffalo, ox or oxen."
+    },
+    "382F": {
+      "what": "Whoever commits the offence of 'Cattle lifting' shall be punished with imprisonment for a term which shall not be less than seven years but may extend to a term of ten years or with fine or with both."
+    },
+    "383": {
+      "what": "A person commits extortion by intentionally putting someone in fear of harm or injury to themselves or others, with the goal of getting them to give something of value, such as money, property, or a signed document."
+    },
+    "384": {
+      "what": "A person who commits extortion can be punished with up to 3 years in prison, a fine, or both."
+    },
+    "385": {
+      "what": "Punishment for putting someone in fear to commit extortion"
+    },
+    "386": {
+      "what": "A person who threatens someone with death or serious injury to get something from them will face up to 10 years in prison and a fine."
+    },
+    "387": {
+      "what": "A person who tries to scare someone into giving money or something else will get up to 7 years in jail and possibly a fine."
+    },
+    "388": {
+      "what": "A person who threatens someone with an accusation of a serious crime (like death or long imprisonment) can be punished with up to 10 years in prison and/or fined."
+    },
+    "389": {
+      "what": "Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of an accusation, against that person or any other, of having committed, or attempted to commit, an offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and, if the offence be punishable under section 377 of this Code, may be punished with imprisonment for life."
+    },
+    "390": {
+      "what": "Section 390 states that robbery is defined as theft where the offender causes or attempts to cause death or hurt or wrongful restraint to any person, or puts a person in fear of instant death or of instant hurt or of instant wrongful restraint."
+    },
+    "391": {
+      "what": "Section 391 defines dacoity as when five or more persons conjointly commit or attempt to commit a robbery, and every person committing, attempting, or aiding such commission or attempt is said to commit dacoity."
+    },
+    "392": {
+      "what": "Section 392 states that whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years."
+    },
+    "393": {
+      "what": "Section 393 states that whoever attempts to commit robbery shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine."
+    },
+    "394": {
+      "what": "Section 394 states that if any person, in committing or attempting to commit robbery, voluntarily causes hurt, such person and any other person jointly concerned in committing or attempting to commit such robbery shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "395": {
+      "what": "Section 395 states that whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "396": {
+      "what": "Section 396 states that if any one of five or more persons who are conjointly committing dacoity commits murder in so committing dacoity, every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "397": {
+      "what": "Section 397 states that if at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years."
+    },
+    "398": {
+      "what": "If, at the time of attempting to commit robbery or dacoity, the offender is armed with any deadly weapon, the imprisonment with which such offender shall be punished shall not be less than seven years."
+    },
+    "399": {
+      "what": "Whoever makes any preparation for committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "400": {
+      "what": "Whoever, at any time after the passing of this Act, shall belong to a gang of persons associated for the purpose of habitually committing dacoity, shall be punished with 1[imprisonment for life], or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "401": {
+      "what": "Whoever, at any time after the passing of this Act, shall belong to any wandering or other gang of persons associated for the purpose of habitually committing theft or robbery, and not being a gang of thugs or dacoits, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine."
+    },
+    "402": {
+      "what": "Whoever, at any time after the passing of this Act, shall be one of five or more persons assembled for the purpose of committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine."
+    },
+    "403": {
+      "what": "Whoever dishonestly misappropriates or converts to his own use any movable property, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "404": {
+      "what": "Whoever dishonestly misappropriates or converts t o his own use property, knowing that such property was in the possession of a deceased person at the time of that person's decease, and has not since been in the possession of any person legally entitled to such possession, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine,"
+    },
+    "405": {
+      "what": "Section 405 states that whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits criminal breach of trust."
+    },
+    "406": {
+      "what": "A person who breaks the trust of another can be punished with up to 3 years in prison, or a fine, or both."
+    },
+    "407": {
+      "what": "A person who is entrusted with someone else's property (like a carrier, wharfinger or warehouse-keeper) commits a crime if they misuse that property."
+    },
+    "408": {
+      "what": "A person who is a clerk or servant and has control over property must return it according to the rules and face penalties, including up to 7 years in prison and fines."
+    },
+    "409": {
+      "what": "A public servant or someone in business as a banker, merchant, factor, broker, attorney or agent who misuses property they were entrusted with will get up to 10 years in prison and/or be fined."
+    },
+    "410": {
+      "what": "Stolen property refers to property that was obtained through theft, extortion, robbery, or criminal misappropriation. This includes property that has been transferred without permission and property where a breach of trust has occurred. Stolen property can still be considered stolen if it is later found by someone who does not have the right to possess it."
+    },
+    "411": {
+      "what": "A person who knowingly receives or keeps stolen property will face punishment, including up to 3 years in prison, a fine, or both."
+    },
+    "412": {
+      "what": "Dishonestly receiving property stolen in the commission of a dacoity: Whoever dishonestly receives or retains any stolen property, the possession whereof he knows or has reason to believe to have been transferred by the commission of dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged to a gang of dacoits, property which he knows or has reason to believe to be stolen, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "413": {
+      "what": "Habitually dealing in stolen property: Whoever habitually receives or deals in property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "414": {
+      "what": "Assisting in concealment of stolen property: Whoever voluntarily assists in concealing or disposing of or making away with property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+    },
+    "415": {
+      "what": "Cheating: Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to “cheat”."
+    },
+    "416": {
+      "what": "Cheating by personation: A person is said to “cheat by personation” if he cheats by pretending to be some other person, or by knowingly substituting one person for or another, or representing that he or any other person is a person other than he or such other person really is."
+    },
+    "417": {
+      "what": "Punishment for cheating: Whoever cheats shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both."
+    },
+    "418": {
+      "what": "Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect.—Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest in the transaction to which the cheating relates, he was bound, either by law, or by a legal contract, to protect, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+    },
+    "419": {
+      "what": "Punishment for cheating by personation: Whoever cheats by personation shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+    },
+    "420": {
+      "what": "Section 420 states that whoever cheats and dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+    },
+    "421": {
+      "what": "Section 421 states that whoever dishonestly or fraudulently removes, conceals or delivers to any person, or transfers or causes to be transferred to any person, without adequate consideration, any property, intending thereby to prevent, or knowing it to be likely that he will thereby prevent, the distribution of that property according to law among his creditors or the creditors of any other person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "422": {
+      "what": "Section 422 states that whoever dishonestly or fraudulently prevents any debt or demand due to himself or to any other person from being made available according to law for payment of his debts or the debts of such other person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "423": {
+      "what": "Section 423 states that whoever dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument which purports to transfer or subject to any charge any property, or any interest therein, and which contains any false statement relating to the consideration for such transfer or charge, or relating to the person or persons for whose use or benefit it is really intended to operate, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "424": {
+      "what": "Section 424 states that whoever dishonestly or fraudulently conceals or removes any property of himself or any other person, or dishonestly or fraudulently assists in the concealment or removal thereof, or dishonestly releases any demand or claim to which he is entitled, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "425": {
+      "what": "Section 425 states that whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief."
+    },
+    "426": {
+      "what": "Section 426 states that whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both."
+    },
+    "427": {
+      "what": "Section 427 states that whoever commits mischief and thereby causes loss or damage to the amount of fifty rupees or upwards, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "428": {
+      "what": "Whoever commits mischief by killing, poisoning, maiming or rendering useless any animal or animals of the value of the ten rupees or upwards, shall be punished with imprisonment of either descripti on for a term which may extend to two years, or with fine, or with both."
+    },
+    "429": {
+      "what": "Whoever commits mischief by killing, poisoning, maiming or rendering useless any animal worth 50 rupees or more will face up to 5-year imprisonment, or a fine, or both."
+    },
+    "430": {
+      "what": "Whoever commits mischief by doing any act which causes, or which he knows to be likely to cause, a diminution of the supply of water for agricultural purposes, or for food or drink for human beings or for animals which are property, or for cleanliness or for carrying on any manufacture, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both."
+    },
+    "431": {
+      "what": "Whoever commits mischief by doing any act which renders or which he knows to be likely to render any public road, bridge, navigable river or navigable channel, natural or artificial, impassable or less safe for travelling or conveying property."
+    },
+    "432": {
+      "what": "Causing mischief that causes flooding or blockage of public drains and results in damage."
+    },
+    "433": {
+      "what": "Whoever commits mischief by destroying or moving any light-house or sea-mark, or any sea-mark or buoy or other thing placed as a guide for navigators, or by any act which renders any such light-house, sea-mark, buoy or other such thing as aforesaid less useful as a guide for navigators, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
+    },
+    "434": {
+      "what": "Whoever commits mischief by destroying or moving any landmark fixed by the authority of a public servant, or by any act which renders such landmark less useful as such, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both."
+    },
+    "435": {
+      "what": "Whoever commits mischief by fire or any explosive substance intending to cause damage to any property worth one hundred rupees or more (or ten rupees or more if the property is agricultural produce) will face up to 7 years in prison and a fine."
+    },
+    "436": {
+      "what": "Whoever commits mischief by fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, the destruction of any building which is ordinarily used as a place of worship or as a human dwelling or as a place for the custody of property, shall be punished with 2[imprisonment for life], or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "437": {
+      "what": "A person who intentionally damages or makes a ship unsafe (if the ship is 20 tons or more) can get up to 10 years in prison and a fine."
+    },
+    "438": {
+      "what": "Punishment: Up to imprisonment for life or up to 10 years and fine"
+    },
+    "439": {
+      "what": "A person who intentionally runs a vessel aground or ashore to commit theft or dishonestly take property will face up to 10 years in prison and a fine."
+    },
+    "440": {
+      "what": "A person who causes damage after preparing to harm someone's life, health, freedom, or safety will face up to 5 years in prison and a possible fine."
+    },
+    "441": {
+      "what": "A person who enters or remains on someone else's property with the intention of committing a crime, intimidating, insulting, or annoying the owner, is guilty of"
+    },
+    "442": {
+      "what": "A person who enters or stays in a building used for human dwelling, worship, or property custody without permission commits 'house-trespass'."
+    },
+    "443": {
+      "what": "A person commits"
+    },
+    "444": {
+      "what": "Section 444 states that lurking house-trespass by night refers to committing house-trespass after sunset and before sunrise."
+    },
+    "445": {
+      "what": "A person commits"
+    },
+    "446": {
+      "what": "A person who breaks into a house between sunset and sunrise is guilty of 'house-breaking by night'."
+    },
+    "447": {
+      "what": "A person who enters someone else's property without permission can be punished with up to 3 months in jail, a fine of up to ₹500, or both."
+    },
+    "448": {
+      "what": "A person who enters someone else's house without permission can be punished with up to 1 year in prison, or fined up to ₹1000, or both."
+    },
+    "449": {
+      "what": "A person who breaks into someone's house to commit a crime that can result in the death of the victim will be punished with either life imprisonment or up to 10 years in prison and may also have to pay a fine."
+    },
+    "450": {
+      "what": "A person who breaks into someone's house to commit an offense that can lead to a life sentence will get up to 10 years in prison and may have to pay a fine."
+    },
+    "451": {
+      "what": "A person who breaks into someone's house with the intention of committing a crime that can result in jail time will get up to 2 years in prison and/or a fine. If they're trying to steal, they could get up to 7 years in prison."
+    },
+    "452": {
+      "what": "Whoever commits house-trespass, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting a person in fear of hurt, or of assault , or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+    },
+    "453": {
+      "what": "A person who breaks into a house without being invited can get up to 2 years in prison and/or be fined."
+    },
+    "454": {
+      "what": "A person who breaks into a house with the intention of committing an offense that can result in imprisonment will receive up to 3 years in prison and/or a fine. If the intended crime is theft, the sentence can be up to 10 years."
+    },
+    "455": {
+      "what": "Whoever commits lurking house-trespass, or house-breaking, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or of assault or of wrongful restraint, shall be punished with imprisonment of either description or a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "456": {
+      "what": "A person who breaks into a house at night without permission will be imprisoned for up to 3 years and fined."
+    },
+    "457": {
+      "what": "Whoever commits lurking house-trespass by night, or house-breaking by night, in order to commit an offence punishable with imprisonment, shall be punished with imprisonment for a term which may extend to five years and shall also be liable to fine. If the offence intended is theft, the term of imprisonment may be extended to fourteen years."
+    },
+    "458": {
+      "what": "Whoever commits lurking house-trespass by night, or house-breaking by night, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine."
+    },
+    "459": {
+      "what": "Causing grievous hurt while committing house-trespass or house-breaking, or attempting to cause death or grievous hurt."
+    },
+    "460": {
+      "what": "Punishable where death or grievous hurt caused by one of them.—If, at the time of the committing of lurking house-trespass by night or house-breaking by night, any person guilty of such offence shall voluntarily cause or attempt to cause death or grievous hurt to any person, every person jointly concerned in committing such lurkking house-trespass by night or house-breaking by night, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "461": {
+      "what": "A person who intentionally opens a container that might have something valuable inside will get up to 2 years in jail, or a fine, or both."
+    },
+    "462": {
+      "what": "A person who breaks open a closed receptacle containing property without permission will be punished with imprisonment for up to 3 years, or a fine, or both."
+    },
+    "463": {
+      "what": "A person who creates a false document or electronic record with the intention of causing harm or injury to someone or something, or to gain an advantage through deception, commits forgery."
+    },
+    "464": {
+      "what": "Section 464 of the Indian Penal Code, 1860 states that whoever makes or alters any document or electronic record with the intention of deceiving others into believing it was created or altered by someone else without their actual authority, shall be punished with imprisonment of either description for a term which may extend to seven years and shall also be liable to fine. Additionally, making a false document in the name of a fictitious person or a deceased person with intent to deceive is considered forgery, punishable under this section."
+    },
+    "465": {
+      "what": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "466": {
+      "what": "Forging a document or electronic record that appears to be from a court, public register, or official document can lead to up to 7 years in prison and a fine."
+    },
+    "467": {
+      "what": "Forging a document that appears to be a valuable security, will, or authority, with penalties including imprisonment for life and fine."
+    },
+    "468": {
+      "what": "A person who creates a fake document or record with the intention of deceiving others will face up to 7 years in prison and a fine."
+    },
+    "469": {
+      "what": "A person who commits forgery intending to harm someone's reputation can get up to 3 years in prison and a fine."
+    },
+    "470": {
+      "what": "A false document or electronic record made wholly or in part by forgery is called a forged document."
+    },
+    "471": {
+      "what": "Using a forged document or electronic record with the intention of deceiving others, knowing it is fake, and facing punishment for forging it."
+    },
+    "472": {
+      "what": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 467."
+    },
+    "473": {
+      "what": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable otherwise"
+    },
+    "474": {
+      "what": "Possessing a forged document with the intention of using it as genuine. If the document is one of two types (described in sections 466 or 467), punishment includes imprisonment for up to 7 years and/or fine. For the other type, punishment includes imprisonment for life and/or up to 7 years and/or fine."
+    },
+    "475": {
+      "what": "Counterfeiting device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material. Anyone who counterfeits or possesses such material with the intention of giving it a false appearance of authenticity will face imprisonment for life or up to seven years and a fine."
+    },
+    "476": {
+      "what": "Counterfeiting device or mark used for authenticating documents other than those described, with intent to give appearance of authenticity to any document then forged or thereafter to be forged on such material."
+    },
+    "477": {
+      "what": "A person who intentionally destroys, alters, or conceals a will, adoption authority, or valuable security document with the goal of causing harm to someone or the public can face up to 7 years in prison and/or a fine."
+    },
+    "477A": {
+      "what": "complete explanation"
+    },
+    "479": {
+      "what": "A mark used to show that movable property belongs to a particular person is called a property mark."
+    },
+    "481": {
+      "what": "Using a false property mark"
+    },
+    "482": {
+      "what": "A person who uses a false property mark (except if they can prove it was not done with the intention to deceive) will face punishment. The punishment can be imprisonment for up to 1 year, a fine, or both."
+    },
+    "483": {
+      "what": "Counterfeiting a property mark used by another can result in imprisonment for up to 2 years, or a fine, or both."
+    },
+    "484": {
+      "what": "Counterfeiting a mark used by a public servant, using it as genuine knowing it to be counterfeit, can lead to imprisonment of up to three years and fine."
+    },
+    "485": {
+      "what": "Making or possessing an instrument to counterfeit a property mark can result in up to 3 years of imprisonment, a fine, or both."
+    },
+    "486": {
+      "what": "Selling goods marked with a counterfeit property mark. If you sell goods with a fake mark, you can be punished with up to 1 year in prison, a fine, or both."
+    },
+    "487": {
+      "what": "Making false marks on goods containers can lead to up to 3 years in prison, or a fine, or both."
+    },
+    "488": {
+      "what": "If you make use of a false mark, you will be punished like for committing an offence under this section, unless you can prove you didn't intend to deceive."
+    },
+    "489": {
+      "what": "Tampering with property mark with intent to cause injury"
+    },
+    "489A": {
+      "what": "Counterfeiting currency-notes or bank-notes: Whoever counterfeits or knowingly performs part of the process of counterfeiting currency-notes or bank-notes shall face imprisonment up to 10 years and/or fine."
+    },
+    "489B": {
+      "what": "Selling, buying, or receiving forged or counterfeit currency-notes or bank-notes with knowledge of their forgery."
+    },
+    "489C": {
+      "what": "Possession of forged or counterfeit currency-note or bank-note. If you have forged or counterfeit currency-note or bank-note in your possession and know it's fake, but plan to use it as if it's real, you can face up to 7 years in prison, a fine, or both."
+    },
+    "489D": {
+      "what": "Making or possessing instruments or materials for forging or counterfeiting currency notes is punishable by up to 10 years in prison and/or a fine."
+    },
+    "489E": {
+      "what": "Making or using documents resembling currency-notes or bank-notes: Anyone who creates, uses, or gives such documents to someone else can be fined up to ₹100. If the person whose name is on the document refuses to reveal their maker's identity without a valid reason, they can be fined up to ₹200."
+    },
+    "491": {
+      "what": "A person who has a contract to care for someone who is unable to take care of themselves due to youth, illness, or weakness, willfully fails to do so, may face imprisonment for up to 3 months, a fine of up to 200 rupees, or both."
+    },
+    "493": {
+      "what": "A man who deceives a woman into believing she is married to him and they cohabitate or have sex will face up to 10 years in prison and a fine."
+    },
+    "494": {
+      "what": "Marrying again during lifetime of husband or wife: Punishment and exceptions"
+    },
+    "495": {
+      "what": "Whoever commits the offence defined in the last preceding section having concealed from the person with whom the subsequent marriage is contracted, the fact of the former marriage, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "496": {
+      "what": "A person who gets married fraudulently without having a lawful marriage can be imprisoned for up to 7 years and fined."
+    },
+    "497": {
+      "what": "A person who has sex with someone they know is married to, without their husband's consent, can get up to 5 years in jail or a fine."
+    },
+    "498": {
+      "what": "A man can be punished if he takes or entices away a married woman from her husband or someone looking after her, with the intention of having an illicit relationship with her."
+    },
+    "498A": {
+      "what": "The husband or relative of the husband of a woman who subjects her to cruelty can be punished with up to 3 years imprisonment and fined."
+    },
+    "499": {
+      "what": "Section 499 of the Indian Penal Code, 1860 states that whoever publishes or circulates any statement, rumour, charge or slanderous matter with the intent to lower the estimation of a public servant, public figure or institution, shall be punished. However, it is not defamation to make an imputation on the character of another if made in good faith for the protection of one's own interests, for the public good, or for the good of a person to whom it is conveyed."
+    },
+    "500": {
+      "what": "Punishment for defamation states that whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both."
+    },
+    "501": {
+      "what": "Printing or engraving matter known to be defamatory states that whoever prints or engraves any matter, knowing or having good reason to believe that such matter is defamatory of any person, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both."
+    },
+    "502": {
+      "what": "Sale of printed or engraved substance containing defamatory matter states that whoever sells or offers for sale any printed or engraved substance containing defamatory matter, knowing that it contains such matter, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both."
+    },
+    "503": {
+      "what": "Criminal intimidation states that whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, commits criminal intimidation."
+    },
+    "504": {
+      "what": "Intentional insult with intent to provoke breach of the peace states that whoever intentionally insults, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    "505": {
+      "what": "Statements conducing to public mischief states that whoever makes, publishes or circulates any statement, rumour or report,— (a) with intent to cause, or which is likely to cause, any officer, soldier, sailor or airman in the Army, Navy or Air Force of India to mutiny or otherwise disregard or fail in his duty as such; or (b) with intent to cause, or which is likely to cause, fear or alarm to the public, or to any section of the public whereby any person may be induced to commit an offence against the State or against the public tranquility; or (c) with intent to incite, or which is likely to incite, any class or community of persons to commit any offence against any other class or community, shall be punished with imprisonment which may extend to three years, or with fine, or with both."
+    },
+    "506": {
+      "what": "Punishment for criminal intimidation states that whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; If threat be to cause death or grievous hurt, etc.—and if the threat be to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
+    },
+    "507": {
+      "what": "Criminal intimidation by an anonymous communication states that whoever commits the offence of criminal intimidation by an anonymous communication, or having taken precaution to conceal the name or abode of the person from whom the threat comes, shall be punished with imprisonment of either description for a term which may extend to two years, in addition to the punishment provided for the offence by the last preceding section."
+    },
+    "508": {
+      "what": "Whoever voluntarily causes or attempts to cause any person to do anything which that person is not legally bound to do, or to omit to do anything which he is legally ent itled to do, by inducing or attempting to induce that person to believe that he or any person in whom he is interested will become or will be rendered by some act of the offender an object of Divine displeasure if he does not do the thing which it is the object of the offender to cause him to do, or if he does the thing which it is the object of the offender to cause him to omit, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both."
+    },
+    "509": {
+      "what": "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine."
+    },
+    "509A": {
+      "what": "A relative of a woman (not her husband) who takes advantage of their relationship and induces, seduces, or threatens the woman to insult her modesty can be punished with imprisonment for 1-5 years and fined."
+    },
+    "509B": {
+      "what": "Whoever uses electronic means to send obscene or harassing messages with intent to harass or annoy a woman, can be imprisoned for at least 6 months and up to 2 years, and may also receive a fine."
+    },
+    "510": {
+      "what": "A person who is drunk and enters a public place or a private place where they shouldn't be can be punished by up to 24 hours in jail, a fine of up to 10 rupees, or both."
+    },
+    "511": {
+      "what": "Attempt to commit an offence punishable with imprisonment for life or imprisonment, and doing any act towards commission of the offence."
+    }
+  }
+}

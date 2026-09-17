@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# LexBrief
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+LexBrief contains two independent PDF workflows selected from the frontend:
 
-## Available Scripts
+- **Judge** extracts neutral, decision-relevant facts and evidence issues.
+- **Lawyer** extracts source-grounded facts and builds a working legal-strategy brief.
 
-In the project directory, you can run:
+Only the selected role's upload and output components are mounted. Both backend
+pipelines use the same page-aware PDF extraction and response post-processing
+module, but have separate LLM prompts and separate saved outputs.
 
-### `npm start`
+## Start the backend
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```powershell
+cd backend
+py -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+Copy-Item .env.example .env
+python app.py
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Run `ollama serve` separately and pull both the chat and embedding models:
 
-### `npm test`
+```powershell
+ollama pull llama3.2:3b
+ollama pull nomic-embed-text
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Start the frontend
 
-### `npm run build`
+From the project root in a second PowerShell window:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```powershell
+npm install
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The frontend uses `http://localhost:5000` by default. To override it, create a
+root `.env` containing `REACT_APP_API_BASE_URL=http://your-backend-host:5000`.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Saved analysis
 
-### `npm run eject`
+The backend saves uploads and JSON results beneath `backend/saved_analysis`.
+Uploading identical PDF bytes to the same pipeline reuses the saved result;
+Judge and Lawyer outputs are cached independently. Configure a different durable
+location with `ANALYSIS_DATA_DIR` when deploying.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The chatbot indexes these saved JSON outputs as LangChain documents in a
+persistent Chroma database. To index existing saved analyses before starting
+the API, run `python index_saved_analyses.py` from the `backend` folder.

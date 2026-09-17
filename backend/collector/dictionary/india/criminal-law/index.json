@@ -1,0 +1,90 @@
+{
+  "schema_version": "2.0",
+  "record_type": "indian_law_type_index",
+  "country": "India",
+  "law_type": "Criminal Law",
+  "total_acts": 6,
+  "total_sections": 1454,
+  "acts": [
+    {
+      "law": "Indecent Representation of Women (Prohibition) Act, 1986",
+      "year": null,
+      "law_type": "Criminal Law",
+      "section_count": 10,
+      "what": "This law prohibits the publication and advertisement of indecent representations of women in any form, including advertisements, books, pamphlets, papers, films, and other materials. It also sets penalties for those who break these rules, which can include imprisonment and fines.",
+      "key_point_count": 1,
+      "pdf_page_count": 4,
+      "llm_chunk_count": null,
+      "source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306490_indecent__representation_of_women_(prohibition)_act,_1986.pdf",
+      "content_sha256": "df85b979af4d743710ba2a34eb140330a8bfcbe12c96c9ff15c3313d7b3f5d2a",
+      "path": "indecent-representation-of-women-prohibition-act-1986.json"
+    },
+    {
+      "law": "Information Technology Act, 2000",
+      "year": null,
+      "law_type": "Criminal Law",
+      "section_count": 116,
+      "what": "This law regulates various aspects of information technology and computing in India. It covers offenses related to cheating by using computer resources, unauthorized access to computer resources, cheating with electronic records, among others.",
+      "key_point_count": 1,
+      "pdf_page_count": 36,
+      "llm_chunk_count": null,
+      "source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306602_IT_Act_.pdf",
+      "content_sha256": "867195c629b9252c8b701f24f36ee4e2bf72bfed99470708f977e7f38b7428ea",
+      "path": "information-technology-act-2000.json"
+    },
+    {
+      "law": "Juvenile Justice Act, 2015",
+      "year": null,
+      "law_type": "Criminal Law",
+      "section_count": 111,
+      "what": "The Juvenile Justice (Care and Protection of Children) Act, 2015 defines a child as any person below the age of 18 years. The Act aims to provide care and protection for children in conflict with the law or who are at risk.",
+      "key_point_count": 1,
+      "pdf_page_count": 48,
+      "llm_chunk_count": null,
+      "source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306651_Juvenile_Justice_Act_2015.pdf",
+      "content_sha256": "f09ad5da31c41d2bf40a6c89039807543c317ba690648f106b62327f78bef7e2",
+      "path": "juvenile-justice-act-2015.json"
+    },
+    {
+      "law": "Narcotic Drugs and Psychotropic Substances Act 1985",
+      "year": null,
+      "law_type": "Criminal Law",
+      "section_count": 127,
+      "what": "The court decides whether an article or thing seized is liable to confiscation under sections 60, 61, or 62 of the Narcotic Drugs and Psychotropic Substances Act 1985, and may order confiscation if it decides so.",
+      "key_point_count": 2,
+      "pdf_page_count": 54,
+      "llm_chunk_count": null,
+      "source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306821_narcotic_drugs_and_psychotropic_substances_act_1985.pdf",
+      "content_sha256": "f2d175e68f2422e292bbc9eb9baed0a301183227a9cb91faa84b47012327a783",
+      "path": "narcotic-drugs-and-psychotropic-substances-act-1985.json"
+    },
+    {
+      "law": "The Code of Criminal Procedure, 1973",
+      "year": null,
+      "law_type": "Criminal Law",
+      "section_count": 531,
+      "what": "This Act provides a comprehensive framework for the investigation, prosecution, and trial of crimes in India. It outlines various powers and procedures for police officers, magistrates, and courts, including the release of prisoners on bail, the giving of evidence by public servants, and the issuance of warrants.",
+      "key_point_count": 1,
+      "pdf_page_count": 263,
+      "llm_chunk_count": null,
+      "source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742378630_the_code_of_criminal_procedure,_1973_1.pdf",
+      "content_sha256": "392eaf0deb9303c5bad1073088613d0537ceeb4aa73dc3cf8f6ea5517df86adf",
+      "path": "the-code-of-criminal-procedure-1973.json"
+    },
+    {
+      "law": "The Indian Penal Code, 1860",
+      "year": null,
+      "law_type": "Criminal Law",
+      "section_count": 559,
+      "what": "This Act provides a comprehensive framework for criminal law in India, outlining various offenses and their corresponding punishments. It covers topics such as rioting, giving false information on oath, dowry death, harassment of women, and intentionally damaging or making a ship unsafe.",
+      "key_point_count": 5,
+      "pdf_page_count": 119,
+      "llm_chunk_count": null,
+      "source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742378582_Indian_Penal_Code_1860.pdf",
+      "content_sha256": "70cf2a4374a73202e2e441861ce8b2db31a3c6217816407dc1e9e5b4aa8935e2",
+      "path": "the-indian-penal-code-1860.json"
+    }
+  ],
+  "failed_candidates": [],
+  "notice": "Research dataset only. Verify current text, amendments, commencement and repeal status with the cited official source."
+}

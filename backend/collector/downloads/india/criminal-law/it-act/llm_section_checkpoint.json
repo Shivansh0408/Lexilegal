@@ -1,0 +1,353 @@
+{
+  "law": "IT Act",
+  "sections": {
+    "1": {
+      "what": "The Information Technology Act, 2000 applies to the whole of India and extends to any person who commits an offence or contravention outside India."
+    },
+    "2": {
+      "what": "Definitions"
+    },
+    "3": {
+      "what": "This law allows subscribers to authenticate electronic records by adding their digital signature, using an asymmetric crypto system and hash function to transform the record."
+    },
+    "3A": {
+      "what": "A person's electronic signature on an electronic record is considered reliable if the following conditions are met: it is created in a way that links the signature to the person using it, and alterations can be detected. The government may prescribe additional conditions and procedures for verifying the authenticity of electronic signatures."
+    },
+    "4": {
+      "what": "Information written or printed does not need to be in physical form to meet the requirements of laws, as long as it exists in digital format and can be accessed."
+    },
+    "5": {
+      "what": "Electronic signatures are accepted as authentic substitutes for handwritten signatures in documents, if they are created according to rules set by the Central Government."
+    },
+    "6": {
+      "what": "The government can require certain official actions to be done electronically, such as filing documents, issuing licenses, and making payments, if the required electronic form is prescribed by the government."
+    },
+    "6A": {
+      "what": "The government can authorise a service provider to deliver electronic services, including setting up computer facilities, performing other services, and collecting charges, with specific rules and exceptions."
+    },
+    "7": {
+      "what": "This law requires electronic records to be kept in a way that makes them usable and accurate for future reference."
+    },
+    "7A": {
+      "what": "Auditing documents in electronic format follows the same rules as those in paper format."
+    },
+    "8": {
+      "what": "Publishing rules and regulations in Electronic Gazette satisfies the requirement of publishing in Official Gazette."
+    },
+    "9": {
+      "what": "A government ministry or department cannot refuse to accept documents in electronic form."
+    },
+    "10": {
+      "what": "The Central Government may make rules for the purposes of this Act regarding electronic signatures, including specifying types, formats, and procedures for use."
+    },
+    "10A": {
+      "what": "A contract formed through electronic means will not be deemed unenforceable due to its electronic nature."
+    },
+    "11": {
+      "what": "An electronic record can be attributed to one of three people: (1) The person who sent it themselves, (2) A person authorized to act on their behalf, or (3) An automated system programmed by the sender."
+    },
+    "12": {
+      "what": "An acknowledgment of receipt for an electronic record can be given through any communication or conduct by the addressee that shows the originator has received the record. If the originator wants the record to be binding only after receiving an acknowledgment, and no acknowledgment is received within a specified time limit, they can give notice stating the unreceived acknowledgement and specify a new deadline."
+    },
+    "13": {
+      "what": "The despatch and receipt of electronic records are determined by when they enter or are retrieved from a computer resource outside of the originator's control, or at the designated place of business."
+    },
+    "14": {
+      "what": "An electronic record is considered secure from the moment a security procedure was applied to it, and remains so until its verification."
+    },
+    "15": {
+      "what": "An electronic signature is considered secure if it was created by the person signing alone and their unique information was stored and used correctly."
+    },
+    "16": {
+      "what": "The Central Government may prescribe security procedures and practices for sections 14 and 15, considering commercial circumstances, transaction nature, and relevant factors."
+    },
+    "17": {
+      "what": "The Central Government appoints a Controller and other officers to carry out its functions under this Act, with specific qualifications, terms, and conditions of service."
+    },
+    "18": {
+      "what": "The Controller has the power to perform various functions related to the Certifying Authorities, including supervising their activities, certifying public keys, setting standards and conditions for their business, and regulating electronic systems."
+    },
+    "19": {
+      "what": "A foreign Certifying Authority can be recognized by the Controller with Central Government approval and notification in the Official Gazette, making its electronic signature certificates valid under this Act."
+    },
+    "20": {
+      "what": "No provision or section in this Act shall be applicable to any situation except as explicitly provided by the provisions of this Act."
+    },
+    "21": {
+      "what": "Any person can apply to the Controller for a license to issue electronic signature certificates, but must meet qualifications and requirements set by the Central Government."
+    },
+    "22": {
+      "what": "An application for a license must: be in a form approved by the government, include a statement on how the applicant will be identified, pay a fee not more than 25,000 rupees, and be accompanied by any other required documents."
+    },
+    "23": {
+      "what": "An application for renewal of a licence must be in a specific form, accompanied by fees not exceeding five thousand rupees, and submitted at least 45 days before the licence expires."
+    },
+    "24": {
+      "what": "The Controller grants or rejects a licence after considering application documents and other factors, but only if the applicant is given a chance to present their case."
+    },
+    "25": {
+      "what": "A person can have their license revoked by the Controller if they have made false statements, failed to comply with conditions, or broken laws related to digital signatures."
+    },
+    "26": {
+      "what": "complete explanation of IT Act Section 26: The Controller must publish a notice in the database when a licence is suspended or revoked."
+    },
+    "27": {
+      "what": "The Controller can give written permission for someone else (like a Deputy Controller, Assistant Controller, or other officer) to make decisions on their behalf about exercising certain powers."
+    },
+    "28": {
+      "what": "The Controller or any officer authorized by him may investigate contraventions of the Act's provisions, rules, or regulations."
+    },
+    "29": {
+      "what": "The authorities can access a computer system without permission if they suspect a crime has been committed."
+    },
+    "30": {
+      "what": "Certifying Authority must use secure hardware, software, and procedures to provide reliable services that protect electronic signatures' secrecy and privacy."
+    },
+    "31": {
+      "what": "Every Certifying Authority shall ensure that every person employed or otherwise engaged by it complies with the provisions of this Act, rules, regulations and orders made thereunder."
+    },
+    "32": {
+      "what": "Every Certifying Authority shall display its licence at a conspicuous place of the premises in which it carries on its business."
+    },
+    "33": {
+      "what": "If a Certifying Authority's licence is suspended or revoked, they must give it to the Controller immediately. If they don't, the person who got the licence can be fined up to 10,000 rupees or jailed for up to six months."
+    },
+    "34": {
+      "what": "The Certifying Authority must disclose certain information, including its electronic signature certificate and any revocation or suspension of the certificate, in a specified manner."
+    },
+    "35": {
+      "what": "A person can apply to the Certifying Authority for an electronic signature certificate, which must be accompanied by a fee not exceeding 25,000 rupees and a certification practice statement."
+    },
+    "36": {
+      "what": "A Certifying Authority must certify that it has issued a Digital Signature Certificate in accordance with the IT Act and rules, the subscriber accepts it, the subscriber holds the private key corresponding to the public key, and the information contained in the certificate is accurate."
+    },
+    "37": {
+      "what": "A Certifying Authority can suspend a Digital Signature Certificate with the following conditions:"
+    },
+    "38": {
+      "what": "A digital signature certificate can be revoked by a Certifying Authority under certain circumstances, including: death of the subscriber, dissolution of a firm or winding up of a company, false information in the certificate, compromise of the Certifying Authority's private key, or declaration of insolvency."
+    },
+    "39": {
+      "what": "The Certifying Authority must publish a notice of suspension or revocation of a Digital Signature Certificate in the specified repository(s), if one exists."
+    },
+    "40": {
+      "what": "A subscriber must generate a complete key pair if a public key from their digital signature certificate matches their private key when listed in the certificate."
+    },
+    "40A": {
+      "what": "The person subscribing to an Electronic Signature Certificate must follow the rules and procedures related to it, including any penalties for non-compliance."
+    },
+    "41": {
+      "what": "A person who publishes or allows someone else to publish a digital signature certificate with their name on it, without checking its accuracy, accepts the certificate and promises: they have private key matching the public key; all statements made to get the certificate are true; they know all information in the certificate is true."
+    },
+    "42": {
+      "what": "Every subscriber must: (1) Carefully keep control of their private key, and prevent it from being disclosed. (2) If the private key is compromised, inform the Certifying Authority immediately, as specified by regulations."
+    },
+    "43": {
+      "what": "If anyone accesses or secures access to a computer, system, or network without permission, they can face penalties including damages by way of compensation."
+    },
+    "43A": {
+      "what": "Compensation for failure to protect data. A company that handles sensitive personal data is liable to pay damages if they are negligent and cause wrongful loss or gain to someone."
+    },
+    "44": {
+      "what": "If you fail to provide documents, file returns, or maintain records, you could face penalties: \\ \n   - For each failure to provide documents, fines up to 1.5 million rupees.\n   - If you miss a return filing deadline, fines of up to 500 rupees per day until the fine is paid.\n   - For not maintaining required records, fines of up to 10,000 rupees per day."
+    },
+    "45": {
+      "what": "If you break any rules under this Act (without a specific fine mentioned), you might have to pay up to ₹25,000 as compensation or a fine of up to ₹25,000."
+    },
+    "46": {
+      "what": "Adjudicating Officers and their Powers"
+    },
+    "47": {
+      "what": "The adjudicating officer shall consider the following when deciding compensation: gain from unfair advantage, loss caused to others, and whether the default was repeated."
+    },
+    "48": {
+      "what": "The Telecom Disputes Settlement and Appellate Tribunal established under section 14 of the Telecom Regulatory Authority of India Act, 1997, is appointed as the Appellate Tribunal for this Act from its commencement onwards. The Appellate Tribunal will exercise the powers given by this Act."
+    },
+    "49": {
+      "what": "No provision is specified in this section."
+    },
+    "51": {
+      "what": "Omitted by s. 169,"
+    },
+    "52D": {
+      "what": "If members of a bench differ in opinion on any point, they must state the differing point(s) and refer it to the Chairperson of the Appellate Tribunal, who will then decide according to the majority opinion."
+    },
+    "53": {
+      "what": "The section 53 is omitted from the IT Act as per the Finance Act, 2017 (7 of 2017), s. 169, effective from 26-5-2017."
+    },
+    "55": {
+      "what": "No order appointing an Appellate Tribunal member can be challenged, and no proceeding before the tribunal is invalidated by questioning its own constitution."
+    },
+    "56": {
+      "what": "The section was omitted by the Finance Act, 2017."
+    },
+    "57": {
+      "what": "A person who is unhappy with an order made by a controller or adjudicating officer under this law can appeal to an Appellate Tribunal. The appeal must be filed within 45 days. The Tribunal can accept appeals after 45 days if there was a good reason not to file it on time."
+    },
+    "58": {
+      "what": "The Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908, but shall follow principles of natural justice and regulate its own procedures. The tribunal has powers to summon witnesses, obtain documents, receive evidence on affidavits, and issue commissions for examinations. Proceedings before the tribunal are deemed judicial proceedings under certain sections of the Indian Penal Code and Code of Criminal Procedure."
+    },
+    "59": {
+      "what": "The appellant has the right to be represented by a lawyer or officer, and must inform them of this before presenting their case"
+    },
+    "60": {
+      "what": "The provisions of the Limitation Act, 1963 shall apply to an appeal made to the Appellate Tribunal."
+    },
+    "61": {
+      "what": "No civil court can hear a case that is handled by an adjudicating officer, and no court can grant an injunction on actions related to the IT Act."
+    },
+    "62": {
+      "what": "A person can appeal to the High Court 60 days after receiving a decision or order from an Appellate Tribunal, on questions of fact or law related to that order."
+    },
+    "63": {
+      "what": "This law allows the Controller or an authorized officer to forgive a fine for a minor violation (contravention) under this Act, as long as the amount is not more than the maximum penalty. If someone commits another similar violation within 3 years of the first one being forgiven, it will be considered a new first-time violation. Once a violation is forgiven, no further action can be taken against the person."
+    },
+    "64": {
+      "what": "If a penalty or compensation under this Act is not paid, it can be recovered as if it were unpaid land revenue. The license or electronic signature certificate will be suspended until the penalty is paid."
+    },
+    "65": {
+      "what": "Tampering with computer source documents. Whoever conceals, destroys or alters a required computer source code for a computer, program, system or network and knowingly causes another to do the same. This can lead to imprisonment up to 3 years, or a fine of up to ₹2 lakh, or both."
+    },
+    "66": {
+      "what": "If a person intentionally acts dishonestly or fraudulently while violating section 43, they can face imprisonment for up to three years, fine of up to five lakh rupees, or both."
+    },
+    "66A": {
+      "what": "Sending offensive messages through a computer resource or communication device can lead to imprisonment for up to 3 years and a fine."
+    },
+    "66B": {
+      "what": "Whoever dishonestly receive or retain any stolen computer resource or communication device shall be punished with imprisonment for up to 3 years or a fine of up to ₹1 lakh or both."
+    },
+    "66D": {
+      "what": "A person who uses a computer resource to impersonate someone else and cheats them will get up to 3 years in prison and could face a fine of up to 1 lakh rupees."
+    },
+    "66E": {
+      "what": "Intentionally capturing, publishing or transmitting someone's private image without their consent is punishable by up to 3 years in prison or a fine of up to ₹2 lakh, or both. The term 'private area' includes the person's naked or undergarment-clad genitals, buttocks, or female breast."
+    },
+    "66F": {
+      "what": "Whoever commits or conspires to commit cyber terrorism shall be punishable with imprisonment which may extend to imprisonment for life."
+    },
+    "67": {
+      "what": "Publishing or transmitting obscene material in electronic form can lead to imprisonment of up to 3 years and/or a fine of up to ₹5 lakhs on first conviction, and up to 5 years and/or a fine of up to ₹10 lakhs on subsequent convictions."
+    },
+    "67A": {
+      "what": "Publishing or transmitting sexually explicit material in electronic form is punishable by up to 5 years imprisonment and a fine of up to Rs. 10 lakh on first conviction, and up to 7 years imprisonment and the same fine on subsequent convictions."
+    },
+    "67B": {
+      "what": "publishing or transmitting material depicting children in sexually explicit act, etc., in electronic form."
+    },
+    "67C": {
+      "what": "Intermediaries must preserve and retain information as specified by the Central Government, in the prescribed duration, format, and manner, while intentionally or knowingly violating this will result in up to 3 years imprisonment and a fine."
+    },
+    "68": {
+      "what": "The Controller can give directions to Certifying Authorities or their employees to take specific measures or stop certain activities to comply with the IT Act."
+    },
+    "69": {
+      "what": "The Central Government or State Government can issue orders to intercept, monitor, or decrypt information stored in computer resources if it's necessary for national security, defense, public order, or investigating an offense."
+    },
+    "69A": {
+      "what": "The government can block access to information through computer resources if it's necessary in the interest of sovereignty, defence, security, public order, or preventing a cognizable offence, and must follow certain procedures and safeguards."
+    },
+    "69B": {
+      "what": "The Central Government can authorise an agency to monitor and collect traffic data or information from computer resources for cyber security purposes."
+    },
+    "70": {
+      "what": "A government can declare any computer resource that affects Critical Information Infrastructure as a"
+    },
+    "70A": {
+      "what": "The Central Government can designate an organisation as the national nodal agency for Critical Information Infrastructure Protection by publishing a notification in the Official Gazette."
+    },
+    "70B": {
+      "what": "The Indian Computer Emergency Response Team (CERT) is established as a national agency for incident response. The Central Government appoints a Director General and other officers and employees, provides them with necessary resources, and defines their roles and responsibilities."
+    },
+    "71": {
+      "what": "Misrepresentation of information to obtain a license or electronic signature certificate can result in up to 2-year imprisonment, a fine of up to ₹1 lakh, or both."
+    },
+    "72": {
+      "what": "If someone accesses confidential information without consent and shares it with others, they can face up to 2 years in prison, a fine of up to ₹1 lakh, or both."
+    },
+    "72A": {
+      "what": "A person who accesses personal information under a lawful contract to cause harm or gain, and discloses it without consent, can be punished with up to 3 years in prison, or a fine of up to 5 lakh rupees, or both."
+    },
+    "73": {
+      "what": "Publishing false electronic signature certificate information can lead to imprisonment up to 2 years and/or a fine of up to ₹1 lakh."
+    },
+    "74": {
+      "what": "Publishing an electronic signature certificate for fraudulent purposes can lead to up to 2 years in prison, or a fine of up to ₹1 lakh (₹100,000), or both."
+    },
+    "75": {
+      "what": "This law applies to any crime or violation that was committed outside of India by anyone, regardless of their nationality. The Indian law also applies if the crime or violation involved a computer system or network located in India."
+    },
+    "76": {
+      "what": "Computer items seized can be confiscated if used to violate IT Act rules."
+    },
+    "77": {
+      "what": "This section says that if someone is given a fine (penalty) or their property is taken (confiscation) as a result of breaking this Act, it does not prevent them from also receiving compensation or facing another penalty under other laws."
+    },
+    "77A": {
+      "what": "A court can decide not to punish someone for an offense if they commit to behaving better in the future and the crime does not harm the country's economy or a child/woman."
+    },
+    "77B": {
+      "what": "Offences punishable with imprisonment of 3 years or more are cognizable and those of less than 3 years are bailable."
+    },
+    "78": {
+      "what": "A police officer with at least Inspector rank must investigate any offence under this Act, except as stated in Chapter XII."
+    },
+    "79": {
+      "what": "An intermediary is not liable for third-party information if they do not initiate or control the transmission, and follow due diligence and guidelines provided by the Central Government."
+    },
+    "79A": {
+      "what": "The Central Government may specify, by notification, any Department or agency as an Examiner of Electronic Evidence to provide expert opinion on electronic form evidence before a court or authority."
+    },
+    "80": {
+      "what": "A police officer can enter a public place and search for someone suspected of committing an offence without a warrant."
+    },
+    "81": {
+      "what": "This law takes priority over other laws and does not conflict with them."
+    },
+    "81A": {
+      "what": "The provisions of this Act apply to electronic cheques and truncated cheques with necessary modifications."
+    },
+    "82": {
+      "what": "The Controller, Deputy Controller and Assistant Controllers are considered public servants under the Indian Penal Code."
+    },
+    "83": {
+      "what": "The Central Government can issue orders to a State Government on how to implement certain laws and regulations under this act."
+    },
+    "84": {
+      "what": "No person can sue or prosecute the Central Government, State Government, Controller, or anyone acting on their behalf for something they did in good faith while following this Act or its rules."
+    },
+    "84A": {
+      "what": "The Central Government can create rules for encrypting data securely for government use and to promote e-government and e-commerce."
+    },
+    "84B": {
+      "what": "Abetting an offence: punishment. If an act is committed as a result of abetment and no specific provision exists, the person abetting is punished with the punishment for that offence."
+    },
+    "84C": {
+      "what": "Attempt to commit an offence punishable by this Act: punishment includes imprisonment for up to half the length of the maximum sentence, or a fine, or both."
+    },
+    "85": {
+      "what": "Every company official who was responsible for the business when a violation occurred, is guilty of that violation and can be punished."
+    },
+    "86": {
+      "what": "The Central Government can remove difficulties in implementing this Act by making additional provisions not inconsistent with the Act, but only if it is necessary or expedient to do so."
+    },
+    "87": {
+      "what": "The Central Government may make rules to carry out the provisions of this Act."
+    },
+    "88": {
+      "what": "The Central Government shall constitute a Committee called the Cyber Regulations Advisory Committee, consisting of a Chairperson and official/non-official members representing affected interests or having special knowledge."
+    },
+    "89": {
+      "what": "The Controller can make regulations consistent with the Act and rules to carry out its purposes. Regulations must be approved by the Central Government and published in the Official Gazette."
+    },
+    "90": {
+      "what": "The State Government can make rules to carry out this Act's provisions by notifying them in the Official Gazette."
+    },
+    "91": {
+      "what": "This section has been omitted from the IT Act."
+    },
+    "94": {
+      "what": "Section 94 states that sub-sections 1 and 2 of section 94 have been omitted by the Information Technology (Amendment) Act, 2008, s. 50 (w.e.f. 27-10-2009)."
+    }
+  }
+}

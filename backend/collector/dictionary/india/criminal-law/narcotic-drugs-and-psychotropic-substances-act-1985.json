@@ -1,0 +1,1052 @@
+{
+  "schema_version": "4.0",
+  "record_type": "indian_bare_act_section_index",
+  "country": "India",
+  "law_type": "Criminal Law",
+  "law": "Narcotic Drugs and Psychotropic Substances Act 1985",
+  "what": "The court decides whether an article or thing seized is liable to confiscation under sections 60, 61, or 62 of the Narcotic Drugs and Psychotropic Substances Act 1985, and may order confiscation if it decides so.",
+  "section_count": 127,
+  "sections": {
+    "1": {
+      "section": "1",
+      "title": "Short title, ext ent and commencement",
+      "what": "This Act is called the Narcotic Drugs and Psychotropic Substances Act 1985. It applies to all citizens of India outside India and persons on ships and aircrafts registered in India, wherever they may be. The Act will come into force on a date determined by the Central Government.",
+      "chapter": "CHAPTER I"
+    },
+    "2": {
+      "section": "2",
+      "title": "Definitions",
+      "what": "Definitions explained in clear language. Definitions include addict, Board, cannabis (hemp), commercial quantity, controlled delivery, corresponding law, controlled substance, conveyance, essential narcotic drug, illicit traffic, International Convention, manufacture, manufactured drug, medicinal cannabis, Narcotics Commissioner, narcotic drug, opium, opium derivative, opium poppy, poppy straw, poppy straw concentrate, preparation, prescribed, production, Psychotropic substance, small quantity, to import inter-State, to import into India, to export from India, to export inter-State, to transport, use",
+      "chapter": "CHAPTER I"
+    },
+    "3": {
+      "section": "3",
+      "title": "Power to add to or omit from the list of psychotr opic substances",
+      "what": "The Central Government can add or remove substances from the list of psychotropic substances based on new information and international agreements.",
+      "chapter": "Part II, sec. 3(ii)."
+    },
+    "4": {
+      "section": "4",
+      "title": "Central Government to take measures for preventing and combating abuse of and illicit",
+      "what": "The Central Government shall take measures to prevent and combat abuse of narcotic drugs and psychotropic substances, including coordination with other authorities, international obligations, assistance to foreign countries, identification and treatment of addicts, and prevention of illicit traffic.",
+      "chapter": "CHAPTER II"
+    },
+    "5": {
+      "section": "5",
+      "title": "Officers of Central Government",
+      "what": "The Central Government appoints a Narcotics Commissioner and other officers to exercise powers and perform functions related to the cultivation and production of opium, with oversight from the Central Government or designated authorities.",
+      "chapter": "CHAPTER II"
+    },
+    "6": {
+      "section": "6",
+      "title": "The Narcotic Drugs and Psychotropie Sub stances Consultative Committee",
+      "what": "The Central Government can create an advisory committee, called",
+      "chapter": "CHAPTER II"
+    },
+    "7": {
+      "section": "7",
+      "title": "Officers of State Government",
+      "what": "The State Government may appoint officers with such designations as it thinks fit for the purposes of this Act.",
+      "chapter": "CHAPTER II"
+    },
+    "7A": {
+      "section": "7A",
+      "title": "National Fund for Control of Drug Abuse",
+      "what": "The Central Government can establish a National Fund for Control of Drug Abuse, which is used for various measures related to drug abuse, such as combating trafficking, controlling abuse, identifying and rehabilitating addicts, preventing drug abuse, educating the public, and supplying drugs to addicts where necessary.",
+      "chapter": "CHAPTER II"
+    },
+    "7B": {
+      "section": "7B",
+      "title": "Annual report of activities financed under the Fund",
+      "what": "The Central Government must publish an annual report in the Official Gazette, detailing activities financed under section 7A and statements of accounts.",
+      "chapter": "CHAPTER II"
+    },
+    "8": {
+      "section": "8",
+      "title": "Prohibition of certain operations",
+      "what": "No person shall cultivate any coca plant or gather any portion of a coca plant; cultivate the opium poppy or any cannabis plant; produce, manufacture, possess, sell, purchase, transport, warehouse, use, consume, import inter-State, export inter-State, import into India, export from India or tranship any narcotic drug or psychotropic substance, except for medical or scientific purposes and in accordance with the provisions of this Act and the rules made thereunder.",
+      "chapter": "CHAPTER III"
+    },
+    "8A": {
+      "section": "8A",
+      "title": "Prohibition of certain activities relating to property derived from offence",
+      "what": "No person shall convert, transfer, conceal, disguise, acquire, possess, or use property derived from an offence for any illegal purpose.",
+      "chapter": "CHAPTER III"
+    },
+    "9": {
+      "section": "9",
+      "title": "Power of Central Government to permit, control and regulate",
+      "what": "The Central Government may permit and regulate various activities related to narcotics drugs and psychotropic substances, including cultivation, production, possession, sale, purchase, transport, import, export, use, and consumption. The government can also prescribe rules for licenses, permits, and fees for these activities. The power includes the ability to fix limits on licenses, require cultivators to deliver opium to authorized officers, weigh and classify opium, and provide compensation to cultivators. Additionally, the government has the authority to regulate manufacturing, importation, exportation, and transhipment of narcotics drugs and psychotropic substances.",
+      "chapter": "CHAPTER III"
+    },
+    "9A": {
+      "section": "9A",
+      "title": "Power to control and reg ulate controlled substances",
+      "what": "The Central Government can regulate or prohibit the production, manufacture, supply, and distribution of controlled substances if it's in the public interest.",
+      "chapter": "CHAPTER III"
+    },
+    "10": {
+      "section": "10",
+      "title": "Power of State Government to permit, control and regulate",
+      "what": "The State Government has the power to permit, control and regulate the possession, transport, import, export, warehousing, sale, purchase, consumption and use of various substances, including poppy straw, opium, cannabis, medicinal opium, manufactured drugs, and coca leaf. The rules can prescribe additional requirements for effective control, such as declaring places for warehousing, regulating safe custody, levying fees, and issuing licenses for cultivation and trade. The State Government also has the authority to fix limits on licences for cannabis cultivation, require cultivators to deliver produce to authorized officers, and set prices for cannabis delivered. The rules can also specify forms and conditions for licenses or permits and the authorities by which they may be granted.",
+      "chapter": "CHAPTER III"
+    },
+    "11": {
+      "section": "11",
+      "title": "Narcotic drugs and psychotropic substanc es, etc., not liable to distress o r attachment",
+      "what": "No narcotic drugs, psychotropic substances, or cannabis plants can be distrained or attached for debt recovery.",
+      "chapter": "CHAPTER III"
+    },
+    "12": {
+      "section": "12",
+      "title": "Restrictions over external dealings in narcotic dr ugs and psychotropic substances",
+      "what": "No person can engage in or control a trade where a narcotic drug or psychotropic substance is bought or sold outside India, unless they get permission from the Central Government first.",
+      "chapter": "CHAPTER III"
+    },
+    "13": {
+      "section": "13",
+      "title": "Special provisions relating to coca plant and coca leaves for use in the preparation of",
+      "what": "The Central Government may permit the cultivation of coca plants, gathering of their portions, production, possession, sale, purchase, transport, import, export, or importing coca leaves for flavouring agents without alkaloids.",
+      "chapter": "CHAPTER III"
+    },
+    "14": {
+      "section": "14",
+      "title": "Special provision relating to cannabis",
+      "what": "The government can allow the cultivation of cannabis plants for industrial purposes (e.g. fibre) or horticultural purposes, subject to certain conditions and as specified in an order.",
+      "chapter": "CHAPTER III"
+    },
+    "15": {
+      "section": "15",
+      "title": "Punishment for contraventi on in relation to poppy straw",
+      "what": "Whoever produces, possesses, transports, imports inter-State, exports inter-State, sells, purchases, uses or omits to warehouse poppy straw without permission shall be punishable with imprisonment for 1-20 years and/or fine of up to ₹2 lakh. The court may impose a higher fine.",
+      "chapter": "CHAPTER IV"
+    },
+    "16": {
+      "section": "16",
+      "title": "Punishment for contravention in relation to coca plant and coca leaves",
+      "what": "Whoever cultivates, gathers, produces, possesses, sells, purchases, transports, imports or uses coca plant or coca leaves without permission will be punished with up to 10 years in prison and a fine of up to ₹1 lakh. (₹1 lakh = ₹100,000)",
+      "chapter": "CHAPTER IV"
+    },
+    "17": {
+      "section": "17",
+      "title": "Punishment for contraventio n in relation to prepared opium",
+      "what": "If you manufacture, possess, sell, purchase, transport, import, export or use prepared opium without following the rules, you can face punishment. The amount of punishment will depend on the quantity involved: if it's small, you might get a fine up to 10,000 rupees or jail time up to one year. If it's slightly more, you could get up to 10 years in jail and a fine up to 1 lakh rupees. For larger quantities, you'll likely face at least 10 years in jail and a fine of at least 1 lakh rupees, but potentially up to 2 lakh rupees.",
+      "chapter": "CHAPTER IV"
+    },
+    "18": {
+      "section": "18",
+      "title": "Punishment for contravention in relation to opium poppy an d opium",
+      "what": "Whoever cultivates, produces, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses opium in contravention of any provision of the Narcotic Drugs and Psychotropic Substances Act 1985 shall be punishable with imprisonment up to 20 years or fine up to ₹2 lakhs.",
+      "chapter": "CHAPTER IV"
+    },
+    "19": {
+      "section": "19",
+      "title": "Punishment for embez zlement of opium by cultivator",
+      "what": "A licensed opium poppy cultivator who misuses or illegally disposes of opium must face a prison sentence of at least 10 years and up to 20 years, along with a fine of at least 1 lakh rupees (up to 2 lakh rupees), unless the court decides otherwise.",
+      "chapter": "CHAPTER IV"
+    },
+    "20": {
+      "section": "20",
+      "title": "Punishment for contravention in relation to cannabis plant and cannabis",
+      "what": "Whoever cultivates or produces cannabis can be punished with rigorous imprisonment for up to 10 years and/or a fine of up to one lakh rupees.",
+      "chapter": "CHAPTER IV"
+    },
+    "21": {
+      "section": "21",
+      "title": "Punishment for contravention in relation to manu factured drugs and preparations",
+      "what": "Whoever manufactures, possesses, sells, purchases, transports, imports inter-State, exports inter-State or uses any manufactured drug or preparation containing any manufactured drug shall be punishable with: - up to 1 year imprisonment or/and up to 10,000 rupees fine for small quantity contravention. Up to 7 years imprisonment and up to 1 lakh rupees fine for quantity between small and commercial. Commercial quantity contravention punishable with at least 10 years imprisonment and minimum 1 lakh rupees fine.",
+      "chapter": "CHAPTER IV"
+    },
+    "22": {
+      "section": "22",
+      "title": "Punishment for contravention in relation to psychotropic substan ces",
+      "what": "A person who breaks any rule about psychotropic substances can be punished with imprisonment (up to 20 years) or/and a fine (up to ₹2 lakhs).",
+      "chapter": "CHAPTER IV"
+    },
+    "23": {
+      "section": "23",
+      "title": "P unishment for ill egal import in to India, export from India or transhipment of narcotic",
+      "what": "Any person who imports or exports narcotic drugs and psychotropic substances without permission or in violation of this Act will face punishment including imprisonment and/or fines.",
+      "chapter": "CHAPTER IV"
+    },
+    "24": {
+      "section": "24",
+      "title": "Punishment for external dealings in narcot ic drugs and psychotropic substances in",
+      "what": "Person who engages in or controls trade of obtaining and supplying narcotic drugs/psychotropic substances outside India without permission, shall face imprisonment (minimum 10 years) and/or fine ( minimum ₹1 lakh, maximum ₹2 lakh).",
+      "chapter": "CHAPTER IV"
+    },
+    "25": {
+      "section": "25",
+      "title": "Punishment for allowing premises, etc., to be used for commission of an offence",
+      "what": "A person who owns or uses a property and allows it to be used for committing an offence can be punished with the same punishment as the committed offence.",
+      "chapter": "CHAPTER IV"
+    },
+    "25A": {
+      "section": "25A",
+      "title": "Punishment for contravention o f orders made under section 9A",
+      "what": "A person who violates an order under section 9A can be punished with up to 10 years in prison and fined up to ₹1,00,000 (or more).",
+      "chapter": "CHAPTER IV"
+    },
+    "26": {
+      "section": "26",
+      "title": "Punishment for certain acts by licensee or his servants",
+      "what": "if the holder of any license, permit or authorization granted under this Act omits to maintain accounts or submit returns without reasonable cause, fails to produce license on demand, keeps false accounts, wilfully breaks licensing conditions and faces punishment including imprisonment for up to three years or fine.",
+      "chapter": "CHAPTER IV"
+    },
+    "27": {
+      "section": "27",
+      "title": "Punishment for consumption of any narcotic drug or psychotropic substance",
+      "what": "The punishment for consuming narcotic drugs or psychotropic substances includes: cocaine/morphine/diacetyl-morphine: up to 1 year imprisonment or Rs 20,000 fine; other substances: up to 6 months imprisonment or Rs 10,000 fine",
+      "chapter": "CHAPTER IV"
+    },
+    "27A": {
+      "section": "27A",
+      "title": "Punishment for financing illicit tr affic and harbouring offenders",
+      "what": "Whoever indulges in financing or harbouring illicit drug and psychotropic substance trafficking shall face imprisonment for at least 10 years and up to 20 years, along with fines of at least ₹1 lakh (₹20 lakh) and up to ₹2 lakh (up to ₹40 lakh).",
+      "chapter": "CHAPTER IV"
+    },
+    "27B": {
+      "section": "27B",
+      "title": "Punishment for contravention of section 8A",
+      "what": "Person who contravens section 8A shall get imprisonment of minimum 3 yrs up to 10 yrs and also pay a fine.",
+      "chapter": "CHAPTER IV"
+    },
+    "28": {
+      "section": "28",
+      "title": "Punishment f or attempts to commit offences",
+      "what": "Attempted offense is punished as if it were successful",
+      "chapter": "CHAPTER IV"
+    },
+    "29": {
+      "section": "29",
+      "title": "Punishment for ab etment and criminal conspiracy",
+      "what": "Punishment for abetment and criminal conspiracy: Whoever abets or is part of a crime with intent to commit an offence punishable under this Chapter shall be punished with the punishment for that offence, regardless of whether the offence is committed or not.",
+      "chapter": "CHAPTER IV"
+    },
+    "30": {
+      "section": "30",
+      "title": "Preparation",
+      "what": "If someone makes preparations for an offence or fails to do something which would constitute an offence, they can still be punished if circumstances prevented them from committing the crime.",
+      "chapter": "CHAPTER IV"
+    },
+    "31": {
+      "section": "31",
+      "title": "Enhanced punishment for offences after previous conviction",
+      "what": "If you have been convicted before of committing or attempting to commit any offence under this Act, you will get a harsher punishment for each subsequent offence: the punishment can be up to 3 times longer imprisonment and twice as much fine as the original punishment.",
+      "chapter": "CHAPTER IV"
+    },
+    "31A": {
+      "section": "31A",
+      "title": "Death penalty for certain offences after previous convi ction",
+      "what": "Complete explanation: Notwithstanding anything contained in section 31, if any person who has been convicted of the commission of, or attempt to commit, or abetment of, or criminal conspiracy to commit, any of the offences punishable under sections 19, 24, 27A, and for offences involving commercial quantity of any narcotic drug or psychotropic substance, is subsequently convicted of the commission of, or attempt to commit, or abetment of, or criminal conspiracy to commit, an offence relating to engaging in the production, manufacture, possession, transportation, import into India, export from India, or transit, of the narcotic drugs or psychotropic substances specified under 1. The punishment shall not be less than the punishment specified in section 31 or with death.",
+      "chapter": "CHAPTER IV"
+    },
+    "32": {
+      "section": "32",
+      "title": "Punishment for offence for w hich no punishment is provided",
+      "what": "Offenders who contravene the Act without specified punishment will face imprisonment for up to 6 months, or a fine, or both.",
+      "chapter": "CHAPTER IV"
+    },
+    "32A": {
+      "section": "32A",
+      "title": "No suspension, remission or commutation in any sentence awarded under this Act",
+      "what": "No sentences awarded under the Narcotic Drugs and Psychotropic Substances Act can be suspended, remitted, or commuted.",
+      "chapter": "CHAPTER IV"
+    },
+    "32B": {
+      "section": "32B",
+      "title": "Factors to be taken into account for imposing highe r than the minimum punishment",
+      "what": "The court may consider additional factors when imposing a punishment higher than the minimum, including: use or threat of violence, public office misuse, impact on minors, educational institution involvement, organized crime links, and related illegal activities.",
+      "chapter": "CHAPTER IV"
+    },
+    "33": {
+      "section": "33",
+      "title": "Application of section 360 of the Code of Criminal Procedure, 1973 and of the Probation of",
+      "what": "Nothing contained in section 360 of the Code of Criminal Procedure, 1973 (2 of 1974) or in the Probation of Offenders Act, 1958 (20 of 1958) applies to a person convicted under this Act unless they are under 18 years old or the offence is punishable under sections 26 or 27.",
+      "chapter": "CHAPTER IV"
+    },
+    "34": {
+      "section": "34",
+      "title": "Security for abstaining from commission of offence",
+      "what": "A person convicted of a crime may be ordered to sign a bond promising not to commit future offenses.",
+      "chapter": "CHAPTER IV"
+    },
+    "35": {
+      "section": "35",
+      "title": "Presumption of culpable mental state",
+      "what": "The court will presume the accused had a culpable mental state unless the accused proves otherwise.",
+      "chapter": "CHAPTER IV"
+    },
+    "36": {
+      "section": "36",
+      "title": "Constitution of Speci al Court",
+      "what": "A government may create special courts to try narcotics-related cases quickly by notifying the creation in the official gazette.",
+      "chapter": "CHAPTER IV"
+    },
+    "36A": {
+      "section": "36A",
+      "title": "Offences triable by Special Courts",
+      "what": "Offences triable by Special Courts\n\nAll offences under this Act punishable with imprisonment for a term of more than three years shall be triable only by the Special Court constituted for the area in which the offence has been committed.\n\nWhere a person accused of or suspected of commission of an offence under this Act is forwarded to a Magistrate, such Magistrate may authorise detention of such person in custody for a period not exceeding 15 days where it is a Judicial Magistrate and 7 days where it is an Executive Magistrate.\n\nA Special Court may exercise power of a Magistrate having jurisdiction to try a case in relation to an accused person who has been forwarded to it under section 167 of the Code of Criminal Procedure, 1973.\n\nA Special Court may take cognizance of an offence without the accused being committed to it for trial upon perusal of police report or complaint made by an officer of the Central Government or a State Government authorised in his behalf.\n\nWhen trying an offence under this Act, a Special Court may try an offence other than an offence under this Act with which the accused may be charged at the same trial.\n\nThe High Court may exercise special powers regarding bail under section 439 of the Code of Criminal Procedure, 1973, including power to grant bail in cases involving Special Courts.\n\nIn respect of persons accused of certain offences, references to 'ninety days' shall be construed as reference to 'one hundred and eighty days', but a Special Court may extend the period up to one year upon report from the Public Prosecutor.\n\nOffences punishable with imprisonment for a term of not more than three years may be tried summarily.",
+      "chapter": "CHAPTER IV"
+    },
+    "36B": {
+      "section": "36B",
+      "title": "Appeal and revision",
+      "what": "The High Court can exercise all powers listed in Chapters XXIX and XXX of the Code of Criminal Procedure, 1973, as if it was a Court of Session.",
+      "chapter": "CHAPTER IV"
+    },
+    "36C": {
+      "section": "36C",
+      "title": "Application of Code to proc eedings before a Special Court",
+      "what": "The Code of Criminal Procedure, 1973 applies to proceedings before a Special Court, with the court being treated as a Court of Session and the prosecutor being a Public Prosecutor.",
+      "chapter": "CHAPTER IV"
+    },
+    "36D": {
+      "section": "36D",
+      "title": "Transitional provisions",
+      "what": "Any offence committed under this Act on or after the commencement of the Narcotic Drugs and Psychotropic Substances (Amendment) Act, 1988, shall be tried in a Court of Session instead of a Special Court.",
+      "chapter": "CHAPTER IV"
+    },
+    "37": {
+      "section": "37",
+      "title": "Offences to be cognizable and non -bailable",
+      "what": "Offences punishable under this Act shall be cognizable and no person accused can be released on bail unless: the Public Prosecutor has been given an opportunity to oppose the application, and the court is satisfied that there are reasonable grounds for believing the person is not guilty and will not commit any offence while on bail.",
+      "chapter": "CHAPTER IV"
+    },
+    "38": {
+      "section": "38",
+      "title": "Offences by companies",
+      "what": "Every person responsible for a company's business and the company itself can be held guilty of an offence committed by the company, if the person was in charge at the time. The guilt is only waived if the person proves they didn't know about the offence or took all necessary precautions to prevent it.",
+      "chapter": "CHAPTER IV"
+    },
+    "39": {
+      "section": "39",
+      "title": "Power of court to release certain offenders on probation",
+      "what": "When an addict is found guilty of an offence related to a narcotic drug or psychotropic substance, the court can release them for medical treatment instead of imprisonment if they agree. The court will then monitor their progress and ensure they don't commit any further offences during a specified period (not exceeding 1 year). If they comply, they may be released; otherwise, they'll face punishment upon completion of the period.",
+      "chapter": "CHAPTER IV"
+    },
+    "40": {
+      "section": "40",
+      "title": "Power of court to publish names, place of business, etc., of certain offenders",
+      "what": "A court can publish certain offender's name, place of business, etc., after they are convicted, but only after the appeal period has expired or been disposed of.",
+      "chapter": "Chapter IV during such period not exceeding three years as the court may deem fit to specify or on his"
+    },
+    "41": {
+      "section": "41",
+      "title": "Power to issue warrant and authorisation",
+      "what": "Power to issue warrant and authorisation for arrest, search, seizure, or forfeiture of property related to narcotic drugs and psychotropic substances.",
+      "chapter": "CHAPTER V"
+    },
+    "42": {
+      "section": "42",
+      "title": "Power of entry, search, seizure and arrest without warrant or authorisation",
+      "what": "Officer can enter, search, seize, and arrest without warrant if they have reason to believe an offence has been committed. They can do this between sunrise and sunset, but only if it's not possible to get a warrant or authorisation without giving the person time to hide evidence.",
+      "chapter": "CHAPTER V"
+    },
+    "43": {
+      "section": "43",
+      "title": "Power of seizure and arrest in public place",
+      "what": "An officer can seize and arrest someone in a public place if they believe an offence under the Act has been committed, and they have reason to believe that the person is holding illegal substances or property related to them.",
+      "chapter": "CHAPTER V"
+    },
+    "44": {
+      "section": "44",
+      "title": "Power of entry, search, seizure and arrest in offences relating to coca plant, opium poppy",
+      "what": "Power of entry, search, seizure and arrest for offences relating to coca plant, opium poppy and cannabis plant. The provisions of sections 41, 42 and 43 apply with some modifications to these specific plants.",
+      "chapter": "CHAPTER V"
+    },
+    "45": {
+      "section": "45",
+      "title": "Procedure where seizure of goods liable t o confiscation not pra cticable",
+      "what": "If it's not possible to seize goods that can be confiscated, an authorized officer can tell the owner or person in possession of the goods not to touch, sell, or deal with them without permission from the officer first.",
+      "chapter": "CHAPTER V"
+    },
+    "46": {
+      "section": "46",
+      "title": "Duty of land holder to give information of illeg al cultivation",
+      "what": "Holder of land must inform police or department about illegal opium poppy, cannabis, or coca cultivation on their land.",
+      "chapter": "CHAPTER V"
+    },
+    "47": {
+      "section": "47",
+      "title": "Duty of certain officers to give info rmation of illegal cultivation",
+      "what": "Officers must report illegal land cultivation of opium poppies, cannabis, or coca plants to police or government departments.",
+      "chapter": "CHAPTER V"
+    },
+    "48": {
+      "section": "48",
+      "title": "Power of attachmen t of crop illegally cultivated",
+      "what": "A magistrate can order the attachment of illegal crops like opium poppy, cannabis or coca plant with or without destroying them.",
+      "chapter": "CHAPTER V"
+    },
+    "49": {
+      "section": "49",
+      "title": "Power to stop and search conveyance",
+      "what": "If an officer suspects that an animal or conveyance is being used to transport a narcotic drug or psychotropic substance, they can stop the animal or conveyance and rummage through it to search for any contraband.",
+      "chapter": "CHAPTER V"
+    },
+    "50": {
+      "section": "50",
+      "title": "Conditions under which search of persons shall be conducted",
+      "what": "If the person to be searched requires it, they must be taken without unnecessary delay to the nearest Gazetted Officer or Magistrate. If a search is made under section 41 or 43, and a female wants to avoid being searched by someone of the same gender, she can request to be searched by a male officer.",
+      "chapter": "CHAPTER V"
+    },
+    "50A": {
+      "section": "50A",
+      "title": "Power to under take controlled delivery",
+      "what": "The Director General of Narcotics Control Bureau or an authorised officer can undertake controlled delivery of a consignment to any destination in India or a foreign country with the consent of the relevant authority.",
+      "chapter": "CHAPTER V"
+    },
+    "51": {
+      "section": "51",
+      "title": "Provisions of the code of Criminal Procedure, 1973 to apply to warrants, arrests, searches",
+      "what": "Provisions of the code of Criminal Procedure, 1973 apply to warrants, arrests, searches and seizures under Narcotic Drugs and Psychotropic Substances Act 1985",
+      "chapter": "CHAPTER V"
+    },
+    "52": {
+      "section": "52",
+      "title": "Disposal of perso ns arrested and articles seized",
+      "what": "A person arrested and articles seized must be taken to a magistrate or police officer without delay, where they will be disposed of according to law.",
+      "chapter": "CHAPTER V"
+    },
+    "52A": {
+      "section": "52A",
+      "title": "Disposal of seized narcotic dru gs and psychotropic substances",
+      "what": "The Central Government may specify narcotic drugs, psychotropic substances, controlled substances, or conveyances to be disposed of by an officer after seizure, following a notification in the Official Gazette.",
+      "chapter": "CHAPTER V"
+    },
+    "53": {
+      "section": "53",
+      "title": "Power to invest officers of certain departments with powers of an officer -in-charge of a",
+      "what": "The Central Government and State Government can invest certain officers with powers similar to those held by an in-charge of a police station, allowing them to investigate crimes under this Act.",
+      "chapter": "CHAPTER V"
+    },
+    "53A": {
+      "section": "53A",
+      "title": "Relevancy of statemen ts under certain c ircumstances",
+      "what": "In certain circumstances, statements made by individuals under investigation may be considered relevant evidence in a prosecution.",
+      "chapter": "CHAPTER V"
+    },
+    "54": {
+      "section": "54",
+      "title": "Presumption from possession of illicit articles",
+      "what": "In trials under this Act, it may be presumed that the accused has committed an offence if they are found with articles related to the manufacture of illicit substances, unless otherwise proven.",
+      "chapter": "CHAPTER V"
+    },
+    "55": {
+      "section": "55",
+      "title": "Police to take charge of articles seized and delivered",
+      "what": "An officer-in-charge of a police station must keep all seized narcotic drugs or psychotropic substances in safe custody until a Magistrate gives orders, and allow authorized officers to inspect them.",
+      "chapter": "CHAPTER V"
+    },
+    "56": {
+      "section": "56",
+      "title": "Obligation of officers to assist each other",
+      "what": "Officers of various departments must help each other when implementing the Narcotic Drugs and Psychotropic Substances Act",
+      "chapter": "CHAPTER V"
+    },
+    "57": {
+      "section": "57",
+      "title": "Report of arrest and seizure",
+      "what": "Whenever any person arrests or seizes narcotics drugs and psychotropic substances under this Act, they must give a detailed report of the arrest and seizure within 48 hours to their immediate superior officer.",
+      "chapter": "CHAPTER V"
+    },
+    "57A": {
+      "section": "57A",
+      "title": "Report of seizure of property of the person arrested by the notified officer",
+      "what": "Report of seizure of property of the person arrested by the notified officer. The officer must submit a report to the correct authority within 90 days after an arrest or seizure, if certain provisions apply.",
+      "chapter": "CHAPTER V"
+    },
+    "58": {
+      "section": "58",
+      "title": "Punishment for vexatious entry, search, seizure or arrest",
+      "what": "Any person empowered under sections 42, 43, or 44 who enters/builds searches or causes another to do so without reasonable suspicion, seizures property falsely, detains/surveys/ars arrest maliciously and with false information, can be imprisoned for up to 6 months or fined up to ₹1,000.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "59": {
+      "section": "59",
+      "title": "Failure of officer in duty or his connivance at the contravention of the provisions of this",
+      "what": "Officer who fails to perform their duties, withdraws themselves from duty, or aids in contravention of Act provisions, will face imprisonment up to 1 year, fine, or both, unless they obtain permission from official superior.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "60": {
+      "section": "60",
+      "title": "Liability of illicit drugs, substances, plants, articles and conveyances to c onfiscation",
+      "what": "Liability for confiscation applies to: anything related to an offence under this Act, including drugs, substances, plants, articles, and vehicles, as well as any objects used in or with them, except if the owner proves they were not involved.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "61": {
+      "section": "61",
+      "title": "Confiscation of goods used for conceali ng illicit drugs or substances",
+      "what": "Goods used for concealing any narcotic drug, psychotropic substance or controlled substance used by the person for which goods are liable to confiscation under this Act.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "62": {
+      "section": "62",
+      "title": "Confiscation of sale proceeds of illic it drugs or substances",
+      "what": "Sale proceeds of illicit drugs or substances sold by someone who knows they are illegal are also subject to confiscation.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "63": {
+      "section": "63",
+      "title": "Pro cedure in making confiscations",
+      "what": "The court decides whether an article or thing seized is liable to confiscation under sections 60, 61, or 62 of the Narcotic Drugs and Psychotropic Substances Act 1985, and may order confiscation if it decides so.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "64": {
+      "section": "64",
+      "title": "Power to te nder immunity from prosecution",
+      "what": "The Central Government or State Government can offer immunity from prosecution if a person provides full disclosure about a violation of the Act in exchange for immunity.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "64A": {
+      "section": "64A",
+      "title": "Immunity from prosecution to addi cts volunteering for treatment",
+      "what": "An addict who volunteers to get medical treatment for addiction and completes it is not liable for prosecution related to small amounts of narcotic drugs or psychotropic substances.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "65": {
+      "section": "65",
+      "title": "[Power to make rules regulating disposal of confiscated articles and rewards ]",
+      "what": "Power to make rules regulating disposal of confiscated articles and rewards",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "66": {
+      "section": "66",
+      "title": "Presumption as to documents in certain cases",
+      "what": "The court shall presume that a document is authentic, in the handwriting of a particular person, or was executed by a certain person, unless proven otherwise; admit the document as evidence if it's admissible despite being unstamped; and examine witnesses familiar with the facts to verify its contents.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "67": {
+      "section": "67",
+      "title": "Power to call for infor mation, etc",
+      "what": "Any authorized officer can request information, documents, or personal examination during an investigation under this Act to determine if a law has been broken.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68": {
+      "section": "68",
+      "title": "Information as to commission of offences",
+      "what": "No officer can reveal how they obtained information about an offense committed.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68A": {
+      "section": "68A",
+      "title": "Application",
+      "what": "The provisions of this Chapter shall apply to persons who have been convicted of an offence punishable with imprisonment for a term of 3[ten] years or more, or to persons who have been convicted of a similar offence by a competent court outside India.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68B": {
+      "section": "68B",
+      "title": "Definitions",
+      "what": "Definitions - In this Chapter, unless the context otherwise requires,— (a) “Appellate Tribunal” means the Appellate Tribunal referred to in section 68N; (b) “associate” in relation to a person whose property is liable to be forfei ted under this Chapter, means— (i) any individual who had been or is residing in the resi dential premises (including out-houses) of such person; (ii) any individual who had been or is managing the affairs or keepi ng the accounts of such person; (iii) any association of pers ons, body of individuals, part nership firm, or private company within the meaning of the Companies Act, 1956 (1 of 1956), of which such person had been or is a member, partner or director; (iv) any individual who had been or is a member, partner or director of an association of persons, body of individuals, partnership firm or private company referred to in sub-clause (iii) at any time when such person had been or is a member, partner or director of such association, body, partnership firm or private company; (v) any person, who had been or is managing the affairs, or keeping the accounts, of any association of persons, body of individuals, partnership firm or private company r eferred to in sub-clause (iii); (vi) the trustee of any trust, where,— (1) the trust has been created by such person; or (2) the value of the assets contributed by such person (including the value of the assets, if any, contributed by him earlier) to the trust amo unts, on the date on which con tribution is made, to not less than twenty per cent. of the value of the assets of the trust on that date; (vii) where the competent aut hority, for reasons to be reco rded in writing, considers that any properties of such person are held on his behalf by any other person, such other person; (c) “competent authority ” means a n officer of the Central Gover nment auth orised by it under section 68D; (d) “concealment” means the concealment or disguise of the nature, source, disposition, movement or ownership of property and includes the movement or conversion of such property by electronic transmission or by any other means; (e) “freezing” means temporarily prohibiting the transfer, conversion, disposition or movement of property by an order issued under section 68F; (f) “identifying” includes establishment of proof that the pr operty was derived from, o r used in, the illicit traffic; (g) “illegally acquired proper ty”, in relation to any person to whom this Chapter applies, means, — (i) any property acquired by such person, whether before or after the commencement of this Chapter, wholly or partly out of or by means of any inc ome, earnings or assets derived or obtained from or attr ibutable to 2[the contravention of any provisions 3[of this Act or the equivalent value of such property; or]]",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68C": {
+      "section": "68C",
+      "title": "Prohibition of holdi ng illegally acquired property",
+      "what": "A person cannot hold illegally acquired property, and if they do, the property can be confiscated by the Central Government.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68D": {
+      "section": "68D",
+      "title": "Competent authority",
+      "what": "Authorises the Central Government to authorise certain officers to perform functions of a competent authority under the Act, with power to direct the competent authorities to perform their functions in respect of specific persons or classes of persons.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68E": {
+      "section": "68E",
+      "title": "Identifying illegally acquired property",
+      "what": "Every officer empowered under section 53 and every officer-in-charge of a police station can trace and identify illegally acquired property by taking necessary steps, including inquiry, investigation or survey.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68F": {
+      "section": "68F",
+      "title": "Seizure or freezing of illegally acquired property",
+      "what": "Property seizure or freezing ordered to prevent forfeiture, including what constitutes transfer of property, effective only if confirmed by competent authority within 30 days.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68G": {
+      "section": "68G",
+      "title": "Management of properties seize d or forfeited under this Chapter",
+      "what": "The Central Government can appoint an officer with a rank of Joint Secretary or above to manage properties seized or forfeited, subject to conditions prescribed by them.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68H": {
+      "section": "68H",
+      "title": "Notice of forfe iture of property",
+      "what": "A notice is sent to a person with known sources of income, earnings or assets if there's reason to believe that some of their properties were acquired illegally. The person must respond within 30 days with information about how they acquired the property. If they don't appear or show cause, the competent authority may record a finding and declare the property forfeited to the Central Government.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68J": {
+      "section": "68J",
+      "title": "Burden of proof",
+      "what": "The person affected must prove that the property is not illegally acquired.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68K": {
+      "section": "68K",
+      "title": "Fine in lieu of forfeiture",
+      "what": "If a person's illegal drug or substance-related property is partially owned, they can pay a fine equal to its market value instead of having it seized. The person must be given a chance to explain their case before being ordered to pay the fine. If they pay the fine within the allowed time frame, their property will be released from seizure.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68L": {
+      "section": "68L",
+      "title": "Procedure in relation to certain trust properties",
+      "what": "In cases where a person referred to in sub-clause (vi) of clause (b) of section 68B holds trust properties, the competent authority can serve a notice on the author or contributor of the trust and trustees within 30 days, asking them to explain how they acquired the money or assets. If they fail to respond, other provisions of Chapter 68 apply.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68M": {
+      "section": "68M",
+      "title": "Certain transfers to be null and voi d",
+      "what": "If after a certain order or notice, someone transfers any mentioned property, this transfer will be ignored in court proceedings and if the property is later forfeited to the government, it will be considered null and void.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68N": {
+      "section": "68N",
+      "title": "Cons titution of Appellate Tribunal",
+      "what": "The Appellate Tribunal constituted under section 12 of the Smugglers and Foreign Exchange Manipulators (Forfeiture of Property) Act, 1976 shall be the Appellate Tribunal for hearing appeals against orders made under sections 68F, 68-I, sub-section (1) of section 68K or section 68L. Any officer referred to in section 68E or any person aggrieved by an order of the competent authority made under these sections may prefer an appeal to the Appellate Tribunal within forty-five days from the date on which the order is served on them.",
+      "chapter": "Chapter VA apply to any person involved in the case of such arrest or seizure, the officer shall make a"
+    },
+    "68P": {
+      "section": "68P",
+      "title": "Notice or order not to be in valid for error in description",
+      "what": "A notice or order issued under the Narcotic Drugs and Psychotropic Substances Act 1985 that contains an error in describing the property or person mentioned will not be considered invalid if the described property or person can still be identified.",
+      "chapter": "part thereof."
+    },
+    "68Q": {
+      "section": "68Q",
+      "title": "Bar of jurisdiction",
+      "what": "No order passed or declaration made under the Narcotic Drugs and Psychotropic Substances Act 1985 can be appealed, and no civil court can review matters determined by the Appellate Tribunal or other competent authorities, except as provided in the Act.",
+      "chapter": "part thereof."
+    },
+    "68R": {
+      "section": "68R",
+      "title": "Competent authority and Appellate Tribunal to have powe rs of civil court",
+      "what": "The competent authority and the Appellate Tribunal have all powers of a civil court while trying a suit, including summoning people, requiring documents, receiving evidence on affidavits, requisitioning public records, issuing commissions for witness examination, and other matters as prescribed.",
+      "chapter": "part thereof."
+    },
+    "68S": {
+      "section": "68S",
+      "title": "Info rmation to competent authority",
+      "what": "The competent authority can require any government officer or local authority to provide information relevant to the Narcotic Drugs and Psychotropic Substances Act 1985.",
+      "chapter": "part thereof."
+    },
+    "68T": {
+      "section": "68T",
+      "title": "Certain officers to assist Administrator, competent autho rity and Appellate Tribunal",
+      "what": "Officers who can assist Administrator, competent authority and Appellate Tribunal in proceedings under Chapter.",
+      "chapter": "part thereof."
+    },
+    "68U": {
+      "section": "68U",
+      "title": "Power to take possession",
+      "what": "Where property declared forfeited to Central Government or person fails to pay fine, person affected and others in possession must surrender/deliver possession to Administrator within 30 days.",
+      "chapter": "part thereof."
+    },
+    "68V": {
+      "section": "68V",
+      "title": "Rectification of mistakes",
+      "what": "If a mistake is found, the authority or tribunal can change an order made within one year of the original date, but they must tell anyone who might be affected and give them a chance to speak.",
+      "chapter": "part thereof."
+    },
+    "68W": {
+      "section": "68W",
+      "title": "Findings under other laws not conclusive for proceedings under this Chapter",
+      "what": "No finding made under another law is conclusive in proceedings under this Chapter.",
+      "chapter": "part thereof."
+    },
+    "68X": {
+      "section": "68X",
+      "title": "Service of notices and orders",
+      "what": "A notice or order under this Chapter can be served by: (a) giving it to the person, or (b) posting it to their address or attaching it to a place where they were known to have lived or worked.",
+      "chapter": "part thereof."
+    },
+    "68Y": {
+      "section": "68Y",
+      "title": "Punishment for acqui ring property in relation to which proceedings have been taken,",
+      "what": "Any person who knowingly acquires property related to an ongoing criminal case under this chapter, faces up to 5 years in prison and a fine of up to ₹50,000.",
+      "chapter": "part thereof."
+    },
+    "68Z": {
+      "section": "68Z",
+      "title": "Release of property in certain cases",
+      "what": "Release of property in certain cases where detention order is set aside, a person acquitted or discharged from charges, and appeal is disposed of.",
+      "chapter": "part thereof."
+    },
+    "69": {
+      "section": "69",
+      "title": "Protection of action taken in good faith",
+      "what": "No legal action can be taken against the government, its officers, or others if they act in good faith while carrying out their duties under the Narcotic Drugs and Psychotropic Substances Act.",
+      "chapter": "CHAPTER VI"
+    },
+    "70": {
+      "section": "70",
+      "title": "Central Governm ent and State Government to have regard to international conventions",
+      "what": "The Central Government and State Government must consider international conventions when making rules under this Act, except for other provisions in this Act.",
+      "chapter": "CHAPTER VI"
+    },
+    "71": {
+      "section": "71",
+      "title": "Power of Government to establish centres for identification, treatment, et c., of addicts and",
+      "what": "The Government may establish or approve as many centres for identification, treatment, management, education, after-care, rehabilitation, social re-integration of addicts, and supply narcotic drugs and psychotropic substances to registered addicts and others where such supply is a medical necessity.",
+      "chapter": "CHAPTER VI"
+    },
+    "72": {
+      "section": "72",
+      "title": "Recovery of sums due to Government",
+      "what": "The government can deduct or recover a licence fee or other sum due from someone, by attaching and selling their goods or taking it from the person's money.",
+      "chapter": "CHAPTER VI"
+    },
+    "73": {
+      "section": "73",
+      "title": "Bar of jurisdiction",
+      "what": "No civil court can entertain a suit or proceeding related to: withholding/ cancellation of an opium poppy licence, weighment/examination/classification of opium, or confiscation of adulterated opium.",
+      "chapter": "CHAPTER VI"
+    },
+    "74": {
+      "section": "74",
+      "title": "Transitional provisions",
+      "what": "Upon the commencement of the Narcotic Drugs and Psychotropic Substances Act 1985, existing government employees will retain their positions and designations.",
+      "chapter": "CHAPTER VI"
+    },
+    "74A": {
+      "section": "74A",
+      "title": "Power of Central Government to give directions",
+      "what": "The Central Government may give directions to State Governments on executing Narcotic Drugs and Psychotropic Substances Act 1985 provisions.",
+      "chapter": "CHAPTER VI"
+    },
+    "75": {
+      "section": "75",
+      "title": "Power to delegate",
+      "what": "The Central Government and State Governments can delegate certain powers and functions under the Narcotic Drugs and Psychotropic Substances Act 1985 to specified authorities or officers, subject to conditions and limitations as notified in the Official Gazette.",
+      "chapter": "CHAPTER VI"
+    },
+    "76": {
+      "section": "76",
+      "title": "Power of Ce ntral Government to make rules",
+      "what": "The Central Government has the power to make rules for carrying out the purposes of the Narcotic Drugs and Psychotropic Substances Act, subject to certain conditions. The rules can cover various matters such as authentication of documents, management of properties, fees for records inspection, powers of civil courts, disposal of confiscated articles, rewards for officers and informers, medical supply conditions, centre establishment and management, committee term and allowances, and any other related matter.",
+      "chapter": "CHAPTER VI"
+    },
+    "77": {
+      "section": "77",
+      "title": "Rules and notifications to be laid before Parliament",
+      "what": "Every rule made under this Act by the Central Government and every notification or order issued under certain clauses must be laid before Parliament within 30 days, with modifications accepted if both Houses agree.",
+      "chapter": "CHAPTER VI"
+    },
+    "78": {
+      "section": "78",
+      "title": "Power of State Government to make rules",
+      "what": "The State Government can make rules to carry out the purposes of the Narcotic Drugs and Psychotropic Substances Act 1985 by notifying them in the Official Gazette. The rules can include: providing supplies for medical necessity, establishing and managing centres for addicts, and other related matters.",
+      "chapter": "CHAPTER VI"
+    },
+    "79": {
+      "section": "79",
+      "title": "Application of the Customs Act, 1962",
+      "what": "The prohibitions and restrictions on import, export, and transit of narcotic drugs and psychotropic substances are covered by the Customs Act 1962, with its provisions applying to the mentioned activities. However, if someone is also punishable under both laws, they can be punished under this law instead.",
+      "chapter": "CHAPTER VI"
+    },
+    "80": {
+      "section": "80",
+      "title": "Application of the Drugs and Cosmetics Act, 1940 not barred",
+      "what": "The provisions of this Act or the rules made thereunder are in addition to, and not in derogation of, the Drugs and Cosmetics Act, 1940 or the rules made thereunder.",
+      "chapter": "CHAPTER VI"
+    },
+    "81": {
+      "section": "81",
+      "title": "Sa ving of State and special laws",
+      "what": "Nothing in this Act affects the validity of Provincial Acts, State Legislatures' acts, rules with restrictions/punishments not in this Act, or rules with punishments greater than those in this Act for cannabis cultivation/consumption/trafficking.",
+      "chapter": "CHAPTER VI"
+    },
+    "82": {
+      "section": "82",
+      "title": "Repeal and saving s",
+      "what": "The Opium Act, 1857, the Opium Act, 1878, and the Dangerous Drugs Act, 1930 are hereby repealed. All actions taken under these laws will continue to be valid as long as they do not conflict with this Act.",
+      "chapter": "CHAPTER VI"
+    },
+    "83": {
+      "section": "83",
+      "title": "Power to r emove difficulties",
+      "what": "The Central Government can make provisions not inconsistent with this Act to remove difficulties, but such an order must be published in the Official Gazette and made within three years of the Act's assent.",
+      "chapter": "CHAPTER VI"
+    }
+  },
+  "key_points": [
+    "The court may order confiscation of an article or thing if it determines that the article was used for any purpose other than a permitted one.",
+    "Confiscation is not automatic and must be determined by the court on a case-by-case basis."
+  ],
+  "section_references": [
+    "63",
+    "{'section': '68N'}",
+    "{'section': '68P'}",
+    "{'section': '68Q'}",
+    "{'section': '68R'}",
+    "{'section': '68S'}",
+    "{'section': '68T'}",
+    "{'section': '68U'}",
+    "{'section': '68V'}",
+    "{'section': '68W'}",
+    "{'section': '68X'}",
+    "{'section': '68Y'}",
+    "{'section': '68Z'}",
+    "{'section': '69'}",
+    "{'section': '70'}",
+    "{'section': '71'}",
+    "{'section': '72'}",
+    "{'section': '73'}",
+    "{'section': '74'}",
+    "{'section': '74A'}",
+    "{'section': '75'}",
+    "{'section': '76'}",
+    "{'section': '77'}",
+    "{'section': '78'}",
+    "{'section': '79'}",
+    "{'section': '80'}",
+    "{'section': '81'}",
+    "{'section': '82'}",
+    "{'section': '83'}"
+  ],
+  "pdf_extraction": {
+    "page_count": 54,
+    "extracted_page_count": 54,
+    "blank_pages": [],
+    "total_characters": 184338,
+    "full_text_extraction": true,
+    "parsed_section_count": 127,
+    "pages": [
+      {
+        "page": 1,
+        "characters": 1792
+      },
+      {
+        "page": 2,
+        "characters": 2729
+      },
+      {
+        "page": 3,
+        "characters": 2341
+      },
+      {
+        "page": 4,
+        "characters": 1745
+      },
+      {
+        "page": 5,
+        "characters": 2790
+      },
+      {
+        "page": 6,
+        "characters": 3346
+      },
+      {
+        "page": 7,
+        "characters": 3148
+      },
+      {
+        "page": 8,
+        "characters": 3269
+      },
+      {
+        "page": 9,
+        "characters": 3502
+      },
+      {
+        "page": 10,
+        "characters": 4275
+      },
+      {
+        "page": 11,
+        "characters": 2945
+      },
+      {
+        "page": 12,
+        "characters": 3759
+      },
+      {
+        "page": 13,
+        "characters": 3977
+      },
+      {
+        "page": 14,
+        "characters": 3902
+      },
+      {
+        "page": 15,
+        "characters": 4112
+      },
+      {
+        "page": 16,
+        "characters": 4021
+      },
+      {
+        "page": 17,
+        "characters": 3710
+      },
+      {
+        "page": 18,
+        "characters": 4011
+      },
+      {
+        "page": 19,
+        "characters": 4127
+      },
+      {
+        "page": 20,
+        "characters": 4239
+      },
+      {
+        "page": 21,
+        "characters": 2989
+      },
+      {
+        "page": 22,
+        "characters": 4089
+      },
+      {
+        "page": 23,
+        "characters": 3754
+      },
+      {
+        "page": 24,
+        "characters": 4241
+      },
+      {
+        "page": 25,
+        "characters": 4415
+      },
+      {
+        "page": 26,
+        "characters": 4683
+      },
+      {
+        "page": 27,
+        "characters": 4229
+      },
+      {
+        "page": 28,
+        "characters": 4203
+      },
+      {
+        "page": 29,
+        "characters": 4248
+      },
+      {
+        "page": 30,
+        "characters": 4458
+      },
+      {
+        "page": 31,
+        "characters": 4018
+      },
+      {
+        "page": 32,
+        "characters": 4462
+      },
+      {
+        "page": 33,
+        "characters": 4284
+      },
+      {
+        "page": 34,
+        "characters": 3411
+      },
+      {
+        "page": 35,
+        "characters": 3200
+      },
+      {
+        "page": 36,
+        "characters": 3298
+      },
+      {
+        "page": 37,
+        "characters": 4139
+      },
+      {
+        "page": 38,
+        "characters": 4560
+      },
+      {
+        "page": 39,
+        "characters": 4345
+      },
+      {
+        "page": 40,
+        "characters": 4261
+      },
+      {
+        "page": 41,
+        "characters": 3543
+      },
+      {
+        "page": 42,
+        "characters": 4115
+      },
+      {
+        "page": 43,
+        "characters": 4423
+      },
+      {
+        "page": 44,
+        "characters": 3655
+      },
+      {
+        "page": 45,
+        "characters": 3721
+      },
+      {
+        "page": 46,
+        "characters": 1718
+      },
+      {
+        "page": 47,
+        "characters": 1715
+      },
+      {
+        "page": 48,
+        "characters": 1741
+      },
+      {
+        "page": 49,
+        "characters": 1605
+      },
+      {
+        "page": 50,
+        "characters": 1728
+      },
+      {
+        "page": 51,
+        "characters": 1854
+      },
+      {
+        "page": 52,
+        "characters": 1844
+      },
+      {
+        "page": 53,
+        "characters": 1954
+      },
+      {
+        "page": 54,
+        "characters": 302
+      }
+    ]
+  },
+  "llm_processing": {
+    "model": "llama3.2:3b",
+    "mode": "numbered_section_indexing",
+    "section_count": 127,
+    "processed_section_characters": 151682,
+    "every_parsed_section_indexed": true
+  },
+  "source": {
+    "name": "Drishti Judiciary Bare Acts",
+    "url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306821_narcotic_drugs_and_psychotropic_substances_act_1985.pdf",
+    "catalog_url": "https://drishtijudiciary.com/downloads/general-bare-acts/criminal-law-bare-acts",
+    "category": "Criminal Law",
+    "listed_date": "18-Mar-2025",
+    "format": "pdf",
+    "content_sha256": "f2d175e68f2422e292bbc9eb9baed0a301183227a9cb91faa84b47012327a783",
+    "collected_at": "2026-09-16T11:31:19Z"
+  },
+  "notice": "Each 'what' value is an LLM explanation of the corresponding extracted statutory section. Verify exact wording and current legal status against the downloaded PDF."
+}

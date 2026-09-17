@@ -1,0 +1,885 @@
+{
+  "schema_version": "4.0",
+  "record_type": "indian_bare_act_section_index",
+  "country": "India",
+  "law_type": "Criminal Law",
+  "law": "Information Technology Act, 2000",
+  "what": "This law regulates various aspects of information technology and computing in India. It covers offenses related to cheating by using computer resources, unauthorized access to computer resources, cheating with electronic records, among others.",
+  "section_count": 116,
+  "sections": {
+    "1": {
+      "section": "1",
+      "title": "Short title, extent, commencement and application",
+      "what": "The Information Technology Act, 2000 applies to the whole of India and extends to any person who commits an offence or contravention outside India.",
+      "chapter": "CHAPTER 1"
+    },
+    "2": {
+      "section": "2",
+      "title": "Definitions",
+      "what": "Definitions",
+      "chapter": "CHAPTER 1"
+    },
+    "3": {
+      "section": "3",
+      "title": "Authentication of electronic records",
+      "what": "This law allows subscribers to authenticate electronic records by adding their digital signature, using an asymmetric crypto system and hash function to transform the record.",
+      "chapter": "CHAPTER II"
+    },
+    "3A": {
+      "section": "3A",
+      "title": "Electronic signature",
+      "what": "A person's electronic signature on an electronic record is considered reliable if the following conditions are met: it is created in a way that links the signature to the person using it, and alterations can be detected. The government may prescribe additional conditions and procedures for verifying the authenticity of electronic signatures.",
+      "chapter": "CHAPTER II"
+    },
+    "4": {
+      "section": "4",
+      "title": "Legal recognition of electronic records",
+      "what": "Information written or printed does not need to be in physical form to meet the requirements of laws, as long as it exists in digital format and can be accessed.",
+      "chapter": "CHAPTER III"
+    },
+    "5": {
+      "section": "5",
+      "title": "Legal recognition of 1[electronic signatures]",
+      "what": "Electronic signatures are accepted as authentic substitutes for handwritten signatures in documents, if they are created according to rules set by the Central Government.",
+      "chapter": "CHAPTER III"
+    },
+    "6": {
+      "section": "6",
+      "title": "Use of electronic records and 1[electronic signatures] in Government and its agencies",
+      "what": "The government can require certain official actions to be done electronically, such as filing documents, issuing licenses, and making payments, if the required electronic form is prescribed by the government.",
+      "chapter": "CHAPTER III"
+    },
+    "6A": {
+      "section": "6A",
+      "title": "Delivery of services by service provider",
+      "what": "The government can authorise a service provider to deliver electronic services, including setting up computer facilities, performing other services, and collecting charges, with specific rules and exceptions.",
+      "chapter": "CHAPTER III"
+    },
+    "7": {
+      "section": "7",
+      "title": "Retention of electronic records",
+      "what": "This law requires electronic records to be kept in a way that makes them usable and accurate for future reference.",
+      "chapter": "CHAPTER III"
+    },
+    "7A": {
+      "section": "7A",
+      "title": "Audit of documents, etc., maintained in electronic form",
+      "what": "Auditing documents in electronic format follows the same rules as those in paper format.",
+      "chapter": "CHAPTER III"
+    },
+    "8": {
+      "section": "8",
+      "title": "Publication of rule, regulation, etc., in Electronic Gazette",
+      "what": "Publishing rules and regulations in Electronic Gazette satisfies the requirement of publishing in Official Gazette.",
+      "chapter": "CHAPTER III"
+    },
+    "9": {
+      "section": "9",
+      "title": "Sections 6, 7 and 8 not to confer right to insist document should be accepted in electronic",
+      "what": "A government ministry or department cannot refuse to accept documents in electronic form.",
+      "chapter": "CHAPTER III"
+    },
+    "10": {
+      "section": "10",
+      "title": "Power to make rules by Central Government in respect of 1[electronic signature]",
+      "what": "The Central Government may make rules for the purposes of this Act regarding electronic signatures, including specifying types, formats, and procedures for use.",
+      "chapter": "CHAPTER III"
+    },
+    "10A": {
+      "section": "10A",
+      "title": "Validity of contracts formed through electronic means",
+      "what": "A contract formed through electronic means will not be deemed unenforceable due to its electronic nature.",
+      "chapter": "CHAPTER III"
+    },
+    "11": {
+      "section": "11",
+      "title": "Attribution of electronic records",
+      "what": "An electronic record can be attributed to one of three people: (1) The person who sent it themselves, (2) A person authorized to act on their behalf, or (3) An automated system programmed by the sender.",
+      "chapter": "CHAPTER IV"
+    },
+    "12": {
+      "section": "12",
+      "title": "Acknowledgment of receipt",
+      "what": "An acknowledgment of receipt for an electronic record can be given through any communication or conduct by the addressee that shows the originator has received the record. If the originator wants the record to be binding only after receiving an acknowledgment, and no acknowledgment is received within a specified time limit, they can give notice stating the unreceived acknowledgement and specify a new deadline.",
+      "chapter": "CHAPTER IV"
+    },
+    "13": {
+      "section": "13",
+      "title": "Time and place of despatch and receipt of electronic record",
+      "what": "The despatch and receipt of electronic records are determined by when they enter or are retrieved from a computer resource outside of the originator's control, or at the designated place of business.",
+      "chapter": "CHAPTER IV"
+    },
+    "14": {
+      "section": "14",
+      "title": "Secure electronic record",
+      "what": "An electronic record is considered secure from the moment a security procedure was applied to it, and remains so until its verification.",
+      "chapter": "CHAPTER V"
+    },
+    "15": {
+      "section": "15",
+      "title": "Secure electronic signature",
+      "what": "An electronic signature is considered secure if it was created by the person signing alone and their unique information was stored and used correctly.",
+      "chapter": "CHAPTER V"
+    },
+    "16": {
+      "section": "16",
+      "title": "Security procedures and practices",
+      "what": "The Central Government may prescribe security procedures and practices for sections 14 and 15, considering commercial circumstances, transaction nature, and relevant factors.",
+      "chapter": "CHAPTER V"
+    },
+    "17": {
+      "section": "17",
+      "title": "Appointment of Controller and other officers",
+      "what": "The Central Government appoints a Controller and other officers to carry out its functions under this Act, with specific qualifications, terms, and conditions of service.",
+      "chapter": "CHAPTER VI"
+    },
+    "18": {
+      "section": "18",
+      "title": "Functions of Controller",
+      "what": "The Controller has the power to perform various functions related to the Certifying Authorities, including supervising their activities, certifying public keys, setting standards and conditions for their business, and regulating electronic systems.",
+      "chapter": "CHAPTER VI"
+    },
+    "19": {
+      "section": "19",
+      "title": "Recognition of foreign Certifying Authorities",
+      "what": "A foreign Certifying Authority can be recognized by the Controller with Central Government approval and notification in the Official Gazette, making its electronic signature certificates valid under this Act.",
+      "chapter": "CHAPTER VI"
+    },
+    "20": {
+      "section": "20",
+      "title": "[ Controller to act as repository .] Omitted by the Information Technology ( Amendment) Act,",
+      "what": "No provision or section in this Act shall be applicable to any situation except as explicitly provided by the provisions of this Act.",
+      "chapter": "CHAPTER VI"
+    },
+    "21": {
+      "section": "21",
+      "title": "Licence to issue 1[electronic signature] Certificates",
+      "what": "Any person can apply to the Controller for a license to issue electronic signature certificates, but must meet qualifications and requirements set by the Central Government.",
+      "chapter": "CHAPTER VI"
+    },
+    "22": {
+      "section": "22",
+      "title": "Application for licence",
+      "what": "An application for a license must: be in a form approved by the government, include a statement on how the applicant will be identified, pay a fee not more than 25,000 rupees, and be accompanied by any other required documents.",
+      "chapter": "CHAPTER VI"
+    },
+    "23": {
+      "section": "23",
+      "title": "Renewal of licence",
+      "what": "An application for renewal of a licence must be in a specific form, accompanied by fees not exceeding five thousand rupees, and submitted at least 45 days before the licence expires.",
+      "chapter": "CHAPTER VI"
+    },
+    "24": {
+      "section": "24",
+      "title": "Procedure for grant or rejection of licence",
+      "what": "The Controller grants or rejects a licence after considering application documents and other factors, but only if the applicant is given a chance to present their case.",
+      "chapter": "CHAPTER VI"
+    },
+    "25": {
+      "section": "25",
+      "title": "Suspension of licence",
+      "what": "A person can have their license revoked by the Controller if they have made false statements, failed to comply with conditions, or broken laws related to digital signatures.",
+      "chapter": "CHAPTER VI"
+    },
+    "26": {
+      "section": "26",
+      "title": "Notice of suspension or revocation of licence",
+      "what": "complete explanation of IT Act Section 26: The Controller must publish a notice in the database when a licence is suspended or revoked.",
+      "chapter": "CHAPTER VI"
+    },
+    "27": {
+      "section": "27",
+      "title": "Power to delegate",
+      "what": "The Controller can give written permission for someone else (like a Deputy Controller, Assistant Controller, or other officer) to make decisions on their behalf about exercising certain powers.",
+      "chapter": "CHAPTER VI"
+    },
+    "28": {
+      "section": "28",
+      "title": "Power to investigate contraventions",
+      "what": "The Controller or any officer authorized by him may investigate contraventions of the Act's provisions, rules, or regulations.",
+      "chapter": "CHAPTER VI"
+    },
+    "29": {
+      "section": "29",
+      "title": "Access to computers and data",
+      "what": "The authorities can access a computer system without permission if they suspect a crime has been committed.",
+      "chapter": "CHAPTER VI"
+    },
+    "30": {
+      "section": "30",
+      "title": "Certifying Authority to follow certain procedures",
+      "what": "Certifying Authority must use secure hardware, software, and procedures to provide reliable services that protect electronic signatures' secrecy and privacy.",
+      "chapter": "CHAPTER VI"
+    },
+    "31": {
+      "section": "31",
+      "title": "Certifying Authority to ensure compliance of the Act, etc",
+      "what": "Every Certifying Authority shall ensure that every person employed or otherwise engaged by it complies with the provisions of this Act, rules, regulations and orders made thereunder.",
+      "chapter": "CHAPTER VI"
+    },
+    "32": {
+      "section": "32",
+      "title": "Display of licence",
+      "what": "Every Certifying Authority shall display its licence at a conspicuous place of the premises in which it carries on its business.",
+      "chapter": "CHAPTER VI"
+    },
+    "33": {
+      "section": "33",
+      "title": "Surrender of licence",
+      "what": "If a Certifying Authority's licence is suspended or revoked, they must give it to the Controller immediately. If they don't, the person who got the licence can be fined up to 10,000 rupees or jailed for up to six months.",
+      "chapter": "CHAPTER VI"
+    },
+    "34": {
+      "section": "34",
+      "title": "Disclosure",
+      "what": "The Certifying Authority must disclose certain information, including its electronic signature certificate and any revocation or suspension of the certificate, in a specified manner.",
+      "chapter": "CHAPTER VI"
+    },
+    "35": {
+      "section": "35",
+      "title": "Certifying authority to issue 1[electronic signature] Certificate",
+      "what": "A person can apply to the Certifying Authority for an electronic signature certificate, which must be accompanied by a fee not exceeding 25,000 rupees and a certification practice statement.",
+      "chapter": "CHAPTER VI"
+    },
+    "36": {
+      "section": "36",
+      "title": "Representations upon issuance of Digital Signature Certificate",
+      "what": "A Certifying Authority must certify that it has issued a Digital Signature Certificate in accordance with the IT Act and rules, the subscriber accepts it, the subscriber holds the private key corresponding to the public key, and the information contained in the certificate is accurate.",
+      "chapter": "CHAPTER VI"
+    },
+    "37": {
+      "section": "37",
+      "title": "Suspension of Digital Signature Certificate",
+      "what": "A Certifying Authority can suspend a Digital Signature Certificate with the following conditions:",
+      "chapter": "CHAPTER VI"
+    },
+    "38": {
+      "section": "38",
+      "title": "Revocation of Digital Signature Certificate",
+      "what": "A digital signature certificate can be revoked by a Certifying Authority under certain circumstances, including: death of the subscriber, dissolution of a firm or winding up of a company, false information in the certificate, compromise of the Certifying Authority's private key, or declaration of insolvency.",
+      "chapter": "CHAPTER VI"
+    },
+    "39": {
+      "section": "39",
+      "title": "Notice of suspension or revocation",
+      "what": "The Certifying Authority must publish a notice of suspension or revocation of a Digital Signature Certificate in the specified repository(s), if one exists.",
+      "chapter": "CHAPTER VI"
+    },
+    "40": {
+      "section": "40",
+      "title": "Generating key pair",
+      "what": "A subscriber must generate a complete key pair if a public key from their digital signature certificate matches their private key when listed in the certificate.",
+      "chapter": "CHAPTER VIII"
+    },
+    "40A": {
+      "section": "40A",
+      "title": "Duties of subscriber of Electronic Signature Certificate",
+      "what": "The person subscribing to an Electronic Signature Certificate must follow the rules and procedures related to it, including any penalties for non-compliance.",
+      "chapter": "CHAPTER VIII"
+    },
+    "41": {
+      "section": "41",
+      "title": "Acceptance of Digital Signature Certificate",
+      "what": "A person who publishes or allows someone else to publish a digital signature certificate with their name on it, without checking its accuracy, accepts the certificate and promises: they have private key matching the public key; all statements made to get the certificate are true; they know all information in the certificate is true.",
+      "chapter": "CHAPTER VIII"
+    },
+    "42": {
+      "section": "42",
+      "title": "Control of private key",
+      "what": "Every subscriber must: (1) Carefully keep control of their private key, and prevent it from being disclosed. (2) If the private key is compromised, inform the Certifying Authority immediately, as specified by regulations.",
+      "chapter": "CHAPTER VIII"
+    },
+    "43": {
+      "section": "43",
+      "title": "6[Penalty and compensation] for damage to computer, computer system, etc",
+      "what": "If anyone accesses or secures access to a computer, system, or network without permission, they can face penalties including damages by way of compensation.",
+      "chapter": "CHAPTER IX"
+    },
+    "43A": {
+      "section": "43A",
+      "title": "Compensation for failure to protect data",
+      "what": "Compensation for failure to protect data. A company that handles sensitive personal data is liable to pay damages if they are negligent and cause wrongful loss or gain to someone.",
+      "chapter": "CHAPTER IX"
+    },
+    "44": {
+      "section": "44",
+      "title": "Penalty for failure to furnish information, return, etc",
+      "what": "If you fail to provide documents, file returns, or maintain records, you could face penalties: \\ \n   - For each failure to provide documents, fines up to 1.5 million rupees.\n   - If you miss a return filing deadline, fines of up to 500 rupees per day until the fine is paid.\n   - For not maintaining required records, fines of up to 10,000 rupees per day.",
+      "chapter": "CHAPTER IX"
+    },
+    "45": {
+      "section": "45",
+      "title": "Residuary penalty",
+      "what": "If you break any rules under this Act (without a specific fine mentioned), you might have to pay up to ₹25,000 as compensation or a fine of up to ₹25,000.",
+      "chapter": "CHAPTER IX"
+    },
+    "46": {
+      "section": "46",
+      "title": "Power to adjudicate",
+      "what": "Adjudicating Officers and their Powers",
+      "chapter": "CHAPTER IX"
+    },
+    "47": {
+      "section": "47",
+      "title": "Factors to be taken into account by the adjudicating officer",
+      "what": "The adjudicating officer shall consider the following when deciding compensation: gain from unfair advantage, loss caused to others, and whether the default was repeated.",
+      "chapter": "CHAPTER IX"
+    },
+    "48": {
+      "section": "48",
+      "title": "3[Appellate Tribunal]",
+      "what": "The Telecom Disputes Settlement and Appellate Tribunal established under section 14 of the Telecom Regulatory Authority of India Act, 1997, is appointed as the Appellate Tribunal for this Act from its commencement onwards. The Appellate Tribunal will exercise the powers given by this Act.",
+      "chapter": "CHAPTER X"
+    },
+    "49": {
+      "section": "49",
+      "title": "[Composition of Cyber Appellate Tribunal .] Omitted by the Finance Act, 2017 (7 of 2017),",
+      "what": "No provision is specified in this section.",
+      "chapter": "CHAPTER X"
+    },
+    "51": {
+      "section": "51",
+      "title": "[Term of office, conditions of service, etc., of Chairperson and Members .] Omitted by s. 169,",
+      "what": "Omitted by s. 169,",
+      "chapter": "CHAPTER X"
+    },
+    "52D": {
+      "section": "52D",
+      "title": "Decision by majority",
+      "what": "If members of a bench differ in opinion on any point, they must state the differing point(s) and refer it to the Chairperson of the Appellate Tribunal, who will then decide according to the majority opinion.",
+      "chapter": "CHAPTER X"
+    },
+    "53": {
+      "section": "53",
+      "title": "[Filling up of vacancies .] Omitted by the Finance Act, 2017 (7 of 2017), s. 169",
+      "what": "The section 53 is omitted from the IT Act as per the Finance Act, 2017 (7 of 2017), s. 169, effective from 26-5-2017.",
+      "chapter": "CHAPTER X"
+    },
+    "55": {
+      "section": "55",
+      "title": "Orders constituting Appellate Tribunal to be final and not to invalidate its proceedings",
+      "what": "No order appointing an Appellate Tribunal member can be challenged, and no proceeding before the tribunal is invalidated by questioning its own constitution.",
+      "chapter": "CHAPTER X"
+    },
+    "56": {
+      "section": "56",
+      "title": "[Staff of the Cyber Appellate Tribunal .] Omitted by the Finance Act, 2017 (7 of 2017), s. 169",
+      "what": "The section was omitted by the Finance Act, 2017.",
+      "chapter": "CHAPTER X"
+    },
+    "57": {
+      "section": "57",
+      "title": "Appeal to 1[Appellate Tribunal]",
+      "what": "A person who is unhappy with an order made by a controller or adjudicating officer under this law can appeal to an Appellate Tribunal. The appeal must be filed within 45 days. The Tribunal can accept appeals after 45 days if there was a good reason not to file it on time.",
+      "chapter": "CHAPTER X"
+    },
+    "58": {
+      "section": "58",
+      "title": "Procedure and powers of the Appellate Tribunal]",
+      "what": "The Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908, but shall follow principles of natural justice and regulate its own procedures. The tribunal has powers to summon witnesses, obtain documents, receive evidence on affidavits, and issue commissions for examinations. Proceedings before the tribunal are deemed judicial proceedings under certain sections of the Indian Penal Code and Code of Criminal Procedure.",
+      "chapter": "CHAPTER X"
+    },
+    "59": {
+      "section": "59",
+      "title": "Right to legal representation",
+      "what": "The appellant has the right to be represented by a lawyer or officer, and must inform them of this before presenting their case",
+      "chapter": "CHAPTER X"
+    },
+    "60": {
+      "section": "60",
+      "title": "Limitation",
+      "what": "The provisions of the Limitation Act, 1963 shall apply to an appeal made to the Appellate Tribunal.",
+      "chapter": "CHAPTER X"
+    },
+    "61": {
+      "section": "61",
+      "title": "Civil court not to have jurisdiction",
+      "what": "No civil court can hear a case that is handled by an adjudicating officer, and no court can grant an injunction on actions related to the IT Act.",
+      "chapter": "CHAPTER X"
+    },
+    "62": {
+      "section": "62",
+      "title": "Appeal to High Court",
+      "what": "A person can appeal to the High Court 60 days after receiving a decision or order from an Appellate Tribunal, on questions of fact or law related to that order.",
+      "chapter": "CHAPTER X"
+    },
+    "63": {
+      "section": "63",
+      "title": "Compounding of contraventions",
+      "what": "This law allows the Controller or an authorized officer to forgive a fine for a minor violation (contravention) under this Act, as long as the amount is not more than the maximum penalty. If someone commits another similar violation within 3 years of the first one being forgiven, it will be considered a new first-time violation. Once a violation is forgiven, no further action can be taken against the person.",
+      "chapter": "CHAPTER X"
+    },
+    "64": {
+      "section": "64",
+      "title": "Recovery of 3[penalty or compensation]",
+      "what": "If a penalty or compensation under this Act is not paid, it can be recovered as if it were unpaid land revenue. The license or electronic signature certificate will be suspended until the penalty is paid.",
+      "chapter": "CHAPTER X"
+    },
+    "65": {
+      "section": "65",
+      "title": "Tampering with computer source documents",
+      "what": "Tampering with computer source documents. Whoever conceals, destroys or alters a required computer source code for a computer, program, system or network and knowingly causes another to do the same. This can lead to imprisonment up to 3 years, or a fine of up to ₹2 lakh, or both.",
+      "chapter": "CHAPTER XI"
+    },
+    "66": {
+      "section": "66",
+      "title": "Computer related offences",
+      "what": "If a person intentionally acts dishonestly or fraudulently while violating section 43, they can face imprisonment for up to three years, fine of up to five lakh rupees, or both.",
+      "chapter": "CHAPTER XI"
+    },
+    "66A": {
+      "section": "66A",
+      "title": "Punishment for sending offensive messages through communication service, etc",
+      "what": "Sending offensive messages through a computer resource or communication device can lead to imprisonment for up to 3 years and a fine.",
+      "chapter": "CHAPTER XI"
+    },
+    "66B": {
+      "section": "66B",
+      "title": "Punishment for dishonestly receiving stolen computer resource or communication",
+      "what": "Whoever dishonestly receive or retain any stolen computer resource or communication device shall be punished with imprisonment for up to 3 years or a fine of up to ₹1 lakh or both.",
+      "chapter": "CHAPTER XI"
+    },
+    "66D": {
+      "section": "66D",
+      "title": "Punishment for cheating by personation by using computer resource",
+      "what": "A person who uses a computer resource to impersonate someone else and cheats them will get up to 3 years in prison and could face a fine of up to 1 lakh rupees.",
+      "chapter": "CHAPTER XI"
+    },
+    "66E": {
+      "section": "66E",
+      "title": "Punishment for violation of privacy",
+      "what": "Intentionally capturing, publishing or transmitting someone's private image without their consent is punishable by up to 3 years in prison or a fine of up to ₹2 lakh, or both. The term 'private area' includes the person's naked or undergarment-clad genitals, buttocks, or female breast.",
+      "chapter": "CHAPTER XI"
+    },
+    "66F": {
+      "section": "66F",
+      "title": "Punishment for cyber terrorism",
+      "what": "Whoever commits or conspires to commit cyber terrorism shall be punishable with imprisonment which may extend to imprisonment for life.",
+      "chapter": "CHAPTER XI"
+    },
+    "67": {
+      "section": "67",
+      "title": "Punishment for publishing or transmitting obscene material in electronic form",
+      "what": "Publishing or transmitting obscene material in electronic form can lead to imprisonment of up to 3 years and/or a fine of up to ₹5 lakhs on first conviction, and up to 5 years and/or a fine of up to ₹10 lakhs on subsequent convictions.",
+      "chapter": "CHAPTER XI"
+    },
+    "67A": {
+      "section": "67A",
+      "title": "Punishment for publishing or transmitting of material containing sexually explicit act, etc.,",
+      "what": "Publishing or transmitting sexually explicit material in electronic form is punishable by up to 5 years imprisonment and a fine of up to Rs. 10 lakh on first conviction, and up to 7 years imprisonment and the same fine on subsequent convictions.",
+      "chapter": "CHAPTER XI"
+    },
+    "67B": {
+      "section": "67B",
+      "title": "Punishment for publishing or transmitting of material depicting children in sexually",
+      "what": "publishing or transmitting material depicting children in sexually explicit act, etc., in electronic form.",
+      "chapter": "CHAPTER XI"
+    },
+    "67C": {
+      "section": "67C",
+      "title": "Preservation and retention of information by intermediaries",
+      "what": "Intermediaries must preserve and retain information as specified by the Central Government, in the prescribed duration, format, and manner, while intentionally or knowingly violating this will result in up to 3 years imprisonment and a fine.",
+      "chapter": "CHAPTER XI"
+    },
+    "68": {
+      "section": "68",
+      "title": "Power of Controller to give directions",
+      "what": "The Controller can give directions to Certifying Authorities or their employees to take specific measures or stop certain activities to comply with the IT Act.",
+      "chapter": "CHAPTER XI"
+    },
+    "69": {
+      "section": "69",
+      "title": "Power to issue directions for interception or monitoring or decryption of any information",
+      "what": "The Central Government or State Government can issue orders to intercept, monitor, or decrypt information stored in computer resources if it's necessary for national security, defense, public order, or investigating an offense.",
+      "chapter": "CHAPTER XI"
+    },
+    "69A": {
+      "section": "69A",
+      "title": "Power to issue directions for blocking for public access of any information through any",
+      "what": "The government can block access to information through computer resources if it's necessary in the interest of sovereignty, defence, security, public order, or preventing a cognizable offence, and must follow certain procedures and safeguards.",
+      "chapter": "CHAPTER XI"
+    },
+    "69B": {
+      "section": "69B",
+      "title": "Power to authorise to monitor and collect traffic data or information through any",
+      "what": "The Central Government can authorise an agency to monitor and collect traffic data or information from computer resources for cyber security purposes.",
+      "chapter": "CHAPTER XI"
+    },
+    "70": {
+      "section": "70",
+      "title": "Protected system",
+      "what": "A government can declare any computer resource that affects Critical Information Infrastructure as a",
+      "chapter": "CHAPTER XI"
+    },
+    "70A": {
+      "section": "70A",
+      "title": "National nodal agency",
+      "what": "The Central Government can designate an organisation as the national nodal agency for Critical Information Infrastructure Protection by publishing a notification in the Official Gazette.",
+      "chapter": "CHAPTER XI"
+    },
+    "70B": {
+      "section": "70B",
+      "title": "Indian Computer Emergency Response Team to serve as national agency for incident",
+      "what": "The Indian Computer Emergency Response Team (CERT) is established as a national agency for incident response. The Central Government appoints a Director General and other officers and employees, provides them with necessary resources, and defines their roles and responsibilities.",
+      "chapter": "CHAPTER XI"
+    },
+    "71": {
+      "section": "71",
+      "title": "Penalty for misrepresentation",
+      "what": "Misrepresentation of information to obtain a license or electronic signature certificate can result in up to 2-year imprisonment, a fine of up to ₹1 lakh, or both.",
+      "chapter": "CHAPTER XI"
+    },
+    "72": {
+      "section": "72",
+      "title": "Penalty for Breach of confidentiality and privacy",
+      "what": "If someone accesses confidential information without consent and shares it with others, they can face up to 2 years in prison, a fine of up to ₹1 lakh, or both.",
+      "chapter": "CHAPTER XI"
+    },
+    "72A": {
+      "section": "72A",
+      "title": "Punishment for disclosure of information in breach of lawful contract",
+      "what": "A person who accesses personal information under a lawful contract to cause harm or gain, and discloses it without consent, can be punished with up to 3 years in prison, or a fine of up to 5 lakh rupees, or both.",
+      "chapter": "CHAPTER XI"
+    },
+    "73": {
+      "section": "73",
+      "title": "Penalty for publishing 1[electronic signature] Certificate false in certain particulars",
+      "what": "Publishing false electronic signature certificate information can lead to imprisonment up to 2 years and/or a fine of up to ₹1 lakh.",
+      "chapter": "CHAPTER XI"
+    },
+    "74": {
+      "section": "74",
+      "title": "Publication for fraudulent purpose",
+      "what": "Publishing an electronic signature certificate for fraudulent purposes can lead to up to 2 years in prison, or a fine of up to ₹1 lakh (₹100,000), or both.",
+      "chapter": "CHAPTER XI"
+    },
+    "75": {
+      "section": "75",
+      "title": "Act to apply for offence or contravention committed outside India",
+      "what": "This law applies to any crime or violation that was committed outside of India by anyone, regardless of their nationality. The Indian law also applies if the crime or violation involved a computer system or network located in India.",
+      "chapter": "CHAPTER XI"
+    },
+    "76": {
+      "section": "76",
+      "title": "Confiscation",
+      "what": "Computer items seized can be confiscated if used to violate IT Act rules.",
+      "chapter": "CHAPTER XI"
+    },
+    "77": {
+      "section": "77",
+      "title": "Compensation, penalties or confiscation not to interfere with other punishment",
+      "what": "This section says that if someone is given a fine (penalty) or their property is taken (confiscation) as a result of breaking this Act, it does not prevent them from also receiving compensation or facing another penalty under other laws.",
+      "chapter": "CHAPTER XI"
+    },
+    "77A": {
+      "section": "77A",
+      "title": "Compounding of offences",
+      "what": "A court can decide not to punish someone for an offense if they commit to behaving better in the future and the crime does not harm the country's economy or a child/woman.",
+      "chapter": "CHAPTER XI"
+    },
+    "77B": {
+      "section": "77B",
+      "title": "Offences with three years imprisonment to be bailable",
+      "what": "Offences punishable with imprisonment of 3 years or more are cognizable and those of less than 3 years are bailable.",
+      "chapter": "CHAPTER XI"
+    },
+    "78": {
+      "section": "78",
+      "title": "Power to investigate offences",
+      "what": "A police officer with at least Inspector rank must investigate any offence under this Act, except as stated in Chapter XII.",
+      "chapter": "CHAPTER XI"
+    },
+    "79": {
+      "section": "79",
+      "title": "Exemption from liability of intermediary in certain cases",
+      "what": "An intermediary is not liable for third-party information if they do not initiate or control the transmission, and follow due diligence and guidelines provided by the Central Government.",
+      "chapter": "CHAPTER XI"
+    },
+    "79A": {
+      "section": "79A",
+      "title": "Central Government to notify Examiner of Electronic Evidence",
+      "what": "The Central Government may specify, by notification, any Department or agency as an Examiner of Electronic Evidence to provide expert opinion on electronic form evidence before a court or authority.",
+      "chapter": "CHAPTER XIIA"
+    },
+    "80": {
+      "section": "80",
+      "title": "Power of police officer and other officers to enter, search, etc",
+      "what": "A police officer can enter a public place and search for someone suspected of committing an offence without a warrant.",
+      "chapter": "CHAPTER XIII"
+    },
+    "81": {
+      "section": "81",
+      "title": "Act to have overriding effect",
+      "what": "This law takes priority over other laws and does not conflict with them.",
+      "chapter": "CHAPTER XIII"
+    },
+    "81A": {
+      "section": "81A",
+      "title": "Application of the Act to electronic cheque and truncated cheque",
+      "what": "The provisions of this Act apply to electronic cheques and truncated cheques with necessary modifications.",
+      "chapter": "CHAPTER XIII"
+    },
+    "82": {
+      "section": "82",
+      "title": "Controller, Deputy Controller and Assistant Controller to be public servants",
+      "what": "The Controller, Deputy Controller and Assistant Controllers are considered public servants under the Indian Penal Code.",
+      "chapter": "CHAPTER XIII"
+    },
+    "83": {
+      "section": "83",
+      "title": "Power to give directions",
+      "what": "The Central Government can issue orders to a State Government on how to implement certain laws and regulations under this act.",
+      "chapter": "CHAPTER XIII"
+    },
+    "84": {
+      "section": "84",
+      "title": "Protection of action taken in good faith",
+      "what": "No person can sue or prosecute the Central Government, State Government, Controller, or anyone acting on their behalf for something they did in good faith while following this Act or its rules.",
+      "chapter": "CHAPTER XIII"
+    },
+    "84A": {
+      "section": "84A",
+      "title": "Modes or methods for encryption",
+      "what": "The Central Government can create rules for encrypting data securely for government use and to promote e-government and e-commerce.",
+      "chapter": "CHAPTER XIII"
+    },
+    "84B": {
+      "section": "84B",
+      "title": "Punishment for abetment of offences",
+      "what": "Abetting an offence: punishment. If an act is committed as a result of abetment and no specific provision exists, the person abetting is punished with the punishment for that offence.",
+      "chapter": "CHAPTER XIII"
+    },
+    "84C": {
+      "section": "84C",
+      "title": "Punishment for attempt to commit offences",
+      "what": "Attempt to commit an offence punishable by this Act: punishment includes imprisonment for up to half the length of the maximum sentence, or a fine, or both.",
+      "chapter": "CHAPTER XIII"
+    },
+    "85": {
+      "section": "85",
+      "title": "Offences by companies",
+      "what": "Every company official who was responsible for the business when a violation occurred, is guilty of that violation and can be punished.",
+      "chapter": "CHAPTER XIII"
+    },
+    "86": {
+      "section": "86",
+      "title": "Removal of difficulties",
+      "what": "The Central Government can remove difficulties in implementing this Act by making additional provisions not inconsistent with the Act, but only if it is necessary or expedient to do so.",
+      "chapter": "CHAPTER XIII"
+    },
+    "87": {
+      "section": "87",
+      "title": "Power of Central Government to make rules",
+      "what": "The Central Government may make rules to carry out the provisions of this Act.",
+      "chapter": "CHAPTER XIII"
+    },
+    "88": {
+      "section": "88",
+      "title": "Constitution of Advisory Committee",
+      "what": "The Central Government shall constitute a Committee called the Cyber Regulations Advisory Committee, consisting of a Chairperson and official/non-official members representing affected interests or having special knowledge.",
+      "chapter": "CHAPTER XIII"
+    },
+    "89": {
+      "section": "89",
+      "title": "Power of Controller to make regulations",
+      "what": "The Controller can make regulations consistent with the Act and rules to carry out its purposes. Regulations must be approved by the Central Government and published in the Official Gazette.",
+      "chapter": "CHAPTER XIII"
+    },
+    "90": {
+      "section": "90",
+      "title": "Power of State Government to make rules",
+      "what": "The State Government can make rules to carry out this Act's provisions by notifying them in the Official Gazette.",
+      "chapter": "CHAPTER XIII"
+    },
+    "91": {
+      "section": "91",
+      "title": "[Amendment of Act 45 of 1860.] Omitted by the Information Technology (Amendment) Act, 2008",
+      "what": "This section has been omitted from the IT Act.",
+      "chapter": "CHAPTER XIII"
+    },
+    "94": {
+      "section": "94",
+      "title": "[Amendment of Act 2 of 1934.] Omitted by s. 48, ibid. (w.e.f. 27-10-2009)",
+      "what": "Section 94 states that sub-sections 1 and 2 of section 94 have been omitted by the Information Technology (Amendment) Act, 2008, s. 50 (w.e.f. 27-10-2009).",
+      "chapter": "CHAPTER XIII"
+    }
+  },
+  "key_points": [
+    "Cheating by using computer resources is a punishable offense"
+  ],
+  "section_references": [
+    "Section 37-73"
+  ],
+  "pdf_extraction": {
+    "page_count": 36,
+    "extracted_page_count": 36,
+    "blank_pages": [],
+    "total_characters": 129596,
+    "full_text_extraction": true,
+    "parsed_section_count": 116,
+    "pages": [
+      {
+        "page": 1,
+        "characters": 1904
+      },
+      {
+        "page": 2,
+        "characters": 1869
+      },
+      {
+        "page": 3,
+        "characters": 2703
+      },
+      {
+        "page": 4,
+        "characters": 742
+      },
+      {
+        "page": 5,
+        "characters": 3367
+      },
+      {
+        "page": 6,
+        "characters": 3441
+      },
+      {
+        "page": 7,
+        "characters": 4103
+      },
+      {
+        "page": 8,
+        "characters": 3446
+      },
+      {
+        "page": 9,
+        "characters": 3762
+      },
+      {
+        "page": 10,
+        "characters": 4475
+      },
+      {
+        "page": 11,
+        "characters": 3792
+      },
+      {
+        "page": 12,
+        "characters": 3662
+      },
+      {
+        "page": 13,
+        "characters": 3633
+      },
+      {
+        "page": 14,
+        "characters": 3473
+      },
+      {
+        "page": 15,
+        "characters": 4176
+      },
+      {
+        "page": 16,
+        "characters": 3877
+      },
+      {
+        "page": 17,
+        "characters": 3499
+      },
+      {
+        "page": 18,
+        "characters": 3431
+      },
+      {
+        "page": 19,
+        "characters": 3670
+      },
+      {
+        "page": 20,
+        "characters": 4372
+      },
+      {
+        "page": 21,
+        "characters": 3921
+      },
+      {
+        "page": 22,
+        "characters": 3928
+      },
+      {
+        "page": 23,
+        "characters": 4137
+      },
+      {
+        "page": 24,
+        "characters": 3722
+      },
+      {
+        "page": 25,
+        "characters": 4314
+      },
+      {
+        "page": 26,
+        "characters": 4304
+      },
+      {
+        "page": 27,
+        "characters": 4697
+      },
+      {
+        "page": 28,
+        "characters": 4182
+      },
+      {
+        "page": 29,
+        "characters": 4114
+      },
+      {
+        "page": 30,
+        "characters": 3581
+      },
+      {
+        "page": 31,
+        "characters": 4565
+      },
+      {
+        "page": 32,
+        "characters": 4108
+      },
+      {
+        "page": 33,
+        "characters": 3189
+      },
+      {
+        "page": 34,
+        "characters": 3552
+      },
+      {
+        "page": 35,
+        "characters": 3591
+      },
+      {
+        "page": 36,
+        "characters": 1369
+      }
+    ]
+  },
+  "llm_processing": {
+    "model": "llama3.2:3b",
+    "mode": "numbered_section_indexing",
+    "section_count": 116,
+    "processed_section_characters": 113710,
+    "every_parsed_section_indexed": true
+  },
+  "source": {
+    "name": "Drishti Judiciary Bare Acts",
+    "url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306602_IT_Act_.pdf",
+    "catalog_url": "https://drishtijudiciary.com/downloads/general-bare-acts/criminal-law-bare-acts",
+    "category": "Criminal Law",
+    "listed_date": "18-Mar-2025",
+    "format": "pdf",
+    "content_sha256": "867195c629b9252c8b701f24f36ee4e2bf72bfed99470708f977e7f38b7428ea",
+    "collected_at": "2026-09-16T11:10:57Z"
+  },
+  "notice": "Each 'what' value is an LLM explanation of the corresponding extracted statutory section. Verify exact wording and current legal status against the downloaded PDF."
+}

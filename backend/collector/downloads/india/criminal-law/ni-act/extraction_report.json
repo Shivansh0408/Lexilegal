@@ -1,0 +1,151 @@
+{
+  "source_name": "Drishti Judiciary Bare Acts",
+  "source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306851_NI_Act.pdf",
+  "resolved_source_url": "https://vault.drishtijudiciary.com/english_file_uploads/1742306851_NI_Act.pdf",
+  "content_type": "application/pdf",
+  "content_sha256": "8ed837f0e7af1d9da6f88c040883f949be404d12f37931495a464a0dca380f82",
+  "downloaded_bytes": 4054014,
+  "collected_at": "2026-09-17T04:53:47Z",
+  "catalog_title": "NI Act",
+  "category": "Criminal Law",
+  "category_url": "https://drishtijudiciary.com/downloads/general-bare-acts/criminal-law-bare-acts",
+  "listed_date": "18-Mar-2025",
+  "extraction": {
+    "page_count": 32,
+    "extracted_page_count": 32,
+    "blank_pages": [],
+    "total_characters": 105047,
+    "full_text_extraction": true,
+    "parsed_section_count": 33,
+    "pages": [
+      {
+        "page": 1,
+        "characters": 750
+      },
+      {
+        "page": 2,
+        "characters": 1352
+      },
+      {
+        "page": 3,
+        "characters": 1612
+      },
+      {
+        "page": 4,
+        "characters": 1743
+      },
+      {
+        "page": 5,
+        "characters": 1369
+      },
+      {
+        "page": 6,
+        "characters": 1347
+      },
+      {
+        "page": 7,
+        "characters": 1329
+      },
+      {
+        "page": 8,
+        "characters": 3268
+      },
+      {
+        "page": 9,
+        "characters": 4251
+      },
+      {
+        "page": 10,
+        "characters": 3978
+      },
+      {
+        "page": 11,
+        "characters": 3866
+      },
+      {
+        "page": 12,
+        "characters": 4130
+      },
+      {
+        "page": 13,
+        "characters": 4143
+      },
+      {
+        "page": 14,
+        "characters": 4054
+      },
+      {
+        "page": 15,
+        "characters": 3731
+      },
+      {
+        "page": 16,
+        "characters": 4274
+      },
+      {
+        "page": 17,
+        "characters": 3933
+      },
+      {
+        "page": 18,
+        "characters": 3867
+      },
+      {
+        "page": 19,
+        "characters": 3982
+      },
+      {
+        "page": 20,
+        "characters": 3808
+      },
+      {
+        "page": 21,
+        "characters": 3902
+      },
+      {
+        "page": 22,
+        "characters": 4067
+      },
+      {
+        "page": 23,
+        "characters": 3847
+      },
+      {
+        "page": 24,
+        "characters": 3937
+      },
+      {
+        "page": 25,
+        "characters": 3786
+      },
+      {
+        "page": 26,
+        "characters": 3980
+      },
+      {
+        "page": 27,
+        "characters": 3893
+      },
+      {
+        "page": 28,
+        "characters": 4046
+      },
+      {
+        "page": 29,
+        "characters": 3939
+      },
+      {
+        "page": 30,
+        "characters": 3946
+      },
+      {
+        "page": 31,
+        "characters": 3853
+      },
+      {
+        "page": 32,
+        "characters": 243
+      }
+    ]
+  }
+}
