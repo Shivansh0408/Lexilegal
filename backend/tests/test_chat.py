@@ -44,6 +44,33 @@ class AnalysisDocumentTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             chat.analysis_documents({"analysis": {}}, Path("bad.json"))
 
+    def test_identity_question_uses_saved_party_role_without_generation(self):
+        analysis = {
+            "case_title": "State v. Arjun Mehra",
+            "parties": [
+                {"name": "Arjun Mehra", "role": "Accused", "description": "husband of the complainant"},
+                {"name": "Naina Mehra", "role": "Complainant", "description": ""},
+            ],
+        }
+        result = chat._identity_answer(analysis, "Who is Arjun Mehra?")
+        self.assertIsNotNone(result)
+        self.assertIn("Accused", result["answer"])
+        self.assertNotIn("judge", result["answer"].lower())
+
+    def test_previous_assistant_output_is_not_reused_as_evidence(self):
+        messages = chat._history_messages([
+            {"role": "user", "content": "Who is the accused?"},
+            {"role": "assistant", "content": "John Smith is the judge."},
+        ])
+        self.assertEqual(1, len(messages))
+        self.assertEqual("Who is the accused?", messages[0].content)
+
+    def test_unknown_person_is_not_invented(self):
+        analysis = {"case_title": "State v. Arjun Mehra", "parties": []}
+        result = chat._identity_answer(analysis, "Who is John Smith?")
+        self.assertIsNotNone(result)
+        self.assertIn("not available", result["answer"])
+
 
 class RagFacadeTests(unittest.TestCase):
     def test_saved_json_is_persisted_and_retrievable_in_chroma(self):
@@ -77,7 +104,7 @@ class RagFacadeTests(unittest.TestCase):
     def test_answer_is_delegated_to_rag_service(self, get_service):
         get_service.return_value.answer.return_value = {
             "answer": "The signature is disputed [Context 1].",
-            "source": "langchain_chroma_rag",
+            "source": "saved_analysis",
             "sources": [{"context": 1, "section": "evidence"}],
         }
         result = chat.answer_saved_analysis_question(
@@ -86,7 +113,7 @@ class RagFacadeTests(unittest.TestCase):
             "Was the signature accepted?",
             [{"role": "user", "content": "Tell me about the seizure memo."}],
         )
-        self.assertEqual("langchain_chroma_rag", result["source"])
+        self.assertEqual("saved_analysis", result["source"])
         get_service.return_value.answer.assert_called_once()
 
     @patch("backend.core.chat.get_rag_service")
@@ -104,7 +131,7 @@ class ChatRouteTests(unittest.TestCase):
 
         answer.return_value = {
             "answer": "Curated RAG answer",
-            "source": "langchain_chroma_rag",
+            "source": "saved_analysis",
             "retrieval_query": "disputed signature seizure memo",
             "sources": [],
         }
@@ -120,7 +147,7 @@ class ChatRouteTests(unittest.TestCase):
             content_type="application/json",
         )
         self.assertEqual(200, response.status_code)
-        self.assertEqual("langchain_chroma_rag", response.get_json()["source"])
+        self.assertEqual("saved_analysis", response.get_json()["source"])
 
     @patch("backend.app.index_saved_analysis", return_value=3)
     @patch("backend.app.answer_saved_analysis_question", side_effect=chat.RagError("Ollama unavailable"))

@@ -1,4 +1,4 @@
-"""LangChain + Chroma RAG chatbot over persisted case-analysis JSON files."""
+"""Grounded chatbot over persisted case-analysis JSON files."""
 
 from __future__ import annotations
 
@@ -6,6 +6,7 @@ import hashlib
 import json
 import logging
 import os
+import re
 import threading
 from datetime import datetime, timezone
 from pathlib import Path
@@ -13,7 +14,7 @@ from typing import Iterable
 
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
-from langchain_core.messages import AIMessage, HumanMessage
+from langchain_core.messages import HumanMessage
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama import ChatOllama, OllamaEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -26,6 +27,17 @@ MANIFEST_PATH = DATA_DIR / "rag_manifest.json"
 COLLECTION_NAME = "lexbrief_saved_analyses"
 _SERVICE = None
 _SERVICE_LOCK = threading.Lock()
+
+_IDENTITY_QUESTION = re.compile(
+    r"\b(?:who\s+is|who's|identify|tell\s+me\s+about|role\s+of|what\s+is\s+the\s+role\s+of)\b",
+    re.IGNORECASE,
+)
+_SEARCH_STOP_WORDS = {
+    "about", "after", "against", "analysis", "and", "are", "case", "could", "did", "does",
+    "evidence", "explain", "for", "from", "has", "have", "how", "into", "is", "its", "legal",
+    "me", "of", "on", "or", "saved", "tell", "that", "the", "their", "this", "to", "was",
+    "were", "what", "when", "where", "which", "who", "why", "with", "would",
+}
 
 
 class RagError(RuntimeError):
@@ -62,6 +74,12 @@ def _message_text(message) -> str:
 
 
 def _history_messages(history: Iterable[dict], maximum: int = 8):
+    """Return user-authored history only.
+
+    Prior assistant output is deliberately excluded because an earlier mistaken
+    answer must never become evidence for a later answer.
+    """
+
     messages = []
     for item in list(history)[-maximum:]:
         if not isinstance(item, dict):
@@ -72,9 +90,119 @@ def _history_messages(history: Iterable[dict], maximum: int = 8):
             continue
         if role == "user":
             messages.append(HumanMessage(content=content))
-        elif role == "assistant":
-            messages.append(AIMessage(content=content))
     return messages
+
+
+def _normalise_text(value: object) -> str:
+    return re.sub(r"\s+", " ", str(value or "")).strip()
+
+
+def _party_records(analysis: dict) -> list[dict]:
+    """Return de-duplicated party records without changing the saved analysis."""
+
+    grouped: dict[str, dict] = {}
+    for item in analysis.get("parties", []):
+        if not isinstance(item, dict):
+            continue
+        name = _normalise_text(item.get("name"))
+        if not name:
+            continue
+        key = name.casefold()
+        party = grouped.setdefault(key, {"name": name, "roles": [], "descriptions": []})
+        role = _normalise_text(item.get("role"))
+        description = _normalise_text(item.get("description"))
+        if role and role.casefold() not in {value.casefold() for value in party["roles"]}:
+            party["roles"].append(role)
+        if description and description.casefold() not in {
+            value.casefold() for value in party["descriptions"]
+        }:
+            party["descriptions"].append(description)
+    return list(grouped.values())
+
+
+def _identity_answer(analysis: dict, question: str) -> dict | None:
+    """Answer direct person-identity questions from the parties field, without generation."""
+
+    if not _IDENTITY_QUESTION.search(question):
+        return None
+
+    folded_question = question.casefold()
+    matches = [party for party in _party_records(analysis) if party["name"].casefold() in folded_question]
+    if not matches:
+        candidate_match = re.search(
+            r"(?i:who\s+is|who's|identify|tell\s+me\s+about)\s+"
+            r"([A-Z][\w'-]+(?:\s+[A-Z][\w'-]+){1,3})",
+            question,
+        )
+        if candidate_match:
+            candidate = _normalise_text(candidate_match.group(1))
+            saved_text = json.dumps(analysis, ensure_ascii=False).casefold()
+            if candidate.casefold() not in saved_text:
+                return {
+                    "answer": f"That information is not available in the saved analysis. It does not identify {candidate}.",
+                    "source": "saved_analysis",
+                    "retrieval_query": question,
+                    "indexed_chunks": 0,
+                    "sources": [],
+                }
+        return None
+
+    party = max(matches, key=lambda item: len(item["name"]))
+    case_title = _normalise_text(analysis.get("case_title")) or "the saved case"
+    roles = party["roles"]
+    role_text = " / ".join(roles) if roles else "a party whose role is not specified"
+    sentence = f"{party['name']} is identified in the saved analysis as {role_text} in {case_title}."
+    if party["descriptions"]:
+        sentence += f" The record describes {party['name']} as {'; '.join(party['descriptions'])}."
+    return {
+        "answer": sentence,
+        "source": "saved_analysis",
+        "retrieval_query": question,
+        "indexed_chunks": 0,
+        "sources": [{
+            "context": 1,
+            "section": "parties",
+            "json_path": "analysis.parties",
+        }],
+    }
+
+
+def _identity_context(analysis: dict) -> str:
+    parties = _party_records(analysis)
+    lines = [f"Case title: {_normalise_text(analysis.get('case_title')) or 'Not specified'}"]
+    for party in parties:
+        roles = ", ".join(party["roles"]) or "role not specified"
+        descriptions = "; ".join(party["descriptions"])
+        line = f"- {party['name']}: {roles}"
+        if descriptions:
+            line += f" ({descriptions})"
+        lines.append(line)
+    return "\n".join(lines)
+
+
+def _search_terms(value: str) -> set[str]:
+    return {
+        token for token in re.findall(r"[a-z0-9][a-z0-9'-]+", value.casefold())
+        if len(token) > 2 and token not in _SEARCH_STOP_WORDS
+    }
+
+
+def _prefer_lexically_relevant(documents: list[Document], query: str) -> list[Document]:
+    """Discard unrelated tail chunks when at least one retrieved chunk has direct term overlap."""
+
+    query_terms = _search_terms(query)
+    if not query_terms:
+        return documents
+    scored = []
+    for position, document in enumerate(documents):
+        overlap = len(query_terms & _search_terms(document.page_content))
+        if overlap:
+            scored.append((overlap, -position, document))
+    if not scored:
+        return documents
+    scored.sort(reverse=True, key=lambda item: (item[0], item[1]))
+    maximum = max(2, min(8, int(os.getenv("RAG_RETRIEVAL_K", "6"))))
+    return [item[2] for item in scored[:maximum]]
 
 
 def _json_value_text(value: object) -> str:
@@ -206,8 +334,8 @@ class SavedAnalysisRagService:
                 self._vectorstore.add_documents(documents=documents, ids=ids)
             except Exception as exc:
                 raise RagError(
-                    f"Chroma indexing failed. Confirm Ollama is running and the embedding model "
-                    f"'{self._embedding_model}' is installed. Details: {exc}"
+                    "Saved-analysis search preparation failed. Confirm the configured local embedding model "
+                    f"is available. Details: {exc}"
                 ) from exc
 
             manifest[manifest_key] = {
@@ -267,7 +395,7 @@ class SavedAnalysisRagService:
             return question
 
     def _retrieve(self, scope: str, query: str) -> list[Document]:
-        count = max(3, min(20, int(os.getenv("RAG_RETRIEVAL_K", "10"))))
+        count = max(3, min(12, int(os.getenv("RAG_RETRIEVAL_K", "6"))))
         fetch_k = max(count, min(60, int(os.getenv("RAG_FETCH_K", "30"))))
         try:
             retriever = self._vectorstore.as_retriever(
@@ -279,9 +407,9 @@ class SavedAnalysisRagService:
                     "filter": {"scope": scope},
                 },
             )
-            return retriever.invoke(query)
+            return _prefer_lexically_relevant(retriever.invoke(query), query)
         except Exception as exc:
-            raise RagError(f"Chroma retrieval failed: {exc}") from exc
+            raise RagError(f"Saved-analysis retrieval failed: {exc}") from exc
 
     def answer(
         self,
@@ -290,6 +418,11 @@ class SavedAnalysisRagService:
         question: str,
         history: Iterable[dict] = (),
     ) -> dict:
+        analysis = load_saved_analysis(pipeline, document_id)
+        direct_identity = _identity_answer(analysis, question)
+        if direct_identity is not None:
+            return direct_identity
+
         chunk_count = self.index_analysis(pipeline, document_id)
         scope = f"{pipeline}:{document_id}"
         retrieval_query = self._rewrite_query(question, history)
@@ -321,41 +454,41 @@ class SavedAnalysisRagService:
         answer_prompt = ChatPromptTemplate.from_messages([
             (
                 "system",
-                "You are LexBrief's saved-analysis RAG assistant. Understand the user's actual question and "
-                "stitch a clear, curated answer using ONLY the retrieved saved-analysis context. Combine related "
-                "facts across chunks, remove repetition, preserve the difference between allegations, disputed "
-                "facts, supported material, missing information, and strategy options. Never add outside legal "
-                "knowledge, invent facts, decide guilt, or claim a law applies unless the retrieved analysis says "
-                "so. If retrieval does not contain the answer, state that it is not available in the saved "
-                "analysis. When useful, cite retrieved blocks as [Context 1], [Context 2]. Answer the question "
-                "directly and use concise headings or bullets only when they improve clarity."
+                "You answer questions about exactly one saved legal analysis. Use ONLY the authoritative identity "
+                "list and retrieved context supplied in the current request. Chat history and model memory are not "
+                "evidence. Never introduce a person, case name, case number, date, event, or relationship that is "
+                "absent from that material. The authoritative identity list controls every person's role; never "
+                "turn an accused, complainant, lawyer, or witness into a judge or presiding officer. Do not add "
+                "example or hypothetical cases. Preserve whether a statement is alleged, disputed, supported, or "
+                "missing. If the supplied material does not answer the question, say exactly: 'That information "
+                "is not available in the saved analysis.' Do not guess. Cite blocks as [Context 1] only when useful."
             ),
-            ("placeholder", "{history}"),
             (
                 "human",
+                "Authoritative case identities (higher priority than all retrieved text):\n{identity_context}\n\n"
                 "Original question:\n{question}\n\nRetrieval query used:\n{retrieval_query}\n\n"
                 "Retrieved saved-analysis context:\n{context}",
             ),
         ])
         try:
             response = (answer_prompt | self._llm).invoke({
-                "history": _history_messages(history),
+                "identity_context": _identity_context(analysis),
                 "question": question,
                 "retrieval_query": retrieval_query,
                 "context": "\n\n".join(context_blocks),
             })
         except Exception as exc:
             raise RagError(
-                f"Llama could not generate the RAG answer. Confirm Ollama is running and model "
-                f"'{self._chat_model}' is installed. Details: {exc}"
+                "The local answer service could not generate a response. Confirm the configured local models "
+                f"are available. Details: {exc}"
             ) from exc
 
         answer = _message_text(response)
         if not answer:
-            raise RagError("Llama returned an empty RAG answer.")
+            raise RagError("The local answer service returned an empty response.")
         return {
             "answer": answer,
-            "source": "langchain_chroma_rag",
+            "source": "saved_analysis",
             "retrieval_query": retrieval_query,
             "indexed_chunks": chunk_count,
             "sources": sources,
@@ -396,6 +529,10 @@ def answer_saved_analysis_question(
     history: Iterable[dict] = (),
 ) -> dict:
     try:
+        analysis = load_saved_analysis(pipeline, document_id)
+        direct_identity = _identity_answer(analysis, question)
+        if direct_identity is not None:
+            return direct_identity
         return get_rag_service().answer(pipeline, document_id, question, history)
     except (RagError, ValueError, FileNotFoundError):
         raise

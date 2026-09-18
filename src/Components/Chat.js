@@ -52,8 +52,8 @@ function Chat({ activeRole }) {
           [pipeline]: [{
             role: 'assistant',
             content: detail.ragIndexed
-              ? `The ${pipeline} analysis is indexed in ChromaDB. Ask me anything contained in the saved analysis.`
-              : `The ${pipeline} analysis is saved. RAG indexing will retry when you ask a question. Make sure Ollama and nomic-embed-text are available.`,
+              ? `The ${pipeline} analysis is ready. Ask me anything contained in the saved analysis.`
+              : `The ${pipeline} analysis is saved. Search preparation will retry when you ask a question.`,
           }],
         }));
         setError('');
@@ -159,7 +159,6 @@ function Chat({ activeRole }) {
             {messages.map((message, index) => (
               <div className={`chat-message ${message.role}`} key={`${message.role}-${index}`}>
                 <p>{message.content}</p>
-                {message.source === 'langchain_chroma_rag' && <span>LangChain · Chroma · Llama</span>}
               </div>
             ))}
             {loading && <div className="chat-message assistant typing"><i /><i /><i /></div>}
@@ -188,7 +187,7 @@ function Chat({ activeRole }) {
               <SendIcon />
             </button>
           </form>
-          <p className="chat-disclaimer">RAG answers use retrieved saved-analysis JSON only. Verify against the source file.</p>
+          <p className="chat-disclaimer">Answers use the selected saved analysis only. Verify against the source file.</p>
         </section>
       )}
 
